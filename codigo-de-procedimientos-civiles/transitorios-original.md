@@ -916,7 +916,8 @@ De los juicios sumarios.
 Reglas generales
 ART. 429.- Se tramitarán sumariamente:
 I.- (DEROGADA, P.O. 10 DE AGOSTO DE 1985)
-II.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
+(REFORMADO [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2004)
+II.- Los juicios sobre rectificación de actas del estado civil;
 III.- Los juicios que versen sobre cualquiera cuestión relativa a los contratos de arrendamiento o alquiler, depósito y comodato, aparcería, transportes y hospedajes;
 IV.- Los juicios que tengan por objeto la firma de una escritura, la elevación de minuta a instrumento público, o el otorgamiento del documento y el caso del artículo 2,123 del Código Civil;
 V.- Los cobros judiciales de honorarios debidos a peritos y a los abogados, médicos, notarios, ingenieros y demás personas que ejerzan una profesión mediante título expedido por autoridad competente;
@@ -1614,7 +1615,8 @@ Pasado que sea el término para alegar, serán citadas las partes para sentencia
 ART. 712.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 713.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 714.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-ART. 715.- La revisión de las sentencias recaídas en los juicios sobre rectificación de actas del estado civil, y sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+(REFORMADO, P.O. 8 DE MAYO DE 2004)
+ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 CAPITULO II
 De la apelación extraordinaria
 ART. 716.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
