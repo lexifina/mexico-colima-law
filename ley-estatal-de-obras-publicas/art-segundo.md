@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se deroga la Ley de Obras Públicas Estatal, aprobada mediante Decreto número 168, de fecha 16 de agosto de 1984 y publicada en el Periódico Oficial el 1º de septiembre del mismo año.

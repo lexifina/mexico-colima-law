@@ -1,0 +1,1 @@
+ARTICULO TERCERO.- Las disposiciones administrativas expedidas en esta materia vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
