@@ -1,0 +1,10 @@
+LEY PARA LA PRESTACION DEL SERVICIO DE AGUA POTABLE Y DRENAJE PARA EL MUNICIPIO DE MANZANILLO, COLIMA
+Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 9 de agosto de 1980.
+GRISELDA ALVAREZ, Gobernadora Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente Decreto.
+EL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, DE CONFORMIDAD CON LAS FACULTADES QUE LE CONFIERE EL ARTICULO 33 FRACCION SEGUNDA DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y
+.
+Por lo anteriormente expuesto ha tenido a bien expedir el siguiente
+D E C R E T O No. 60
+LEY PARA LA PRESTACION DEL SERVICIO DE AGUA POTABLE Y DRENAJE PARA EL MUNICIPIO DE MANZANILLO, COLIMA.
+DISPOSICIONES GENERALES.
