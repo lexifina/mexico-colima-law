@@ -5,3 +5,4 @@ C. Agustín Martell Valencia, Diputado Presidente.- Rúbrica.- C. Rubén Vélez 
 Por lo tanto mando se imprima publique, circule y observe.
 Dado en Palacio de Gobierno a los 10 días del mes de enero de 2003.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.-
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO:
