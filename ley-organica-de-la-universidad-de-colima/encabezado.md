@@ -1,0 +1,8 @@
+LEY ORGANICA DE LA UNIVERSIDAD DE COLIMA
+Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 22 de noviembre de 1980.
+GRISELDA ALVAREZ, Gobernadora Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente Decreto:
+EL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, DE CONFORMIDAD CON LAS FACULTADES QUE LE CONFIERE EL ARTICULO 33, FRACCION II, DE LA CONSTITUCION POLITICA ESTATAL, EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
+DECRETO No. 76
+LEY ORGANICA DE LA UNIVERSIDAD DE COLIMA
+DE SU NATURALEZA, FINES Y MEDIOS.
