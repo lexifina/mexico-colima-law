@@ -10,3 +10,4 @@ C. Roberto Alcaraz Andrade, Diputado Presidente. Rúbrica. C. Rubén Vélez More
 Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 30 días del mes de marzo del año dos mil uno.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
