@@ -1,0 +1,1 @@
+Artículo 44.- El Gobernador podrá nombrar un representante para que sin voto, asista a las sesiones con obJeto (sic) de apoyar las observaciones que hiciere a las iniciativas de ley o Decreto y para sostener las que procedieren de él, a cuyo efecto se le dará oportuno aviso del día de la discusión.
