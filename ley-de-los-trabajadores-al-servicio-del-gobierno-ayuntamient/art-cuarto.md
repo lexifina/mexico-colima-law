@@ -1,0 +1,1 @@
+ARTICULO CUARTO.- El Tribunal deberá quedar integrado de acuerdo a la nueva estructura prevista por esta Ley, a más tardar treinta días después de haber iniciado su vigencia dicho ordenamiento. Los asuntos pendientes serán resueltos conforme a la Ley anterior.

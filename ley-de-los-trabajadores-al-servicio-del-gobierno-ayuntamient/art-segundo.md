@@ -1,0 +1,1 @@
+ARTICULO SEGUNDO.- Se abroga la Ley de los Trabajadores al Servicio del Gobierno y Ayuntamientos del Estado de Colima, expedida el 4 de agosto de 1972 y publicada el 19 del mismo mes y año; así como todas las disposiciones que se opongan al presente ordenamiento.

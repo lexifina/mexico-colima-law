@@ -1,0 +1,1 @@
+ARTICULO QUINTO.- Las comisiones mixtas previstas por esta Ley, deberán estar integradas en un plazo no mayor de tres meses, a partir de la vigencia de la presente Ley. Sus reglamentos deberán estar expedidos noventa días después de su integración.
