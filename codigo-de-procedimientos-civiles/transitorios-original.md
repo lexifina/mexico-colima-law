@@ -1650,7 +1650,8 @@ ART. 811.- La declaración de herederos de un intestado surte el efecto de tener
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 ART. 812.- Después de los plazos a que se refieren los artículos 807 y 808 no serán admitidos los que se presenten deduciendo derechos hereditarios, pero les queda a salvo su derecho para que lo hagan valer en los términos de la ley, contra los que fueren declarados herederos.
 ART. 813.- Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, debiendo rendirle cuentas al interventor, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil.
-ART. 814.- Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredera a la Beneficencia Pública.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 1962)
+ART. 814.- Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos, o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredero al Fisco del Estado representado por el Ministerio Público.
 CAPITULO IV
 Del inventario y avalúo
 ART. 815.- Dentro de diez días de haber aceptado su cargo, el albacea debe proceder a la formación de inventarios y avalúos, dando aviso al juzgado para los efectos del artículo 818, y dentro de los sesenta días de la misma fecha deberá presentarlos.
