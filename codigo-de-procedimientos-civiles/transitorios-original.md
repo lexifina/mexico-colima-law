@@ -1870,8 +1870,9 @@ Si en la primera almoneda no hubiere postor, el juez convocará, a solicitud del
 ART. 917.- Para la venta de acciones y títulos de renta se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en plaza el día de la venta y por conducto del corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
 ART. 918.- El precio de la venta se entregará al tutor si las fianzas o garantías prestadas son suficientes para responder de él. De otra manera, se depositará en el establecimiento destinado al efecto.
 El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
-ART. 919.- Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejercen la patria potestad autorización judicial en los mismos términos que los señalados en el artículo 915. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias. La base de la primera almoneda, si es bien raíz, será el precio fijado por los peritos y la postura legal no será menor de los dos tercios de ese precio.
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derecho reales.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1958)
+ART. 919.- Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 915. El incidente se sustanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el Juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
+También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo a las disposiciones del párrafo anterior, para obtenerla.
 ART. 920.- Para recibir dinero prestado en nombre del menor o incapacitado necesita el tutor la conformidad del curador y del consejo de tutelas y después, de la autorización judicial.
 ART. 921.- Lo dispuesto en los artículos que precedan se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes menores e incapacitados.
 CAPITULO IV
@@ -2038,3 +2039,4 @@ Dado en el Palacio de los Poderes del Estado a 30 de abril de 1954.
 GRAL. DE DIV. JESUS GONZALEZ LUGO.
 ALFREDO RUISECO AVELLANEDA.
 Secretario Gral. de Gobierno.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.

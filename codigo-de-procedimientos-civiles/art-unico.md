@@ -63,7 +63,7 @@ Capítulo V.- De la vía de apremio
 SECCION I.- De la ejecución de sentencia
 SECCION II.- De los embargos
 SECCION III.- De los remates
-SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero
+SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas pro los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero
 TITULO OCTAVO.- Del Juicio Arbitral.- Reglas Generales
 TITULO NOVENO.- De los juicios en rebeldía
 Capítulo I.- Procedimiento estando ausente el rebelde
