@@ -2,7 +2,7 @@ Artículos Transitorios.
 Artículo 1.- Esta Constitución comenzará a regir el día primero de septiembre del presente año.
 Artículo 2.- El actual Poder Legislativo durará en su ejercicio hasta el quince de septiembre de mil novecientos dieciocho; el Ejecutivo hasta el treinta y uno de octubre de mil novecientos diecinueve y el Judicial hasta el treinta y uno de agosto del mismo año.
 Artículo 3.- Todos los Funcionarios y Empleados nombrados por el Gobierno Provisional, a quienes no se les haya confirmado Constitucionalmente su nombramiento, cesarán en el desempeño de sus funciones o empleos, el día primero de Septiembre próximo venidero y harán entrega a los nuevamente nombrados.
-Artículo 4.- El artículo 75 de la presente Constitución comenzará a regir desde el año de 1923; y entretanto, los Magistrados y Jueces durarán en su encargo dos años, pudiendo ser nombrados nuevamente, y removidos por las causas y en los términos que establece el capítulo relativo a la responsabilidad de los funcionarios públicos. Cuando los Magistrados y Jueces fueren nombrados con el carácter de interinos, podrán ser removidos libremente.
+Artículo 4.- (DEROGADO, P.O. 4 DE OCTUBRE DE 1924)
 Artículo 5.- Los Magistrados que se nombren para entrar a funcionar el día primero de septiembre próximo, pueden por esta sola vez, no llenar el requisito de edad a que se refiere la fracción II del artículo 69 de la Constitución, bastando que sean mayores de veintiún años.
 Artículo 6.- El Artículo 144 de esta Constitución comenzará a surtir sus efectos desde el año de 1920.
 Artículo 7.- Entretanto se fija y organiza convenientemente la división y administración Municipal y se asignan de una manera definitiva los adbitrios (sic) que correspondan a los Ayuntamientos, el superávit que resulte en el presupuesto de ingresos de los mismos mensualmente se entregará a la Dirección General del Estado y esta Oficina queda obligada a ministrar a los Ayuntamientos que no alcanzaren a cubrir sus Egresos, las cantidades que sean necesarias.
@@ -18,3 +18,4 @@ Es copia fiel compulsada de su original.- Colima, Agosto 31 de 1917.
 M. Fernández, D.P.- Clemente Ramírez, D.S.- Leonardo Yáñez Centeno, D.S. Int.°
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.- Palacio del Gobierno del Estado.- Colima, Septiembre 1o. de 1917.
 J.F. Valle.- Ramón Ahumada, Srio.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
