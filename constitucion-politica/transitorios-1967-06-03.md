@@ -1,3 +1,0 @@
-P.O. 3 DE JUNIO DE 1967.
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
-ARTICULO PRIMERO.- La presente Reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.

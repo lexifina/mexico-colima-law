@@ -1,3 +1,0 @@
-P.O. 24 DE DICIEMBRE DE 1983.
-ARTICULO PRIMERO.- Los Diputados que se aumentan en la presente reforma Constitucional, empezarán a desempeñar sus funciones a partir del primero de octubre de 1985; y a partir del primero de enero de 1986 los Regidores Electos mediante el principio de votación mayoritaria relativa, así como los Electos según el principio de representación proporcional, pudiendo participar en las Elecciones previas que se celebren conforme a la Ley de la materia.
-ARTICULO SEGUNDO.- El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial El Estado de Colima.
