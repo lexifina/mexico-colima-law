@@ -20,7 +20,7 @@ ART. 8º.- No pueden reivindicarse las cosas que están fuera del comercio; los 
 ART. 9º.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 10.- Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble "o" la demolición de obras o señales que importen gravámenes, la tildación o anotación en el registro Público de la Propiedad y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
-ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravámen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
+ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 ART. 12.- Se intentará la acción hipotecaria para constituir, ampliar y registrar una hipoteca, o bien para obtener el pago o prelación del crédito que la hipoteca garantice. Procederá contra el poseedor a título de dueño del fundo hipotecado y, en su caso, contra los otros acreedores. Cuando después de fijada y registrada la cédula hipotecaria y contestada la demanda cambiare el dueño y poseedor jurídico el predio, con éste continuará el juicio.
 ART. 13.- La petición de herencia se deducirá por el heredero testamentario o ab-intestato, por el que haga sus veces en la disposición testamentaria; y se da contra el albacea o contra el poseedor de las cosas hereditarias con el carácter de heredero o cesionario de éste y contra el que no alega título ninguno de posesión de bien hereditario o dolosamente dejó de poseerlo.
 ART. 14.- La petición de herencia se ejercitará para que sea declarado heredero el demandante, se le haga entrega de los bienes hereditarios con sus accesiones, sea indemnizado y le rindan cuentas.
@@ -2077,18 +2077,31 @@ ART. 920.- Para recibir dinero prestado en nombre del menor o incapacitado neces
 ART. 921.- Lo dispuesto en los artículos que precedan se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes menores e incapacitados.
 CAPITULO IV
 Adopción
-ART. 922.- El que pretenda adoptar a alguna persona deberá acreditar:
-I.- Que es mayor de treinta años y que tiene, por lo menos diecisiete años más de edad que la persona que trata de adoptar;
-II.- Que no tiene descendientes;
-III.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptarse;
-IV.- Que la adopción es benéfica para la persona que trata de adoptarse;
-V.- Que es el adoptante persona de buenas costumbres.
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado, y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela o de las personas o institución de beneficencia que la hayan acogido.
-ART. 923.- Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 397 y 398 del Código Civil, el tribunal resolverá dentro del tercer día.
-ART. 924.- Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 407 del Código Civil.
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaren para la adopción y sin oír al representante del Ministerio Público.
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
-ART. 925.- La impugnación de la adopción y su revocación, en los casos de los artículos 394 y 405, fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
+ART. 922.- El que pretenda adoptar deberá acreditar los requisitos señalados por los artículos 390 y 391 del Código Civil, debiéndose observar lo siguiente:
+I.- En la promoción inicial se deberá manifestar:
+a).- El tipo de adopción que se promueve;
+b).- El nombre, edad y si lo hubiere domicilio del menor o incapacitado que se pretende adoptar;
+c).- El nombre, edad y domicilio de quienes en su caso, ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido;
+d).- Acompañar certificado médico de buena salud el promovente; y
+e).- Constancia de no haber sido sentenciado por delito intencional.
+Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Estatal para el Desarrollo Integral de la Familia (DIF), directamente o por quien éste autorice;
+II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el presunto adoptante o la institución según sea el caso, recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 444, fracción IV, del Código Civil;
+III.- Si hubiere transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo;
+IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello fuere aconsejable a criterio del juez.
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan sobre él la patria potestad, para promover la adopción en cualquiera de sus formas, no se requerirá que transcurra el plazo de seis meses a que se refiere este artículo; y
+V.- Tratándose de extranjeros, deberán acreditar su legal estancia o residencia en el país.
+Los extranjeros con residencia en otro país, deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen, que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en el país del promovente; autorización de la Secretaría de Gobernación para internarse y permanecer en México con la finalidad de realizar una adopción.
+La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial y estar apostillada o legalizada por el Cónsul mexicano.
+(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
+ART. 923.- Presentadas las constancias que exige el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme al Código Civil, el juez de lo familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
+(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
+ART. 924.- Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el juez los citará a una audiencia verbal y dentro de los tres días siguientes, resolverá conforme a lo dispuesto por el artículo 407 del Código Civil.
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
+Para acreditar cualquier hecho relativo a la revocación de la adopción, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 404 del Código Civil, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público.
+(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
+ART. 925.- Los procedimientos de revocación o impugnación de la adopción simple a que se refieren los artículos 394 y 405, fracciones II y III, del Código Civil, se seguirán por la vía sumaria, en los términos del artículo 431 de este Código.
 CAPITULO V
 De las informaciones ad perpetuam
 ART. 926.- La información ad perpetuam podrá decretarse cuando no tenga interés más que el promovente y se trate:
