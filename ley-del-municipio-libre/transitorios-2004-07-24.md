@@ -1,0 +1,4 @@
+P.O. 24 DE JULIO DE 2004.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+SEGUNDO.- La revisión y fiscalización de la cuenta pública municipal correspondiente al ejercicio fiscal 2003, se sujetará a las bases y disposiciones constitucionales del sistema anual de rendición de cuentas establecidas antes de la presente reforma.
+TERCERO.- Para el caso de la aprobación por el Cabildo y su remisión al Congreso del dictamen de revisión de los resultados de la cuenta pública, correspondiente al primer semestre del 2004, por única vez se amplía el plazo al 31 de agosto de 2004. Sujetándose la Contaduría Mayor de Hacienda y el Congreso del Estado para su revisión y fiscalización a la fecha establecida en el artículo 33 fracción XI de la Constitución local.
