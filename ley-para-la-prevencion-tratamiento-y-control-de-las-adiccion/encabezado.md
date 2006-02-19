@@ -1,0 +1,11 @@
+LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
+Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
+DECRETO No. 330
+POR EL QUE SE APRUEBA LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA.
+LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
+D E C R E T O
+HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
+...
+Por lo antes expuesto se tiene a bien expedir el siguiente:
+D E C R E T O No. 330
