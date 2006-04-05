@@ -27,7 +27,7 @@ ART. 14.- La petición de herencia se ejercitará para que sea declarado hereder
 ART. 15.- El comunero puede deducir las acciones relativas a la cosa común, en calidad de dueño, salvo pacto en contrario, o ley especial. No puede, sin embargo, transigir ni comprometer en árbitros el negocio, sin consentimiento unánime de los demás condueños.
 ART. 16.- Al perturbarlo en la posesión jurídica o derivada de un bien inmueble compete el interdicto de retener la posesión contra el perturbador, el que mandó tal perturbación o contra el que a sabiendas y directamente se aproveche de ella, y contra el sucesor del despojante. El objeto de esta acción es poner término a la perturbación, indemnizar al poseedor y que el demandado afiance no volver a perturbar y sea conminado con multa o arresto para el caso de reincidencia.
 La procedencia de esta acción requiere: que la perturbación consista en actos preparatorios tendientes directamente a la usurpación violenta o a impedir el ejercicio del derecho; que se reclame dentro de un año y el poseedor no haya obtenido la posesión de su contrario por fuerza, clandestinamente o a ruegos.
-ART. 17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituído y le compete la ación de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y a la vez conminarlo con multa y arresto para el caso de reincidencia.
+ART. 17.- El que es despojado de la posesión jurídica o derivada de un bien inmueble, debe ser ante todo restituído y le compete la acción de recobrar contra el despojador, contra el que ha mandado el despojo, contra el que a sabiendas y directamente se aprovecha del despojo y contra el sucesor del despojante. Tiene por objeto reponer al despojado en la posesión, indemnizarlo de los daños y perjuicios, obtener del demandado que afiance su abstención y a la vez conminarlo con multa y arresto para el caso de reincidencia.
 ART. 18.- La acción de recuperar la posesión se deducirá dentro del año siguiente a los actos violentos o vías de hecho causantes del despojo. No procede en favor de aquel que, con relación al demandado, poseía clandestinamente, por la fuerza o a ruego, pero si contra el propietario despojante que transfirió el uso y aprovechamiento de la cosa por medio de contrato.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 19.- Al poseedor del predio o derecho real sobre él compete la acción para suspender la conclusión de una obra perjudicial a sus posesiones, su demolición o modificación, en su caso, y la restitución de las cosas al estado anterior a la obra nueva. Compete también al vecino del lugar cuando la obra nueva se construye en bienes de uso común.
@@ -60,7 +60,8 @@ III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la a
 ART. 33.- Las acciones duran lo que la obligación que representan, menos en los casos en que la ley señala distintos plazos.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 34.- Intentada la acción y fijados los puntos cuestionados, no podrán modificarse ni alterarse, salvo en los casos en que la Ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obligan al que lo hizo a pagar las costas y daños y perjuicios a la contraparte, salvo convenio en contrario "o de que el desistimiento se haya producido antes del emplazamiento de la demanda".
-La acción ejercitada en juicio caducará en el término de un año en primera instancia o de seis meses en segunda instancia, contados por días naturales, si dentro de dichos términos las partes no promueven la normal consecución de la misma.
+(REFORMADO, P.O. 4 DE ABRIL DE 2006)
+La caducidad operara en el término de un año en primera instancia o de seis meses en segunda instancia, contados por días naturales, si dentro de dichos términos las partes no promueven la normal consecución de la misma.
 CAPITULO II
 De las excepciones
 (REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 1985)
@@ -120,7 +121,7 @@ ART. 63.- Dentro de los tres días de haberse hecho saber una corrección discip
 ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren festivos.
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
 Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
-(REFORMADO [ N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)
 En las diligencias o actuaciones en materia familiar, que se practiquen fuera del juzgado, se observará lo dispuesto por el artículo 14 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 ART. 65.- Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria si lo pidiere.
@@ -1453,8 +1454,8 @@ Para la ejecución de autos y decretos se acudirá también al juez de Primera I
 Si hubiere lugar a algún recurso que fuere admisible, lo admitirá el juez que recibió los autos y remitirá éstos al Supremo Tribunal, sujetándose en todos sus procedimientos a lo dispuesto para los juicios comunes.
 ART. 632.- Es competente para todos los actos relativos al juicio arbitral en lo que se refiera a jurisdicción que no tenga el árbitro, y para la ejecución de la sentencia y admisión de recursos, el juez designado en el compromiso; a falta de éste, el del lugar del tribunal de arbitraje; y si hubiere varios jueces, el de número más bajo.
 ART. 633.- Los jueces ordinarios están obligados a impartir el auxilio de su jurisdicción a los árbitros.
-ART. 634.- La apelación sólo será admisible conforme a las reglas del derecho común.
-Contra las resoluciones del árbitro designado por el juez cabe el amparo de garantías conforme a las leyes respectivas.
+(REFORMADO, P.O. 4 DE ABRIL DE 2006)
+ART. 634.- La apelación sólo será en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 ART. 635.- El juez debe compeler a los árbitros a cumplir con sus obligaciones.
 TITULO NOVENO
 De los juicios de rebeldía
@@ -1504,7 +1505,7 @@ ART. 654.- Las tercerías coadyuvantes pueden oponerse en cualquier juicio, sea 
 ART. 655.- Los terceros coadyuvantes se consideran asociados con la parte cuyo derecho coadyuvan y, en consecuencia, podrán:
 I.- Salir al pleito en cualquier estado en que se encuentre, con tal de que no se haya pronunciado sentencia que cause ejecutoria;
 II.- Hacer las gestiones que estimen oportunas dentro del juicio, siempre que no deduciendo la misma acción u oponiendo la misma excepción que actor o reo, respectivamente, no hubieren designado representante común;
-III.- Continuar su ación y defensa aun cuando el principal desistiere;
+III.- Continuar su acción y defensa aun cuando el principal desistiere;
 IV.- Apelar e interponer los recursos procedentes.
 ART. 656.- El demandado debe denunciar el pleito al obligado a la evicción antes de la contestación de la demanda, solicitándolo del juez, quien, según las circunstancias, ampliará el término del emplazamiento para que el tercero pueda disfrutar del plazo completo. El tercero obligado a la evicción, una vez salido al pleito, se convierte en principal.
 ART. 657.- De la primera petición que haga el tercer coadyuvante cuando venga el juicio se correrá traslado a los litigantes, con excepción del caso previsto en el artículo anterior.
