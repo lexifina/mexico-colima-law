@@ -1,0 +1,5 @@
+P.O. 10 DE NOVIEMBRE DE 2007.
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- La Legislatura local, actualizará las leyes relacionadas con la presente reforma en un plazo de 90 días a partir del día siguiente al de su entrada en vigor.
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos ajustarán respectivamente los reglamentos internos de las comisiones intermunicipales y municipales de agua potable, drenaje, alcantarillado y saneamiento a la presente reforma en un plazo no mayor al de 120 días, que deberán correr a partir del día siguiente al de su entrada en vigor, incorporando la elaboración y rendición de los informes financieros mensuales y trimestrales, al Congreso del Estado.
+CUARTO.- La revisión y fiscalización de las cuentas públicas de las comisiones municipales e intermunicipales de agua potable, drenaje, alcantarillado y saneamiento del ejercicio fiscal 2007, se sujetará a las bases y disposiciones constitucionales aplicables antes de la presente reforma.
