@@ -972,6 +972,11 @@ ART. 437.- Si en la contestación de la demanda se opusiere falta de personalida
 ART. 438.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 439.- Los incidentes surgidos en los juicios ordinarios o sumarios se tramitarán y se resolverán en la misma forma que la establecida por los Artículos 432 a 435, excepto cuando el punto cuestionado tenga señalado expresamente otro trámite o términos, los cuales serán aplicables. Las resoluciones que se pronuncien en los incidentes serán apelables en el sólo efecto devolutivo, a excepción de los que la Ley expresamente disponga que sea en ambos efectos.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE ABRIL DE 2008)
+CAPITULO II (SIC)
+De la rectificación administrativa de actas
+(ADICIONADO, P.O. 19 DE ABRIL DE 2008)
+ART. 429 BIS (SIC).- La rectificación o modificación de un Acta del Estado civil no puede hacerse sino mediante sentencia que dicta la autoridad judicial en los términos previstos por este Código, o por resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y bajo las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por este último ordenamiento.
 (ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 1985)
 CAPITULO II
 De los juicios por alimentos
