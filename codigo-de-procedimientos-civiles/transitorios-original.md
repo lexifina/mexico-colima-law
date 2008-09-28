@@ -1290,8 +1290,8 @@ ART. 433.- Transcurrido el término para contestar la demanda, cuando se requier
 El auto que niegue o mande abrir el juicio a prueba será revocable.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 434.- Una vez ofrecidas y admitidas las pruebas que así lo ameriten a las partes, se señalará día y hora para su recepción dentro de los siguientes quince días a su admisión.
-(REFORMADO, P.O. 19 DE JULIO DE 2008)
-ART. 435.- Desahogadas las pruebas admitidas, se abrirá el período de alegatos por tres días común a las partes. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los diez días siguientes, salvo el caso de que existan apelaciones de tramitación inmediata pendientes de resolver.
+(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)
+ART. 435.- Desahogadas las pruebas admitidas, se abrirá el período de alegatos por tres días común a las partes. Transcurrido el término anterior, se citará a las partes para sentencia definitiva, la cual se pronunciará dentro de los treinta días siguientes.
 ART. 436.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 437.- (DEROGADO, P.O. 19 DE JULIO DE 2008)
 ART. 438.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
@@ -2033,8 +2033,8 @@ b) Si la adhesión no se hizo al contestar los agravios; y
 c) Si el adherente no expresó agravios.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 706.- Si no se hubieren promovido pruebas o las que se ofrecieron no se hubieren admitido, en el mismo auto en que se admitió el recurso se citará a las partes para sentencia, que se pronunciará y notificará dentro del término máximo de treinta días. Cuando se trate de expedientes voluminosos se podrá ampliar el plazo concediendo quince días más para el dictado y notificación de la sentencia.
-(REFORMADO, P.O. 19 DE JULIO DE 2008)
-ART. 707.- Si las partes desean ofrecer pruebas, deberán hacerlo en los escritos de expresión de agravios y su contestación, especificando los puntos sobre los cuales versarán éstas, los cuales no podrán ser extraños ni a la cuestión debatida ni a hechos sobrevenidos.
+(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)
+ART. 707.- Podrán recibirse pruebas en segunda instancia sólo cuando hubieren ocurrido hechos supervenientes, siempre y cuando las partes las ofrezcan en los escritos de expresión de agravios y su contestación, especificando los puntos sobre los cuales versarán.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 708.- En el auto que admita la apelación el Tribunal resolverá si admite o desecha las pruebas ofrecidas.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
