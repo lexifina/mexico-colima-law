@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 18 DE JULIO DE 2009)
+ART. 410 Ñ.- Cuando el Tribunal juzgue conveniente no otorgar la adopción plena, concederá a los solicitantes la adopción simple y la posibilidad de convertirla en plena pasado el término de dos años, si durante ese plazo se han cumplido cabalmente los requisitos de protección, afecto y educación del adoptado, según informe del Sistema para el Desarrollo Integral de la Familia.
