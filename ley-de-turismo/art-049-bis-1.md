@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)
+Artículo 49 Bis 1.- La Secretaría, conjuntamente con la Secretaria de Educación del Estado, realizarán estudios e investigaciones en materia turística, y llevarán a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de posgrado en el Estado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas y con objeto social relativo al turismo.

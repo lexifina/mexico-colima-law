@@ -1,0 +1,6 @@
+(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)
+Artículo 52 Bis 1.- Son deberes del turista:
+I. Observar las normas usuales de convivencia en los establecimientos turísticos;
+II. Respetar el entorno natural y patrimonio cultural de los sitios en los que se realice una actividad turística;
+III. Acatar las prescripciones particulares de establecimientos mercantiles y empresas cuyos servicios turísticos disfruten o contraten y, particularmente las normas y reglamentos mercantiles de uso o régimen interior; y
+IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o documento que ampare el pago en el plazo pactado.

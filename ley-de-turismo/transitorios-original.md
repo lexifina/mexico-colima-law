@@ -9,3 +9,4 @@ C. Martín Flores Castañeda, Diputado Presidente. Rúbrica. C. David Enyelnim M
 Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos mil seis.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE TURISMO, LIC. MARCELINO BRAVO SANDOVAL. Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.

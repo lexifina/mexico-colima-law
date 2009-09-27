@@ -1,0 +1,8 @@
+(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)
+Artículo 49 Bis.- Corresponde a la Secretaría promover la competitividad de la actividad turística en el Estado, y en coordinación con las dependencias y entidades competentes de la administración pública del Estado, fomentar:
+I. La formulación de políticas públicas, modelos y acciones que incrementen la calidad y competitividad en la materia;
+II. La profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad;
+III. La modernización de empresas turísticas;
+IV. El otorgamiento de incentivos distintivos, certificados o reconocimientos a los prestadores de servicios turísticos, de acuerdo a los lineamientos que establezca la propia Secretaría;
+V. El diseño y ejecución de acciones de coordinación entre dependencias y entidades del Estado y de los Municipios para la promoción y establecimiento de empresas turísticas; y
+VI. La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su desarrollo y conclusión.

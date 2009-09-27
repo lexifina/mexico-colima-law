@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)
+Artículo 26 Bis 1.- La Secretaría elaborará y propondrá el programa para su aprobación al Ejecutivo Estatal, dentro del mes de enero de cada año, quien lo analizará conjuntamente con las autoridades municipales del Estado, de no haber modificación o precisión alguna por parte de éstos, el Ejecutivo Estatal ordenará su expedición y publicación en el Periódico Oficial del Estado.
