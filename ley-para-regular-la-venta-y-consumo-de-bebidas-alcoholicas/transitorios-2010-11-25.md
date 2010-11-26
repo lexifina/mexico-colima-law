@@ -1,0 +1,4 @@
+P.O. 25 DE NOVIEMBRE DE 2010.
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- En un término no mayor de 90 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos de la entidad, por conducto de sus Cabildos, deberán adecuar sus respectivos Reglamentos para la Venta y Consumo de Bebidas Alcohólicas en los que se regulan los establecimientos destinados a la venta y consumo de alimentos, para efectos de dar cumplimiento a lo establecido en este Decreto.
+TERCERO.- Los propietarios, poseedores o titulares de los establecimientos comprendidos en el presente Decreto, tendrán como plazo máximo el 1° de marzo de 2011, para dar debido cumplimiento a las obligaciones contenidas en el mismo.
