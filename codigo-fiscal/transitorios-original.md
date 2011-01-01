@@ -8,3 +8,4 @@ C. José Mancilla Figueroa, Diputado Presidente. Rúbrica. C. Roberto Alcaraz An
 Por tanto mando se imprima, publique, circule y observe.
 Dado en el Palacio de Gobierno, a los 30 días del mes de septiembre del año 2003.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSÉ GILBERTO GARCÍA NAVA. Rúbrica. EL SECRETARIO DE FINANZAS, ING. ALMAR PETTERSEN MORA. Rúbrica.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

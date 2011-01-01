@@ -1,0 +1,3 @@
+P.O. 25 DE DICIEMBRE DE 2010.
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2011 el monto se ajustará a la decena de pesos inferior más próxima.
