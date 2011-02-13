@@ -1,0 +1,6 @@
+P.O. 12 DE FEBRERO DE 2011.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Los que se acrediten como titulares de los establecimientos comprendidos por el presente Decreto, deberán proceder a reemplazar las bolsas de polietileno que utilizan o expiden en un plazo de 12 meses a partir de la entrada en vigor del mismo.
+La Secretaría de Desarrollo Urbano del Gobierno del Estado tendrá a su cargo la implementación, seguimiento, vigilancia y desarrollo del período de sustitución y reemplazo de los materiales señalados en el presente Decreto, de acuerdo al plazo previsto en el párrafo anterior. Dicha Secretaría podrá celebrar acuerdos o convenios de colaboración con los Ayuntamientos de la Entidad para el efecto de realizar conjuntamente las atribuciones señaladas en este párrafo.
+TERCERO.- Las sanciones por la violación a las disposiciones del presente Decreto se aplicarán a los doce meses siguientes de su entrada en vigor.
+CUARTO.- El Gobierno del Estado deberá implementar una campaña de difusión permanente para dar a conocer a la ciudadanía en general, del contenido y alcances que se derivan por la entrada en vigor del presente Decreto.
