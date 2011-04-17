@@ -13,7 +13,9 @@ Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una
 ART. 2º.- La acción procede en juicio, aun cuando no se exprese su nombre, con tal de que se determina (sic) con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.
 ART. 3º.- Por las acciones reales se reclamarán la herencia, los derechos reales o la declaración de libertad de gravámenes reales. Se dan y se ejercitan contra el que tiene en su poder la cosa y tiene obligación real, con excepción de la petición de herencia y la negatoria.
 ART. 4º.- La reivindicación compete a quien no está en posesión de la cosa, de la cual tiene la propiedad, y su efecto será declarar que el actor tiene dominio sobre ella y se la entregue el demandado con sus frutos y accesiones en los términos prescritos por el Código Civil.
-ART. 5º.- El tenedor de la cosa puede declinar la responsabilidad del juicio consignando al poseedor que lo sea a título de dueño.
+(REFORMADO, P.O. 16 DE ABRIL DE 2011)
+ART. 5°.- El tenedor de la cosa puede declinar la responsabilidad del juicio consignando al poseedor que lo sea a título de dueño.
+La declinación a que se refiere el párrafo anterior, se hará dentro del término para contestar la demanda.
 ART. 6º.- El poseedor que niegue la posesión la perderá en beneficio del demandante.
 ART. 7º.- Pueden ser demandados en reivindicación, aunque no posean la cosa, el poseedor que para evitar los efectos de la acción reivindicatoria dejó de poseer y el que está obligado a restituir la cosa o su estimación si la sentencia fuere condenatoria. El demandado que paga la estimación de la cosa puede ejercitar a su vez la reivindicación.
 ART. 8º.- No pueden reivindicarse las cosas que están fuera del comercio; los géneros no determinados al entablarse la demanda; las cosas unidas a otras por vía de accesión, según lo dispuesto por el Código Civil, ni las cosas muebles perdidas o robadas que un tercero haya adquirido de buena fe en almoneda, o de comerciante que en mercado público se dedica a la venta de objetos de la misma especie, sin previo reembolso del precio que se pagó. Se presume que no hay buena fe si de la pérdida o robo se dió aviso público y oportunamente.
@@ -1070,7 +1072,7 @@ Si con la impugnación a que se refieren los párrafos anteriores no se ofrecier
 Cuando el juicio se siga en rebeldía y el actor haya presentado documentos cuya autoría atribuye al demandado y éste no los haya objetado, será necesario su reconocimiento, el que se practicará con sujeción a las disposiciones sobre la confesión, y surtirá sus mismos efectos. Si el documento es de un tercero, la verdad de su contenido debe demostrarse por otras pruebas.
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
 ART. 339 BIS.- La objeción de documentos firmados en forma autógrafa o con la firma electrónica, inclusive de los que no se encuentren firmados, se tramitará en vía incidental, dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contados desde la notificación del auto que ordene su recepción.
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)
 ART. 340.- La falsedad consiste en la formación de un documento, no verdadero, o en la alteración de uno auténtico, o bien en la falta de veracidad de los hechos representados en un documento público que obre en archivo físico o electrónico y que se afirman como ocurridos ante un servidor público, notario o corredor.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 También se considera que existe falsedad en los documentos privados cuando quien ha recibido el documento firmado, con el texto no escrito en su totalidad, haya formado o complementado, o hecho formar o completar su texto, en contra de los acuerdos tomados con el firmante.
