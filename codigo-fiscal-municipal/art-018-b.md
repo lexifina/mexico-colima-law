@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2011)
+ARTICULO 18 B.- Los impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, y demás conceptos de ingreso que el municipio tenga derecho a percibir por cuenta propia o ajena, se podrán pagar a través de los medios electrónicos, utilizando la página de internet de los Ayuntamientos o cualquier otro medio que se establezca para tal efecto.
+Los ayuntamientos podrán solicitar que la Autoridad Certificadora, dependiente de la Secretaría de la Administración, del Gobierno del Estado, habilite la firma electrónica certificada de los funcionarios que estén facultados para autorizar la expedición de los documentos a que se refiere este Código.

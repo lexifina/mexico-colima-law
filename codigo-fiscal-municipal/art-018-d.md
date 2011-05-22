@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2011)
+ARTICULO 18 D.- Cuando se exija la forma escrita para la celebración de actos, convenios, contratos o trámites señalados en el presente Código, los Ayuntamientos mediante disposiciones de carácter general, podrán autorizar la presentación de documentos electrónicos y mensajes de datos, siempre que la información en ellos contenida se mantenga íntegra y sea accesible para su ulterior consulta, en este caso, no será necesario enviar el documento escrito.
+Si se trata de información documental o electrónica, firmada con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de internet de la institución que los emitió y autorizó.

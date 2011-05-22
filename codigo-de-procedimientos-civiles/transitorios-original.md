@@ -2732,31 +2732,30 @@ ART. 920.- Para recibir dinero prestado en nombre del menor o incapacitado neces
 ART. 921.- Lo dispuesto en los artículos que precedan se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes menores e incapacitados.
 CAPITULO IV
 Adopción
-(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
-ART. 922.- El que pretenda adoptar deberá acreditar los requisitos señalados por los artículos 390 y 391 del Código Civil, debiéndose observar lo siguiente:
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2011)
+ART. 922.- El que pretenda adoptar deberá acreditar los requisitos señalados por los artículos 390 y 391 del Código Civil. Asimismo, los órganos jurisdiccionales llevarán a efecto los juicios de adopción, cumpliendo siempre con lo dispuesto en el Código Civil, y su tramitación se hará conforme a lo ordenado en este Código, debiendo observar lo siguiente:
 I.- En la promoción inicial se deberá manifestar:
 a).- El tipo de adopción que se promueve;
-b).- El nombre, edad y si lo hubiere domicilio del menor o incapacitado que se pretende adoptar;
+(REFORMADO, P.O. 21 DE MAYO DE 2011)
+b).- Nombre, edad y si lo hubiere, domicilio de la persona menor de edad o incapacitado que se pretende adoptar;
 c).- El nombre, edad y domicilio de quienes en su caso, ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido;
 d).- Acompañar certificado médico de buena salud el promovente; y
 e).- Constancia de no haber sido sentenciado por delito intencional.
 Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Estatal para el Desarrollo Integral de la Familia (DIF), directamente o por quien éste autorice;
-II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el presunto adoptante o la institución según sea el caso, recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 444, fracción IV, del Código Civil;
+(REFORMADA, P.O. 21 DE MAYO DE 2011)
+II.- Cuando la persona menor de edad hubiere sido acogido por una institución de asistencia social, pública o privada, el presunto adoptado o la institución según sea el caso, recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 444, fracción IV, del Código Civil;
 III.- Si hubiere transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo;
 IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello fuere aconsejable a criterio del juez.
-En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan sobre él la patria potestad, para promover la adopción en cualquiera de sus formas, no se requerirá que transcurra el plazo de seis meses a que se refiere este artículo; y
+(REFORMADO, P.O. 21 DE MAYO DE 2011)
+En los supuestos en que la persona menor de edad haya sido entregada a dichas instituciones por quienes ejerzan sobre él la patria potestad, para promover la adopción en cualquiera de sus formas, no se requerirá que transcurra el plazo de 6 meses a que se refiere este artículo; y
 V.- Tratándose de extranjeros, deberán acreditar su legal estancia o residencia en el país.
-Los extranjeros con residencia en otro país, deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen, que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en el país del promovente; autorización de la Secretaría de Gobernación para internarse y permanecer en México con la finalidad de realizar una adopción.
+(REFORMADO, P.O. 21 DE MAYO DE 2011)
+Los extranjeros con residencia en otro país, deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen, que acredite que el solicitante es considerado apto para adoptar; constancia de que la persona menor de edad que se pretende adoptar ha sido autorizada para entrar y residir permanentemente en el país del promovente; autorización de la Secretaría de Gobernación para internarse y permanecer en México con la finalidad de realizar una adopción.
 La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial y estar apostillada o legalizada por el Cónsul mexicano.
 (REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
 ART. 923.- Presentadas las constancias que exige el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme al Código Civil, el juez de lo familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
-(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
-ART. 924.- Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el juez los citará a una audiencia verbal y dentro de los tres días siguientes, resolverá conforme a lo dispuesto por el artículo 407 del Código Civil.
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
-Para acreditar cualquier hecho relativo a la revocación de la adopción, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
-Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 404 del Código Civil, el juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público.
-(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 1999)
-ART. 925.- Los procedimientos de revocación o impugnación de la adopción simple a que se refieren los artículos 394 y 405, fracciones II y III, del Código Civil, se seguirán por la vía sumaria, en los términos del artículo 431 de este Código.
+ART. 924.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
+ART. 925.- (DEROGADO, P.O. 21 DE MAYO DE 2011)
 CAPITULO V
 De las informaciones ad perpetuam
 ART. 926.- La información ad perpetuam podrá decretarse cuando no tenga interés más que el promovente y se trate:

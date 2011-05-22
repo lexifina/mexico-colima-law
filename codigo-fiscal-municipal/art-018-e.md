@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE MAYO DE 2011)
+ARTICULO 18 E.- Los documentos electrónicos, ópticos, magnéticos o de cualquier otra tecnología, autorizados de conformidad con los artículos anteriores, tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada de las autoridades.
