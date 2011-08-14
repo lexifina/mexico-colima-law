@@ -731,6 +731,10 @@ V.- Los hechos en que el actor funde su petición, numerándolos y narrándolos 
 VI.- Los fundamentos de derecho y la clase de acción, procurando citar los preceptos legales o principios jurídicos aplicables;
 VII.- El valor de lo demandado si de ello depende la competencia del juez.
 ART. 255.- Presentada la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días.
+(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)
+El juez en el auto de radicación de la demanda informará a las partes, en términos del artículo 10 de la Ley de Justicia Alternativa del Estado de Colima, de la posibilidad que tienen de someter el asunto a la mediación o conciliación, las cuales tendrán un término de cinco días hábiles para manifestar su intención de resolver su controversia de carácter jurídica a través de la justicia alternativa, mediante procedimientos no jurisdiccionales.
+(ADICIONADO, P.O. 13 DE AGOSTO DE 2011)
+Si dentro del término fijado en el párrafo anterior, las partes no atendieran a la recomendación del Juez, no interrumpirá éste el término para la contestación de la demanda.
 N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.
 (REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)
 ART. 256.- Si la demanda fuere obscura o irregular, el juez debe prevenir al actor por una sola vez para que la aclare, corrija o complete dentro del término de tres días, de acuerdo con los artículos anteriores, señalando en concreto sus defectos. Una vez que la demanda cumpla los requisitos previstos en este Código, el juez le dará curso; en el caso contrario, la desechará.
