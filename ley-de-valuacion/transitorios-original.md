@@ -1,0 +1,16 @@
+TRANSITORIOS
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Se abroga la LEY QUE CREA EL REGISTRO DE PERITOS VALUADORES EN EL ESTADO DE COLIMA, publicada en el Periódico Oficial "El Estado de Colima" el 28 de noviembre de 1992, aprobada mediante Decreto No. 106.
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+CUARTO.- Se establece un término de 180 días hábiles, contados a partir de la fecha de publicación de la presente Ley, en el Periódico Oficial "El Estado de Colima", para la expedición de su Reglamento. Mientras tanto se continuarán aplicando los ordenamientos reglamentarios y administrativos vigentes a la fecha de entrada en vigor de la presente Ley, en todo aquello que no la contravenga. Siendo la Comisión la encargada de resolver todas las cuestiones relativas a la aplicación y debidas observancias de esta Ley.
+QUINTO.- El Comité deberá instalarse dentro de un término no mayor a 90 días hábiles contados a partir de la entrada en vigor de la presente Ley, por lo que para tal efecto, la Secretaría deberá convocar a los integrantes del mismo, de acuerdo a lo dispuesto en el Artículo 52 de la presente Ley.
+SEXTO.- Los registros realizados por los entonces peritos valuadores, seguirán surtiendo efecto hasta en tanto se haga el nuevo registro, término que no podrá exceder de 240 días.
+SÉPTIMO.- Los peritos valuadores inscritos actualmente en el Directorio de Peritos Valuadores del Estado a cargo de la Dirección de Catastro, cuyos nombres y datos profesionales se señalan en el directorio respectivo, el cual fue expedido por el Titular de esa dependencia y publicado en el Periódico Oficial "El Estado de Colima", con fecha 27 de marzo del año 2010, serán respetados en todos sus derechos que hayan adquirido en su calidad de Peritos Valuadores, debiendo apegarse, para su refrendo, a las disposiciones de esta Ley y a los programas de capacitación, actualización y profesionalización en materia de valuación, que coordine la Comisión con las Asociaciones de Valuadores Profesionales en la materia, constituidos en el Estado, de acuerdo a sus especialidades respectivas.
+OCTAVO.- El cargo de Secretario Técnico del Comité será ejercido por el Director de Catastro, en tanto no sea creada la Dirección General del Instituto del Registro Territorial a que se refiere el artículo 41 fracción III de la presente Ley.
+El Gobernador del Estado dispondrá que se publique, circule y observe".
+Dado en el Recinto Oficial del Poder Legislativo, a los once días del mes de agosto del año dos mil once.
+C. ENRIQUE ROJAS OROZCO, DIPUTADO PRESIDENTE. Rúbrica. C. ALFREDO HERNÁNDEZ RAMOS, DIPUTADO SECRETARIO. Rúbrica. C. JOSÉ LUIS LÓPEZ GONZÁLEZ, DIPUTADO SECRETARIO.
+Rúbrica.
+Por lo tanto mando se imprima, publique, circule y observe.
+Dado en Palacio de Gobierno, al día 12 del mes de Agosto del año dos mil once.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. FRANCISCO JAVIER AGUILAR ZARAGOZA. Rúbrica. EL SECRETARIO DE FINANZAS, C.P. FRANCISCO MANUEL OSORIO CRUZ. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. FEDERICO RANGEL LOZANO. Rúbrica.
