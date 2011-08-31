@@ -18,4 +18,4 @@ Es copia fiel compulsada de su original.- Colima, Agosto 31 de 1917.
 M. Fernández, D.P.- Clemente Ramírez, D.S.- Leonardo Yáñez Centeno, D.S. Int.°
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.- Palacio del Gobierno del Estado.- Colima, Septiembre 1o. de 1917.
 J.F. Valle.- Ramón Ahumada, Srio.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
