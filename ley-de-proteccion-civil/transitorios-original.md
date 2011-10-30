@@ -1,0 +1,18 @@
+TRANSITORIOS
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Se abroga la Ley de Protección Civil del Estado de Colima publicada mediante Decreto número 336, en el Periódico Oficial "El Estado de Colima" de fecha 03 de abril de 2006 y, cualquier disposición estatal en vigor que se oponga a la presente Ley.
+TERCERO.- El Consejo Estatal de Protección Civil se deberá instalar en un plazo no mayor de sesenta días hábiles a partir del día siguiente al de la publicación de esta Ley.
+CUARTO.- Se otorga un plazo de noventa días hábiles a partir de la entrada en vigor de la presente Ley para la emisión de su Reglamento.
+QUINTO.- En tanto se expidan los reglamentos previstos en esta Ley, seguirán vigentes las disposiciones que regulan la integración y operación del Sistema Estatal de Protección Civil, en tanto no se opongan a la presente Ley.
+SEXTO.- En tanto no se emita el nuevo Programa Estatal de Protección Civil, se seguirá aplicando el vigente, mismo que deberá actualizarse de manera periódica y de acuerdo a lo dispuesto en la presente Ley.
+SÉPTIMO.- La Unidad Estatal de Protección Civil quedará constituida a partir de la publicación en el Periódico Oficial El Estado de Colima, como un organismo público descentralizado con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión para el cumplimiento de sus objetivos y fines; asumiendo los bienes muebles e inmuebles, derechos, recursos financieros y demás activos de la Unidad Estatal de Protección Civil, así como con los recursos humanos, presupuestales y financieros correspondientes.
+OCTAVO.- Las Unidades Municipales de Protección Civil quedarán constituidas a partir de la publicación en el Periódico Oficial El Estado de Colima, como un órgano con autonomía de operación, financiera y administrativa, dependiente del Ayuntamiento.
+Asimismo, los municipios deberán expedir el Programa y Reglamento Municipal de protección civil, respectivos.
+NOVENO.- Los derechos laborales y antigüedad del personal administrativo que actualmente laboran para las Unidades Estatal y Municipales de Protección Civil, se respetarán conforme a la ley.
+DÉCIMO.- Los asuntos que se venían conociendo y tramitando ante las Unidades Estatal y Municipales de Protección Civil, continuarán su trámite hasta su total conclusión con base a la normatividad vigente en el momento en que se iniciaron.
+El Gobernador del Estado dispondrá se publique, circule y observe."
+Dado en el Recinto Oficial del Poder Legislativo, a los veinticinco días del mes de octubre del año dos mil once.
+C. JOSÉ GUILLERMO RANGEL LOZANO DIPUTADO PRESIDENTE.- Rúbrica.- C. ARMIDA NÚÑEZ GARCÍA, DIPUTADA SECRETARIA.- Rúbrica.- LUIS ALFREDO DÍAZ BLAKE, DIPUTADO SECRETARIO.- Rúbrica.
+Por tanto mando se imprima, publique, circule y observe.
+Dado en Palacio de Gobierno, al día 27 del mes de octubre del año dos mil once.
+LIC. MARIO ANGUIANO MORENO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA.- Rúbrica.- LIC. RENÉ RODRÍGUEZ ALCARAZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- LICDA. YOLANDA VERDUZCO GUZMÁN, PROCURADORA GENERAL DE JUSTICIA DEL ESTADO.-Rúbrica.- C. GRAL. DIV. D.E.M. RET. RAÚL PINEDO DÁVILA, SECRETARIO DE SEGURIDAD PÚBLICA.- Rúbrica.- PROFR. FEDERICO RANGEL LOZANO, SECRETARIO DE EDUCACIÓN.- Rúbrica.- DR. J. JESÚS OROZCO ALFARO, SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, Rúbrica.- DR. AGUSTÍN LARA ESQUEDA, SECRETARIO DE SALUD Y BIENESTAR SOCIAL.- Rúbrica.- ARQ. OSCAR ALEJANDRO TORRES CONTRERAS.- SECRETARIO DE DESARROLLO URBANO.- Rúbrica.- C. JOSÉ VERDUZCO MORENO, SECRETARIO DE DESARROLLO RURAL.- Rúbrica.
