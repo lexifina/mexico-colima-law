@@ -536,9 +536,8 @@ Sin perjuicio de las providencias que conforme a este Código deben dictar, tien
 Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al presidente del tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria.
 CAPITULO II
 De la recusación
-(REFORMADO, P.O. 10 DE AGOSTO DE 1985)
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
 ART. 171.- Cuando los Magistrados, Jueces o Secretarios no se inhibieren a pesar de existir alguno de los impedimentos expresados, procede su recusación.
-Las partes, por una sola vez cada una, podrán recusar sin causa al juez o Magistrado que conozca del negocio, la que se admitirá si se hace con corrección y dejando a salvo la honorabilidad del funcionario recusado, ordenándose enviar los autos al Juzgado que corresponda. El ejercicio de este derecho sólo podrá hacerse hasta antes de citación para sentencia.
 ART. 172.- En los concursos sólo podrá hacer uso de la recusación el representante legítimo de los acreedores en los negocios que afecten al interés general; en los que afecten al interés particular de alguno de los acreedores, podrá el interesado hacer uso de la recusación; pero el juez no quedará inhibido más que en el punto de que se trate. Resuelta la cuestión, se reintegra al principal.
 ART. 173.- En los juicios hereditarios sólo podrá hacer uso de la recusación el interventor o albacea.
 ART. 174.- Cuando en un negocio intervengan varias personas antes de haber nombrado representante común, conforme al artículo 53, se tendrán por una sola para el efecto de la recusación. En este caso se admitirá la recusación cuando la proponga la mayoría de los interesados en cantidades.
@@ -570,8 +569,10 @@ TITULO CUARTO (SIC)
 De la substanciación y decisión de la recusación con causa
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 183.- Los tribunales desecharán de plano la recusación:
-I.- Cuando no estuviera hecha en tiempo.
-II.- Cuando, no tratándose de recusación sin causa, no se funde en alguna de las causas a que se refiere el Artículo 169.
+(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)
+I.- Cuando no estuviera hecha en tiempo; o
+(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2011)
+II.- Cuando no se funde en alguna de las causas a que se refiere el artículo 169.
 ART. 184.- Toda recusación se interpondrá ante el juez o tribunal que conozca del negocio, expresándose con toda claridad y precisión la causa en que se funde.
 ART. 185.- La recusación debe decidirse sin audiencia de la parte contraria y se tramita en forma de incidente.
 ART. 186.- En el incidente de recusación son admisibles todos los medios de prueba establecidos por este Código y, además, la confesión del funcionario recusado y la de la parte contraria.
@@ -1232,8 +1233,8 @@ ART. 366.- Si el testigo no sabe el idioma rendirá su declaración por medio de
 ART. 367.- La pregunta y la respuesta del testigo se harán constar en autos en forma textual.
 ART. 368.- Los testigos están obligados a dar la razón de su dicho y el juez deberá exigirla en todo caso.
 ART. 369.- La declaración una vez firmada no puede variarse ni en la substancia ni en la redacción.
-(REFORMADO, P.O. 10 DE AGOSTO DE 1985)
-ART. 370.- En el acto del examen de un testigo o dentro de los tres días siguientes pueden las partes atacar el dicho de que aquél por cualquier circunstancia que, en concepto suyo, afecte su credibilidad cuando esa circunstancia no haya sido ya expresada en su declaración. La petición de tachas se substanciará incidentalmente por cuaderno separado y su resolución se reservará para la definitiva.
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
+ART. 370.- En el acto del examen de un testigo o dentro de los tres días siguientes pueden las partes atacar el dicho de aquél por cualquier circunstancia que, en concepto suyo, afecte su credibilidad cuando esa circunstancia no haya sido ya expresada en su declaración. La petición de tachas se substanciará en la misma pieza de autos sin suspensión de procedimiento y su resolución se reservará para la definitiva.
 ART. 371.- No es admisible la prueba testimonial para tachar a los testigos que hayan declarado en el incidente de tachas.
 SECCION VII
 Fotografías, copias fotostáticas y demás elementos
@@ -1538,8 +1539,9 @@ I.- Cuando la acción sea real;
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 II.- Cuando se haya declarado, judicialmente, que la enajenación por la que adquirió el tercero está en los casos de los artículos 2,054 y 2,059 del Código Civil y los demás preceptos en que expresamente se establezca esa responsabilidad.
 ART. 452.- Hecho el embargo se emplazará al deudor en persona conforme al artículo 116, o si se ignorare su paradero conforme al artículo 122, para que en un término no mayor de cinco días ocurra a hacer el pago o a oponer las excepciones y defensas que tuviere, siguiéndose el juicio por todos sus trámites.
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
 ART. 453.- Los juicios ejecutivos contendrán siempre dos secciones: la del principal conteniendo la demanda, la contestación, el juicio y su sentencia.
-La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaría y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes, todo lo cual debe formar un cuaderno que, aunque sea accesorio del principal, debe tramitarse por cuerda separada.
+La segunda sección contendrá el auto de ejecución y todo lo relativo a éste, a la depositaria y sus incidentes, a la mejora y reducción del embargo, al avalúo y remate de los bienes, lo cual aún cuando sean dos secciones, todo debe formar un mismo cuaderno.
 ART. 454.- De la sección de ejecución se encargará el juez, quien podrá delegar sus facultades en el ejecutor, con excepción de las siguientes:
 I.- El auto de exequendo;
 II.- El mandamiento de sacar a remate un bien;
@@ -1744,7 +1746,8 @@ I.- En cualquier caso en que a juicio del juez no basten los bienes secuestrados
 II.- Si el bien secuestrado que se sacó a remate dejare de cubrir el importe de lo reclamado a consecuencia de las retasas que sufriere o si transcurrido un año desde la remisión, tratándose de muebles, no se hubiere obtenido su venta;
 III.- Cuando no se embarguen bienes suficientes por no tenerlos el deudor y después aparecen o los adquiera;
 IV.- En los casos de tercería, conforme a lo dispuesto en el título décimo.
-ART. 541.- La ampliación del embargo se seguirá por cuerda separada sin suspensión de la sección de ejecución, a la que se unirá después de realizada.
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
+ART. 541.- La ampliación del embargo, se seguirá en la misma pieza de autos sin suspensión de la sección de ejecución.
 ART. 542.- De todo secuestro se tendrá como depositario a la persona que nombre el acreedor, bajo su responsabilidad, mediante formal inventario.
 Se exceptúa de lo dispuesto en este precepto:
 I.- El embargo de dinero o de crédito fácilmente realizables, que se efectúa en virtud de sentencia, porque entonces se hace entrega inmediata al actor en pago; en cualquier otro caso, el depósito se hará en el Banco de México o en casa comercial de crédito reconocido en los lugares en que no esté establecido aquél; el billete de depósito se conservará en el seguro del juzgado;
@@ -1795,7 +1798,8 @@ VII.- Tomará provisionalmente las medidas que la prudencia aconseje para evitar
 ART. 555.- Si en el cumplimiento de los deberes que el artículo anterior impone al interventor, éste encontrare que la administración no se hace convenientemente, o puede perjudicar los derechos del que pidió y obtuvo el secuestro, lo pondrá en conocimiento del juez, para que oyendo a las partes y al interventor, determine lo conveniente.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 556.- Los que tengan administración o intervención, presentarán al juzgado, cada mes, una cuenta de los esquilmos y demás frutos de la finca y de los gastos erogados.
-ART. 557.- El juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
+ART. 557.- El juez con audiencia de las partes aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido. Los incidentes relativos al depósito y a las cuentas se seguirán en la misma pieza de autos sin suspensión de procedimientos.
 ART. 558.- Será removido de plano el depositario en los siguientes casos: 1o.- Si dejare de rendir cuenta mensual o la presentada no fuere aprobada; 2o.- Cuando no haya manifestado su domicilio o el cambio de éste; 3o.- Cuando tratándose de bienes muebles no pusiere en conocimiento del juzgado, dentro de las cuarenta y ocho horas que sigan a la entrega, el lugar donde queda constituído el depósito.
 Si el removido fuere el deudor, el ejecutante nombrará nuevo depositario. Si lo fuere el acreedor o la persona por él nombrada, la nueva elección se hará por el juez.
 ART. 559.- El depositario y el actor, cuando éste lo hubiere nombrado, son responsables solidariamente de los bienes.
@@ -1982,8 +1986,8 @@ ART. 645.- Si el litigante rebelde se presenta dentro del término probatorio, t
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 646.- Si compareciere después del término de prueba en primera instancia o durante la segunda, sólo se le recibirán las pruebas si acreditare que no fue emplazado personalmente y haber estado impedido por causa de fuerza mayor no interrumpida desde el emplazamiento al juicio hasta su presentación, para hacerlo.
 ART. 647.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-(REFORMADO, P.O. 10 DE AGOSTO DE 1985)
-ART. 648.- Siempre que se trate de acreditar el impedimento insuperable se tramitará en forma incidental por cuerda separada, sin más recurso que el de responsabilidad.
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
+ART. 648.- Siempre que se trate de acreditar el impedimento insuperable se tramitará en forma incidental en la misma pieza de autos, sin más recursos que el de responsabilidad.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 649.- El litigante rebelde a quien se haya notificado personalmente el emplazamiento o la sentencia definitiva sólo podrá utilizar contra ella el recurso de apelación.
 ART. 650.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
