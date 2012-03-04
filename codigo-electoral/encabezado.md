@@ -1,4 +1,4 @@
-CODIGO ELECTORAL DEL ESTADO DE COLIMA
+CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 DECRETO No. 358
 POR EL QUE SE APRUEBA EL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA.
