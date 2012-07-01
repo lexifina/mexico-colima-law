@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE JUNIO DE 2012)
+Artículo 52 Bis 4 (SIC).- Atendiendo a lo dispuesto en el artículo anterior, la Secretaría y los Ayuntamientos como medida preventiva difundirán entre los turistas y los prestadores de servicios turísticos, una lista detallada con los albergues y refugios acreditados por la Unidad Estatal de Protección Civil en el Estado, que pueden ser utilizados ante situaciones de emergencia.
