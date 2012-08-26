@@ -1,2 +1,1 @@
-(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)
-ART. 2889 BIS.- En materia registral, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Las solicitudes de inscripción, de expedición de constancias, certificados, copias, así como las anotaciones o inscripciones, cancelaciones, rectificación o modificación de asientos y cualquier otro acto registral podrán hacerse constar mediante mensajes de datos con firma electrónica certificada.
+ART. 2889 BIS.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA, P.O. DE 25 DE AGOSTO DE 2012)
