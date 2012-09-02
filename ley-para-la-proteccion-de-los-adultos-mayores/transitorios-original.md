@@ -14,3 +14,4 @@ C. Martín Flores Castañeda, Diputado Presidente, Rúbrica. C. José Antonio Or
 Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 26 del mes de agosto del año dos mil cuatro.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
