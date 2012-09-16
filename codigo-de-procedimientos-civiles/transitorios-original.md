@@ -777,7 +777,8 @@ CAPITULO I
 De la demanda, contestación y fijación de la cuestión
 ART. 254.- Toda contienda judicial principiará por demanda en la cual se expresarán:
 I.- El tribunal ante el que se promueve;
-II.- El nombre del actor y la casa que señale para oír notificaciones;
+(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2012)
+II.- El nombre del actor, la casa que señale para oír notificaciones y, en su caso, el nombre y domicilio de su autorizado en los términos del artículo 112 Bis;
 III.- El nombre del demandado y su domicilio;
 IV.- El objeto u objetos que se reclamen con sus accesorios;
 V.- Los hechos en que el actor funde su petición, numerándolos y narrándolos sucintamente con claridad y precisión, de tal manera que el demandado pueda preparar su contestación y defensa;
