@@ -39,8 +39,8 @@ ART. 20.- La acción de obra peligrosa se da al poseedor jurídico o derivado de
 ART. 21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero cuyo derecho dependa de la subsistencia del derecho del demandado o del actor. El deudor de obligación indivisible que sea demandado por la totalidad de la prestación puede hacer concurrir a juicio a sus codeudores, siempre y cuando su cumplimiento no sea de tal naturaleza que sólo puede satisfacerse por el demandado.
 ART. 22.- El tercero obligado a la evicción deberá ser citado a juicio oportunamente para que le pare perjuicio la sentencia.
 ART. 23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)
-ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aun a los que no litigaron.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, relaciones conyugales o nulidad de éstas, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
 Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 ART. 25.- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer o no hacer determinado acto.
 ART. 26.- El enriquecimiento sin causa de una parte, con detrimento de otra, presta mérito al perjudicado para ejercitar la acción de indemnización en la medida en que aquélla se enriqueció.
@@ -186,7 +186,8 @@ ART. 55.- Para la tramitación y resolución de los asuntos ante los tribunales 
 ART. 56.- Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al castellano. Las fechas y cantidades se escribirán con letra.
 ART. 57.- En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin, con toda precisión, el error cometido.
 ART. 58.- Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el funcionario público a quien corresponda dar fe o certificar el acto.
-ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que a juicio del tribunal convenga que sean secretas.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)
+ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de relaciones conyugales y las demás en que a juicio del tribunal convenga que sean secretas.
 El acuerdo será reservado.
 ART. 60.- Los jueces y magistrados a quienes corresponda recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
@@ -199,8 +200,8 @@ II.- La multa de uno a sesenta días de salario mínimo general vigente en el Es
 III.- La suspensión temporal del cargo, empleo o comisión, que no exceda de un mes, cuando la corrección se imponga a un empleado del tribunal que la impone.
 ART. 63.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; y se citará para la audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 ART. 64.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, menos el domingo y aquellos que las leyes declaren festivos.
-(REFORMADO, P.O. 25 DE MARZO DE 2000)
-Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+(REFORMADO, P.O. 10 DE AGOSTO DE 2013)
+Se entienden horas hábiles las comprendidas entre las siete y las diecinueve horas. En los juicios sobre alimentos, impedimentos para celebrar una relación conyugal, y en general, todas las cuestiones familiares que reclamen la intervención judicial; así como en los juicios sumarios sobre servidumbres legales, interdictos posesorios y los demás que determinen las leyes no hay ni días ni horas inhábiles. En los demás casos, el juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2000)
 En las diligencias o actuaciones en materia familiar, que se practiquen fuera del juzgado, se observará lo dispuesto por el artículo 14 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
@@ -490,7 +491,8 @@ c).- De las acciones de nulidad, rescisión y evicción de la partición heredit
 VII.- En los concursos de acreedores, el juez del domicilio del deudor;
 VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar donde están ubicados;
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de este;
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+(REFORMADA, P.O. 10 DE AGOSTO DE 2013)
+X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer una relación conyugal, el del lugar donde se hayan presentado los pretendientes;
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 (REFORMADA, P.O. 19 DE JULIO DE 2008)
 XII.- En los juicios de divorcio, el Tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado; y
@@ -1979,7 +1981,8 @@ ART. 613.- Los síndicos de los concursos sólo pueden comprometer en árbitros 
 ART. 614.- No se pueden comprometer en árbitros los siguientes negocios:
 I.- El derecho de recibir alimentos;
 II.- Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias;
-III.- Las acciones de nulidad de matrimonio;
+(REFORMADA, P.O. 10 DE AGOSTO DE 2013)
+III.- Las acciones de nulidad de relaciones conyugales
 IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 339 del Código Civil;
 V.- Los demás en que lo prohíba expresamente la ley.
 ART. 615.- El compromiso designará el negocio o negocios que se sujeten a juicio arbitral y el nombre de los árbitros. Si falta el primer elemento, el compromiso es nulo de pleno derecho sin necesidad de previa declaración judicial.
@@ -2097,7 +2100,8 @@ ART. 672.- Si la tercería, cualquiera que sea, se interpone ante un juez de paz
 TITULO DECIMOPRIMERO
 Divorcio por mutuo consentimiento
 CAPITULO UNICO
-ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
+(REFORMADO, P.O. 10 DE AGOSTO DE 2013)
+ART. 673.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta de relación conyugal y de los de nacimiento de los hijos menores.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (REFORMADO, P.O. 21 DE FEBRERO DE 2009)
 ART. 674.- Hecha la solicitud, el Juez citará a los cónyuges y al representante del Ministerio Público a una junta que se efectuará antes de los 15 días siguientes, en la cual se identificarán plenamente si asistieren los interesados, los exhortará para procurar su reconciliación y si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores, a los alimentos de aquéllos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
@@ -2118,9 +2122,10 @@ III. Porque los derechos de los hijos no queden bien garantizados.
 La oposición deberá presentarse por escrito dentro de los 3 días siguientes al en que se le notifique el auto que admitió la solicitud de divorcio, dando vista a los cónyuges, para que dentro del plazo de tres días manifiesten lo que a su derecho convenga. Una vez cumplidas las exigencias del representante de la sociedad o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, siempre y cuando se haya celebrado la audiencia de conciliación, el juez traerá los autos a la vista y resolverá en sentencia si es o no fundada la oposición, aprobando o denegando la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 680.- La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el efecto devolutivo. La que lo niegue es apelable en efecto suspensivo.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)
+ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró la relación conyugal, para los efectos de los artículos 114 y 291 del Código Civil.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.
 (REFORMADO, P.O. 21 DE FEBRERO DE 2009)
-ART. 681.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio, para los efectos de los artículos 114 y 291 del Código Civil.
 Cuando la sentencia haya causado ejecutoria las ulteriores solicitudes de modificación del convenio o de las medidas judiciales, se plantearán ante el mismo juzgador y se tramitarán en forma incidental.
 TITULO DECIMOSEGUNDO
 De los recursos
@@ -2229,7 +2234,8 @@ En el caso de que se trate de sentencia definitiva, se dejará en el juzgado, pa
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 699.- Además de los casos determinados expresamente en la Ley, se admitirán en efecto suspensivo las Apelaciones que se interpongan:
 I.- Contra las sentencias definitivas que se dicten en los Juicios Ordinarios;
-II.- Las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad de matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
+(REFORMADA, P.O. 10 DE AGOSTO DE 2013)
+II.- Las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad de relación conyugal, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 III.- Contra las sentencias interlocutorias y los autos que paralicen o pongan término al juicio, haciendo imposible su continuación; y
 IV.- Contra el auto aprobatorio del remate.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
@@ -2285,8 +2291,8 @@ VIII (SIC).- En todo lo demás serán aplicables a las sentencias de segunda ins
 ART. 712.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 713.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 714.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
-(REFORMADO, P.O. 8 DE MAYO DE 2004)
-ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+(REFORMADO, P.O. 10 DE AGOSTO DE 2013)
+ART. 715.- La revisión de las sentencias recaídas en los juicios sobre nulidad de relación conyugal por las causas expresadas en los artículos 241, 242 y 248 a 251 del Código Civil, abre de oficio la segunda instancia, con intervención del Ministerio Público, y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 CAPITULO II
 De la apelación extraordinaria
 ART. 716.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
@@ -2876,14 +2882,14 @@ ART. 937.- Se tramitará en la forma de incidente que habrá de seguirse con el 
 I.- La habilitación para comparecer en juicio que solicite el menor de más de 16 años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo, sólo se le concederá autorización cuando fuere demandado o se le siguiera perjuicio grave de no promover juicio y comprobare buena conducta y aptitud para el manejo de sus negocios;
 (REFORMADA, P.O. 25 DE MARZO DE 2000)
 II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
-(REFORMADA, P.O. 25 DE MARZO DE 2000)
-III.- La autorización judicial que soliciten los emancipados por razón de matrimonio para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
+(REFORMADA, P.O. 10 DE AGOSTO DE 2013)
+III.- La autorización judicial que soliciten los emancipados por razón de relación conyugal para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
 IV.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 V.- (sic)
 (REFORMADO PRIMER PÁRRAFO P.O. 25 DE MARZO DE 2000)
 ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
-(REFORMADO, P.O. 14 DE JUNIO DE 1975)
-El menor de edad que deseando contraer matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
+(REFORMADO, P.O. 10 DE AGOSTO DE 2013)
+El menor de edad que deseando celebrar una relación conyugal necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 (ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)
 TITULO DECIMOSEXTO
@@ -2896,8 +2902,9 @@ ART. 939.- Todos los problemas inherentes a la familia se consideran de orden p�
 ART. 940.- El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, alimentos y de cuestiones relacionadas con la violencia intrafamiliar, pudiendo decretar las medidas necesarias que tiendan a preservar la familia y proteger a sus miembros.
 En todos los asuntos de orden familiar, los jueces y tribunales están obligados a suplir la deficiencia en las promociones de las partes.
 En los asuntos familiares, con la salvedad de las prohibiciones legales relativas a los alimentos, el juez deberá exhortar a los interesados a lograr un avenimiento y resolver sus diferencias mediante convenio, con el que pueda evitarse la controversia y darse por terminado el procedimiento.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2013)
+ART. 941.- No se requieren formalidades especiales para acudir ante el juez de lo familiar, cuando se le solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo o el desconocimiento de una obligación, cuando se trate de alimentos, calificación de impedimentos para celebrar una relación conyugal o las diferencias que surjan entre los cónyuges, sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que requieran la intervención judicial.
 (ADICIONADO, P.O. 25 DE MARZO DE 2000)
-ART. 941.- No se requieren formalidades especiales para acudir ante el juez de lo familiar, cuando se le solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo o el desconocimiento de una obligación, cuando se trate de alimentos, calificación de impedimento de matrimonio o las diferencias que surjan entre marido y mujer, sobre administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que requieran la intervención judicial.
 Esta disposición no es aplicable en los casos de divorcio o pérdida de la patria potestad y la liquidación de la sociedad conyugal.
 (ADICIONADO, P.O. 25 DE MARZO DE 2000)
 ART. 942.- En los casos a que se refiere el primer párrafo del artículo anterior, podrá acudirse al juez de lo familiar por escrito o por comparecencia personal, exponiendo de manera breve y concisa los hechos urgentes de que se trate. Con las copias del escrito o comparecencias respectivas y de los documentos que en su caso se presenten, se correrá traslado a la parte demandada, la que deberá comparecer en la misma forma, dentro del término de cinco días. En dichas comparecencias, las partes deberán ofrecer las pruebas que a su derecho convenga. El juez las calificará y admitirá.
