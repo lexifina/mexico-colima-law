@@ -10,3 +10,4 @@ C. Flavio Castillo Palomino, Diputado Presidente. Rúbrica. C. J. Francisco Anza
 Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día treinta del mes de octubre del año dos mil ocho.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE DESARROLLO RURAL, C. CARLOS SALAZAR PRECIADO. Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
