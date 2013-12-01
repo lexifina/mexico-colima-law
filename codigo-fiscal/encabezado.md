@@ -1,4 +1,4 @@
-CODIGO FISCAL DEL ESTADO DE COLIMA
+CÓDIGO FISCAL DEL ESTADO DE COLIMA
 Código publicado en Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 2003.
 FERNANDO MORENO PEÑA, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
