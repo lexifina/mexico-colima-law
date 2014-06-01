@@ -1,0 +1,8 @@
+P.O. 31 DE MAYO DE 2014.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 313 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- El Congreso del Estado deberá adecuar la legislación secundaria a más tardar 90 días antes del inicio del proceso electoral 2014 - 2015.
+TERCERO.- La reforma al artículo 23 de esta Constitución en materia de reelección de diputados locales, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
+CUARTO.- La reforma al tercer párrafo, de la fracción I, del artículo 87 de esta Constitución en materia de reelección de presidentes municipales, síndicos y regidores no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
+QUINTO.- De conformidad con lo que dispone el primer párrafo del artículo 86 BIS del presente Decreto, la celebración de las elecciones locales se celebrarán el primer domingo de junio del año que corresponda, en los términos de esta Constitución, a partir del año 2015, salvo aquellas que se verifiquen en el año 2018, las cuales se llevarán a cabo el primer domingo de julio.
+SEXTO.- En virtud del principio de paridad de género en la designación de candidaturas a Diputados locales, dispuesto en la fracción I, del artículo 86 BIS del presente Decreto, los Partidos Políticos deberán tomar las previsiones necesarias que garanticen su cumplimiento.

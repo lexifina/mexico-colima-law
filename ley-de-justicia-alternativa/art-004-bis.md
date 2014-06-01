@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 31 DE MAYO DE 2014)
+Artículo 4o Bis.- Con el objeto de promover acciones que posibiliten prevenir la generación de conflictos entre los distintos sectores de la sociedad, y fomentar la autocomposición de las partes como forma de solución de los mismos, la autoridad encargada de su aplicación, promocionará y fomentará la participación de la cultura de la paz, y la sana convivencia social.
