@@ -10,3 +10,4 @@ C. Martín Flores Castañeda, Diputado Presidente. Rúbrica. C. David Enyelnim M
 Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 02 días del mes de octubre del año dos mil seis.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, MTRO. CARLOS FLORES DUEÑAS. Rúbrica.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
