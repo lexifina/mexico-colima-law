@@ -2673,9 +2673,11 @@ ART. 870.- En todo lo relativo a la sucesión de los bienes del patrimonio famil
 I.- Con la certificación de la defunción del autor de la herencia se acompañarán los comprobantes de la constitución del patrimonio familiar y su registro, así como el testamento o la denuncia del intestado;
 II.- El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad; el avalúo deberá ser firmado por un perito oficial o, en su defecto, por cualquier comerciante de honorabilidad reconocida;
 III.- El juez convocará a junta a los interesados, nombrando en ella tutores especiales a los menores que tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquellos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, nombrará un partidor entre los contadores oficiales a cargo del Erario, para que en el término de cinco días presente el proyecto de partición, que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o correo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
-IV.- Todas las resoluciones se harán constar en actas, y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado, que se hará con copia para dar aviso al Fisco;
-V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados;
-VI.- La transmisión de los bienes del patrimonio familiar está exenta de contribuciones, cualquiera que sea su naturaleza.
+(REFORMADA, P.O. 12 DE JULIO DE 2014)
+IV.- Todas las resoluciones se harán constar en actas, y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado, que se hará una copia para dar aviso al fisco; y
+(REFORMADA, P.O. 12 DE JULIO DE 2014)
+V.- El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
+VI.- (DEROGADA, P.O. 12 DE JULIO DE 2014)
 CAPITULO VIII
 De la tramitación por Notarios
 ART. 871.- Cuando todos los herederos fueren mayores de edad y hubieren sido instituídos en un testamento público, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna; con arreglo a lo que se establece en los artículos siguientes.

@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE JULIO DE 2014)
+ART. 723 BIS.- Cualquier miembro de una familia tiene el derecho de constituir con bienes de su propiedad un patrimonio para sí y en beneficio de su familia, entendiéndose por familia para los efectos de este Capítulo, a todo grupo de personas que habitan una misma casa y que se encuentren unidos por una relación conyugal, de concubinato, de parentesco consanguíneo, civil o de afinidad y de aquellos a los que legalmente tenga la obligación de dar alimentos.
