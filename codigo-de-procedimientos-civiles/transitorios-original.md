@@ -1450,6 +1450,226 @@ III.- Las sentencias de que se interpuso recurso, pero no se continuó en forma 
 ART. 427.- En los casos a que se refiere la Fracción I del Artículo anterior, el juez de oficio hará la declaración correspondiente. En el caso de la fracción II del mismo Artículo anterior la declaración la hará el juez a petición por escrito de la parte interesada en ello.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 428.- El auto en que se declara que una sentencia ha causado o no ejecutoria es apelable en el efecto devolutivo.
+N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE TÍTULO, VÉASE TERCERO TRANSITORIO DEL DECRETO NÚMERO 368, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2014 REFERENTE A LA ENTRADA EN VIGOR DE LAS DISPOSICIONES RELATIVAS AL PROCEDIMIENTO ORAL FAMILIAR EN EL PRIMER PARTIDO JUDICIAL, ÚNICAMENTE POR LO QUE VE A ASUNTOS NO CONTROVERTIDOS; Y AL PONER EN PRÁCTICA TALES DISPOSICIONES, DEBERÁ EMITIR PREVIAMENTE UNA DECLARATORIA QUE SE PUBLICARÁ EN EL PERIÓDICO OFICIAL DEL ESTADO, EN UNO DE LOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD Y EN LOS DEMÁS ÓRGANOS DE DIFUSIÓN QUE SE CONSIDEREN NECESARIOS, EN LA QUE SE SEÑALE EXPRESAMENTE LA FECHA CORRESPONDIENTE.
+(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+TITULO SEXTO BIS
+Del procedimiento oral familiar
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+CAPITULO I
+Del procedimiento oral
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS.- Se tramitarán a través del procedimiento oral, las siguientes cuestiones familiares:
+I. El divorcio por mutuo consentimiento;
+II. Jurisdicción Voluntaria excepto tratándose de Información Ad Perpetuam, Diligencias de Apeo y Deslinde, Adopciones, Consignaciones de Pago y la declaración de estado de interdicción; y
+III. Rectificación y Nulidad de actas del Registro Civil;
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 1.- El procedimiento oral en general se realizará fundamentalmente con base en los principios de inmediación, abreviación, publicidad, contradicción, concentración y continuidad. En lo no previsto en este Título, y en cuanto no se oponga a lo dispuesto por el mismo, se aplicarán las disposiciones generales de este Código.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 2.- La demanda y/o solicitud de cualquier prestación que se tramite por la vía del procedimiento oral deberán presentarse por escrito y reunirán los requisitos siguientes:
+I. El juez ante el que se promueve;
+II. El nombre y apellidos del actor o solicitante, así como el domicilio que señale para oír y recibir notificaciones;
+III. El nombre y apellidos del demandado o interesado llamado al procedimiento, así como su domicilio;
+IV. Acreditará la relación causal de la o las prestaciones que reclama, así como los hechos en que funde su petición exponiéndolos con claridad en los cuales precisará los documentos públicos o privados que tengan relación con cada hecho, así como si los tiene a su disposición. De igual manera proporcionará los nombres, apellidos y el domicilio de los testigos que hayan presenciado los hechos relativos;
+V. Los fundamentos de derecho y la clase de acción procurando citar los preceptos legales o principios jurídicos aplicables;
+VI. El ofrecimiento de las pruebas que el actor o solicitante pretenda rendir en el juicio; y
+VII. La firma del promovente o de su representante legítimo. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando éstas circunstancias.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 3.- Si la demanda o solicitud fueren obscura o irregular, o no cumplieran con alguno de los requisitos que señala el artículo anterior, el juez señalará, con toda precisión, en qué consisten los defectos de la misma, en el proveído que al efecto se dicte, lo que se hará por una sola ocasión.
+El actor o solicitante deberán cumplir con la prevención que haga el juez, en un plazo máximo de tres días y, en caso de no hacerlo, transcurrido el término, el juez la desechará precisando los puntos de la prevención que no fueron atendidos y pondrá a disposición del interesado todos los documentos originales y copias simples que se hayan exhibido, con excepción de la demanda o solicitud con la que se haya formado el expediente respectivo.
+En tratándose de asuntos que involucren menores, dichas omisiones serán subsanadas de manera oficiosa.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 4.- En los escritos de demanda o solicitud y contestación, y en su caso de reconvención y contestación a ésta, las partes ofrecerán sus pruebas expresando el hecho o hechos que se tratan de demostrar, proporcionando el nombre, apellidos y domicilio de los testigos que hubieren mencionado en los escritos señalados al principio de este párrafo, así como los de sus peritos, y la clase de pericial de que se trate con el cuestionario a resolver, que deberán rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual hayan solicitado los documentos que no tuvieren en su poder en los términos del artículo 95 de este Código.
+El juez no admitirá pruebas que sean contrarias al derecho o la moral; que se hayan ofrecido extemporáneamente; las que se refieran a hechos no controvertidos o ajenos a la litis, o bien sobre hechos imposibles o notoriamente inverosímiles. Si las partes incumplen los requisitos anteriores, el juez desechará las pruebas.
+Las pruebas documentales que se presenten fuera de término serán admitidas en cualquier estado del juicio hasta antes de concluir la audiencia de juicio oral, protestando la parte que antes no supo de ellas y dándose conocimiento de las mismas a la contraria en ese momento para que manifieste lo que a su derecho convenga, resolviéndose de forma inmediata.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 5.- Admitida la demanda o solicitud, así como las pruebas ofertadas por la parte actora o solicitante, en el caso que proceda, el juez ordenará el emplazamiento correspondiente a la parte contraria conforme a las reglas establecidas en el artículo 116 BIS del presente Código, lo que deberá efectuarse a la brevedad, corriéndole traslado con copia de la misma y de los documentos acompañados, a fin de que dentro del plazo de cinco días entregue su contestación y ofrezca sus pruebas por escrito.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 6.- El escrito de contestación se formulará ajustándose a los términos previstos para la demanda o solicitud. Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación y nunca después, salvo las supervenientes.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 7.- El demandado o interesado llamado al procedimiento al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el juez, ésta se notificará personalmente a la parte contraria para que la conteste en un plazo de cinco días. Si no se admite, el juez pronunciará únicamente un acuerdo para enterar a la parte que la solicitó sobre la reserva del derecho.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 8.- El demandado o interesado llamado al procedimiento podrá allanarse a la demanda; en este caso el juez citará a las partes a la audiencia de juicio, que tendrá verificativo en un plazo no mayor de cinco días, en la que se dictará la sentencia respectiva.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 9.-Transcurrido el plazo fijado para contestar la demanda o solicitud y, en su caso, la reconvención, sin que lo hubiere hecho y sin que medie petición de parte, de ser procedente se declarara la rebeldía a la parte demandada o interesado llamado a juicio.
+El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si el emplazamiento fue practicado al interesado llamado al procedimiento en forma legal. Si el juez encontrara que el emplazamiento no se hizo conforme a la ley, mandará reponerlo.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 10.- Contestada la demanda o solicitud, en su caso, la reconvención, o transcurridos los plazos para ello, el juez, al admitir las pruebas, de ser necesario solicitará los informes y enviará los exhortos para el desahogo de aquellas probanzas que lo requieran, dejará a disposición de las partes las citaciones, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
+En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, el juez fijará en el auto correspondiente, fecha y hora a fin de que dentro de los tres días siguientes al de la admisión de la prueba, se constituyan en el local del tribunal la persona y/o personas que deberán estampar la firma, así como los peritos nombrados, a fin de determinar mediante la pericial los rasgos caligráficos o cuerpo de escritura, debiendo exhibir su dictamen y estar presentes en la audiencia de juicio.
+Si no compareció quien debe firmar o escribir, o el oferente de la prueba, o el perito de alguna de las partes, sin causa justificada, se les impondrá una medida de apremio consiste (sic) en una multa hasta por cuarenta días de salario mínimo vigente en la entidad al momento de la comparecencia, señalando por una sola ocasión nueva fecha para el desahogo de ésta, en el entendido que de no comparecer el oferente o el perito ofrecido de sus (sic) parte, dicha probanza será declarada desierta por falta de interés jurídico, pero en caso de que no comparezca la contraparte, ésta quedará supeditada al dictamen que emita el perito de la oferente.
+Finalmente, de inmediato se señalará la fecha y hora para la celebración de la audiencia correspondiente, la que deberá fijarse dentro de los quince días siguientes.
+(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+CAPITULO II
+De las audiencias
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+SECCION PRIMERA
+Disposiciones generales
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 11.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 112 bis de este código.
+Se exceptúa de lo anterior, el divorcio por mutuo consentimiento, en el cual, las partes deberán comparecer personalmente a la audiencia de juicio.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 12.- Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, en la cual (sic) el juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 13.- Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, las propuestas que en su momento se hubieran formulado con motivo de un método alterno hecho valer.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 14.- Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, pero dentro de su ámbito de competencia territorial, deberán ser presididas por el Juez, videograbadas por personal técnico adscrito al Poder Judicial del Estado y certificadas de conformidad con lo dispuesto para el desarrollo de las audiencias en el juzgado.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 15.- La nulidad de una actuación deberá reclamarse en la audiencia de juicio, antes de que el juez pronuncie su sentencia, de no hacerlo así, quedará validada de pleno derecho.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 16.- La resolución judicial pronunciada en la audiencia se tendrá por notificada en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron estarlo.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 17.- Las audiencias serán presididas por el juez con intervención del Agente del Ministerio Público Adscrito y en su caso del personal especializado que corresponda, en aquellos casos en los que sea necesaria su presencia.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 18.- El juez determinará el inicio y la conclusión de cada una de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en cada una de ellas.
+La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentre, sin perjuicio de la facultad del juez en materia de conciliación y/o mediación.
+Una vez que los testigos, peritos o partes concluyan su intervención, a petición de ellos podrán ausentarse del recinto oficial cuando el juez lo autorice.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 19.- Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá decretar recesos.
+Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el juez podrá suspenderla o diferirla, y deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible, y ordenar su reanudación cuando resulte pertinente.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 20.- Para producir fe, las audiencias se registrarán por medios electrónicos, o cualquier otro idóneo a juicio del juez, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes, de acuerdo a la ley, tuvieren derecho a ella.
+Al inicio de las audiencias, el secretario del juzgado hará constar oralmente en el registro a que se hace referencia en el párrafo anterior la fecha, hora y lugar de realización, el nombre de los servidores públicos del juzgado, y demás personas que intervendrán.
+Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán ante el juez rendir protesta de que se conducirán con verdad, misma que será tomada por el juzgador competente; siendo apercibidas las partes por el secretario de acuerdos de las penas en que incurren quienes declaran con falsedad, de conformidad con lo establecido en el Código Penal vigente en el Estado.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 21.- Al terminar las audiencias, se levantará acta que deberá contener, cuando menos:
+I.- El lugar, la fecha y el expediente al que corresponde;
+II.- El nombre de quienes intervienen y la constancia de la inasistencia de los que debieron o pudieron estar presentes, indicándose la causa de la ausencia si se conoce;
+III.- Una relación sucinta del desarrollo de la audiencia, y
+IV.- La firma del juez y secretario.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 22.- El secretario del juzgado deberá certificar el medio en donde se encuentre registrada la audiencia respectiva, identificarlo con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 23.- Se podrá solicitar copia simple o certificada de las actas o copia en medio electrónico de los registros que obren en el procedimiento, la que deberá ser certificada en los términos del artículo anterior, debiendo el litigante cubrir solamente el costo que origine el material en el cual se reproducirá.
+Tratándose de copias simples, el juzgado debe expedir sin demora alguna aquéllas que se le soliciten, bastando que la parte interesada lo realice verbalmente y se asiente constancia de ello. Lo anterior con excepción de los casos señalados en la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 24.- La conservación de los registros estará a cargo del juzgado que los haya generado, los que deberán contar con el respaldo necesario, que se certificará en los términos del artículo 428 bis 22 de este código. Cuando por cualquier causa se dañe el soporte material del registro afectando su contenido, el juez ordenará reemplazarlo por una copia fiel, que obtendrá de quien la tuviere, si no dispone de ella directamente.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 25.- En el tribunal estarán disponibles los instrumentos y el personal necesarios para que las partes tengan acceso a los registros del procedimiento, a fin de conocer su contenido.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+SECCION SEGUNDA
+De la audiencia de procedimiento no controvertido
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 26.- La audiencia de trámite tiene por objeto:
+I.- La conciliación y/o convenio de las partes;
+II.- La depuración del procedimiento;
+III.- La fijación de acuerdos probatorios;
+IV.- La fijación de acuerdos sobre hechos no controvertidos;
+V.- Desahogo de pruebas;
+VI.- Formulación de alegatos;
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 27.- La audiencia de trámite se llevará a cabo con o sin la asistencia de las partes en los casos de la fracción III del artículo 428 BIS.
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 28.- El juez incitará a las partes o los interesados a través de los medios alternos a llegar a un convenio, de no lograrlo, examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 29.- El juez podrá formular proposiciones a las partes para que realicen acuerdos probatorios respecto de aquellas pruebas ofrecidas a efecto de determinar cuáles resultan innecesarias.
+En caso de que las partes no lleguen a un acuerdo probatorio, el juez determinará la forma en que deberán prepararse las pruebas para su desahogo, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente, excepto en los casos previstos en el último párrafo del artículo 428 BIS 3. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados y se cumplan con los demás requisitos que se señalan en este Código.
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el juez, en auxilio del oferente, expedirá los oficios o citaciones al momento de tener por admitidas las pruebas, quedando supeditadas las partes a fin de que alleguen al juzgado competente cuando menos con cinco días de anticipación a la celebración de la audiencia de juicio, los dictámenes de sus correspondientes expertos, ello con la finalidad de que en caso de ser necesario, el juzgador realice el nombramiento del perito tercero en discordia, para presentar su dictamen antes del dictado de la sentencia.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 30.- Durante la audiencia, las partes podrán solicitar conjuntamente al juez la fijación de acuerdos sobre hechos no controvertidos.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 31.- Se procederá al desahogo de las pruebas que se encuentren debidamente admitidas y preparadas en el orden que el juez estime pertinente. Al efecto, contará con las más amplias facultades de dirección procesal; dejando de recibir las que no se encuentren preparadas y haciendo efectivo el apercibimiento realizado al oferente; por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación de las pruebas admitidas, salvo aquellos casos previstos en el artículo 305 de este Código.
+El juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las formalidades que correspondan, y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes hicieren uso abusivo de su derecho.
+El juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las medidas de apremio a que se refiere el artículo 73 de este Código.
+En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos, pudiendo limitar el juez atento a las circunstancias del asunto el tiempo a cada una de las partes.
+Enseguida, se declarara el asunto visto, dictado (sic) en la misma audiencia la sentencia correspondiente, otorgándole la facultad al Juez, de determinar según el asunto si ordena un receso para posteriormente dictar la sentencia o, en su defecto, si se señala fecha para la continuación de la audiencia dentro del término de tres días siguientes.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 32.- El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos, estando o no presentes las partes o interesados.
+Acto seguido quedará a disposición de las partes copia simple de la sentencia que se pronuncie.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 33.- En el procedimiento oral solo será apelable la sentencia definitiva, los autos y las sentencias interlocutorias que pongan fin al procedimiento, con independencia de su naturaleza, el cual deberá admitirse en ambos efectos.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 34.- La ejecución de la sentencia o convenios se tramitará conforme a las reglas establecidas en este código.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+SECCION TERCERA
+Del divorcio por mutuo consentimiento en materia de oralidad
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 35.- Cuando ambos consortes convengan en divorciarse, en los términos del último párrafo del artículo 272 del Código Civil, deberán ocurrir al tribunal competente presentando el convenio que se exige en el artículo 273 del Código citado, así como una copia certificada del acta (sic) matrimonio o en su defecto de la relación conyugal que los une, así como las correspondientes actas de nacimiento de los hijos menores, el juez al considerar que la solicitud de divorcio satisface los requisitos, señalará fecha para el desahogo de la audiencia de juicio dentro de los siguientes diez días de su radicación. Dando vista al agente del ministerio público adscrito a fin de que dentro del término de tres días manifieste lo que a su representación social corresponda en lo relacionado con los derechos de los menores.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 36.- Al inicio de la audiencia, el Juez exhortará a los interesados para procurar su reconciliación. Si se logró el avenimiento, el Juez archivará el asunto como concluido; en caso contrario, oyendo al representante del Ministerio Público, se analizarán los puntos del convenio relativos a la situación de los hijos menores, a los alimentos de aquellos y de los que en su caso un cónyuge deba dar a otro mientras dure el procedimiento o después de concluido.
+Acto continuo se procederá a la aprobación del convenio, pronunciando la resolución correspondiente en la audiencia.
+Si cualquiera de los cónyuges no asisten a la audiencia sin causa justificada antes de su inicio, se dará por terminada la instancia.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 37.- Si el convenio no contiene todos los puntos enumerados en el artículo 273 del Código Civil o no están expresados claramente, al admitir la solicitud el juez prevendrá a los solicitantes para que en el plazo de tres días precisen y aclaren, apercibiéndolos de que si no lo hacen de común acuerdo, se les tendrá por desistidos de su solicitud de divorcio.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 38.- El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 39.- Ejecutoriada la sentencia de divorcio, el tribunal ordenará de oficio la remisión de la copia de ésta al Oficial del Registro Civil ante quien se celebró el matrimonio o, en su defecto la relación conyugal, para proceder conforme a lo (sic) establecen los artículos 114 y 291 del Código Civil del Estado.
+Cuando la sentencia haya causado ejecutoria las ulteriores solicitudes de modificación del convenio se plantearán ante el juzgador competente de conformidad a lo establecido en el título décimo sexto de este código.
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE AGOSTO DE 2014)
+SECCION CUARTA
+De la jurisdicción voluntaria en materia de oralidad
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ARTICULO 428 BIS 40.- Presentada la solicitud el juez de oralidad competente, señalará dentro de los diez días siguientes fecha para el desahogo de la audiencia en la cual, examinará las cuestiones relativas a la legitimación procesal y con la intervención del representante del Ministerio Público, en los casos que corresponda, procederá al desahogo de las pruebas o diligencias.
+Enseguida, se declarara el asunto visto, dictado en la misma audiencia la sentencia correspondiente, otorgándole la facultad al Juez, de determinar según el asunto si ordena un receso para posteriormente dictar la sentencia o en su defecto, si señala fecha para la continuación de la audiencia dentro del término de cinco días siguientes.
+Si los promoventes no asisten a la audiencia sin causa justificada, antes de su inicio, se dará por terminada la instancia.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+SECCION QUINTA
+De las audiencias del procedimiento controvertido
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 41.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 112 bis de este código, además de contar con facultades expresas para conciliar ante el juez y suscribir, en su caso, el convenio correspondiente.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 42.- La primera de las audiencias denominada conciliatoria será desahogada por el secretario de acuerdos, en tanto que las audiencias preliminar y de juicio serán presididas por el juez.
+Previo a que se efectúe la audiencia conciliatoria, en los asuntos donde se involucren menores, el juez llevará a cabo una plática con éstos, en la que intervendrá el agente del ministerio público y un experto en psicología, quienes fungirán como representantes del o los menores. Una vez concluida dicha plática, el secretario de acuerdos iniciará la audiencia conciliatoria únicamente con las partes, sin intervención de menores y sin la asistencia de sus asesores legales, estando presente únicamente el agente del ministerio público adscrito, debiendo levantar al finalizar en cada una de las audiencias las actas correspondientes.
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE AGOSTO DE 2014)
+SECCION SEXTA
+De la audiencia conciliatoria
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 43.- La audiencia conciliatoria tiene por objeto:
+I.- La presencia del menor y/o menores involucrados con el juez, quien en dicho acto se hará acompañar del ministerio público y psicólogo experto, quienes escucharán al o los menores, con el fin de obtener una valoración real, certera y propicia de su estado psico-emocional respecto del conflicto que sustentan sus padres, resultado que coadyuvará al momento en que el juzgador emita su sentencia correspondiente.
+II.- Las partes involucradas en el asunto, serán escuchadas por el secretario de acuerdos, quien en compañía del ministerio público, a través de los medios alternos buscarán la mejor solución para el conflicto, de lograrlo, en el acto se elaborará el convenio, dándole intervención a los representantes legales de las partes, solo para su conocimiento y perfeccionamiento de algunos puntos, para posteriormente ser ratificado ante la presencia judicial, elevándose a la categoría de sentencia ejecutoriada, archivándose el asunto.
+De no lograr la solución al conflicto, en el acto, el secretario de acuerdos fijará fecha dentro de los diez a quince días siguientes para el desahogo de la audiencia preliminar, quedando debidamente notificadas las partes.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+SECCION SEPTIMA
+De la audiencia preliminar
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 44.- La audiencia preliminar tiene por objeto:
+I.- La depuración del procedimiento;
+II.- La conciliación y/o mediación de las partes por conducto del juez;
+III.- La fijación de acuerdos probatorios;
+IV.- La fijación de acuerdos sobre hechos no controvertidos;
+V.- La calificación sobre la admisibilidad de las pruebas, y
+VI.- La citación para audiencia de juicio.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 45.- La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 46.- El juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 47.- En caso de que resulten improcedentes las excepciones procesales, o si no se opone alguna, el juez procurará la conciliación entre las partes, haciéndoles saber los beneficios de llegar a un convenio proponiéndoles soluciones. Si los interesados llegan a un convenio, el juez lo aprobará de plano si procede legalmente y dicho pacto tendrá fuerza de cosa juzgada. En caso de desacuerdo, el juez proseguirá con la audiencia.
+Las partes no podrán invocar, en ninguna etapa procesal, antecedente alguno relacionado con la proposición, discusión, aceptación, ni rechazo de las propuestas de conciliación y/o mediación.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 48.- El juez podrá formular proposiciones a las partes para que realicen acuerdos probatorios respecto de aquellas pruebas ofrecidas a efecto de determinar cuáles resultan innecesarias.
+En caso de que las partes no lleguen a un acuerdo probatorio, el juez determinará la forma en que deberán prepararse las pruebas para su desahogo, quedando a cargo de las partes su oportuna preparación, bajo el apercibimiento que de no hacerlo se declararán desiertas de oficio las mismas por causas imputables al oferente, excepto en los casos previstos en el último párrafo del artículo 428 BIS 3. Las pruebas que ofrezcan las partes sólo deberán recibirse cuando estén permitidas por la ley y se refieran a los puntos cuestionados y se cumplan con los demás requisitos que se señalan en este Código.
+La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el juez, en auxilio del oferente, expedirá los oficios o citaciones al momento de tener por admitidas las pruebas, quedando supeditadas las partes a fin de que alleguen al juzgado competente cuando menos con cinco días de anticipación a la celebración de la audiencia de juicio, los dictámenes de sus correspondientes expertos, ello con la finalidad de que en caso de ser necesario, el juzgador realice el nombramiento del perito tercero en discordia, para presentar su dictamen antes del dictado de la sentencia.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 49.- Durante la audiencia, las partes podrán solicitar conjuntamente al juez la fijación de acuerdos sobre hechos no controvertidos.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 50.- En el mismo proveído, el juez fijará fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del lapso de diez a veinte días.
+(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
+SECCION OCTAVA
+De la audiencia de juicio
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 51.- Abierta la audiencia el juez por última ocasión incitará a las partes a fin de que resuelvan su controversia mediante un convenio judicial, de no lograrlo, se procederá al desahogo de las pruebas que se encuentren debidamente preparadas en el orden que el juez estime pertinente. Al efecto, contará con las más amplias facultades de dirección procesal; dejando de recibir las que no se encuentren preparadas y haciendo efectivo el apercibimiento realizado al oferente; por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas, salvo en aquellos casos expresamente determinados en este Código, por caso fortuito o de fuerza mayor.
+El juez ordenará la práctica de las pruebas, dirigirá el debate y exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión, podrá impedir que las alegaciones se desvíen hacia aspectos no pertinentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes hicieren uso abusivo de su derecho.
+El juez contará con las más amplias facultades disciplinarias para mantener el orden durante el debate y durante las audiencias, para lo cual podrá ejercer el poder de mando de la fuerza pública e imponer indistintamente las medidas de apremio a que se refiere el artículo 73 de este Código.
+En la audiencia sólo se concederá el uso de la palabra, por una vez, a cada una de las partes para formular sus alegatos.
+Enseguida, se declarara el asunto visto, dictado en la misma audiencia la sentencia correspondiente, otorgándole la facultad al Juez, de determinar según el asunto si ordena un receso para posteriormente dictar la sentencia o en su defecto, si señala fecha para la continuación de la audiencia dentro del término de cinco días siguientes.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 52.- El juez expondrá oralmente y de forma breve, los fundamentos de hecho y de derecho que motivaron su sentencia y leerá únicamente los puntos resolutivos.
+Acto seguido quedará a disposición de las partes copia de la sentencia que se pronuncie, por escrito.
+En caso de que en la fecha y hora fijada para esta audiencia no asistiere al juzgado persona alguna, se dispensará la lectura de la misma.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 53.- En el procedimiento oral solo será apelable la sentencia definitiva, los autos y las sentencias interlocutorias que pongan fin al procedimiento, con independencia de su naturaleza, el cual deberá admitirse en ambos efectos.
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 54.- La ejecución de la sentencia o convenios se tramitará conforme a las reglas establecidas en este código.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE AGOSTO DE 2014)
+CAPITULO III
+De los incidentes
+(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
+ART. 428 BIS 55.- Los incidentes que no tengan tramitación especial podrán promoverse oralmente hasta antes que se declare visto para sentencia el asunto y de no hacerlo, se tendrá por precluido su derecho.
+Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en la misma audiencia, de considerar que se encuentran preparadas, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución incidental.
+Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente.
+Si en la audiencia de juicio no pudieren desahogarse las pruebas vinculadas con el incidente o no pudiera concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia desahogando las pruebas y resolviendo la incidencia en una audiencia especial, previamente al dictado de la sentencia definitiva.
 TITULO SEPTIMO
 De los juicios sumarios y de la vía de apremio
 CAPITULO I
