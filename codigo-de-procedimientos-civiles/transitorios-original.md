@@ -374,8 +374,8 @@ II.- Cuando se trate de personas cuyo domicilio se ignora.
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 En este caso el juicio deberá seguir con los trámites y solemnidades a que se refiere el título noveno.
 III.- En todos los demás casos previstos por la ley.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-En los casos anteriores, los edictos se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
+En los casos anteriores, los edictos se publicarán por dos meses consecutivos, de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
 (ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 Previamente a la publicación por edictos a que se hace referencia en el presente artículo, la parte actora deberá dar a conocer el último domicilio conocido de la persona, para que en su caso se indague sobre su paradero.
 (ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)
@@ -399,6 +399,17 @@ De los términos judiciales
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 ART. 128.- Todos los términos judiciales empezarán a correr desde el día siguiente al en que haya surtido efectos el emplazamiento, notificación, citación o la última publicación de edictos y se contará en ellos el día de su vencimiento.
 ART. 129.- (DEROGADO, P.O. 8 DE SEPTIEMBRE DE 2012)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2014)
+CAPITULO V BIS
+De los Edictos Electrónicos
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 129 BIS 1.- Los edictos que deban publicarse de manera electrónica deberán ser elaborados por la autoridad judicial que los autorizó quien, previa la comprobación del pago de los derechos correspondientes, será la responsable de comunicar su contenido y términos de su publicación a la Dirección de Informática para que ésta última proceda a realizar su difusión, a más tardar al día hábil siguiente, en la página de internet prevista para ello.
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 129 BIS 2.- La página de edictos electrónicos deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, la Dirección de Informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados, por municipio en (sic) tratándose de bienes e, histórico.
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 129 BIS 3.- Efectuada la publicación de los edictos a que hace referencia el artículo 129 Bis 1, la Dirección de Informática deberá expedir la constancia de publicación respectiva y remitirla de inmediato al órgano jurisdiccional requirente para que éste, en su caso, se encuentre en aptitud de computar los términos judiciales que correspondan.
+(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 129 BIS 4.- El contenido de los edictos que se publiquen de manera electrónica deberá permanecer visible en el sitio virtual de internet destinado para ello, así como en los dispositivos tecnológicos previstos para ellos, que estarán localizados en el palacio de justicia donde se encontraren los partidos judiciales del Estado por el tiempo total por el que fue ordenada la publicación, no obstante que, entre cada una medien días inhábiles. Por lo que es obligación de la autoridad respectiva precisar, en cada caso, la duración de la publicación de los edictos.
 ART. 130.- En ningún término se contarán los días en que no puedan tener lugar actuaciones judiciales.
 ART. 131.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 132.- Una vez concluídos los términos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el juicio su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercitarse; salvo los casos en que la ley disponga otra cosa.
@@ -681,7 +692,7 @@ Si no comparece a la primera citación, se le citará por segunda vez bajo aperc
 Si después de dos citaciones no compareciere ni alegare justa causa que se lo impida, se le tendrá por confeso en la certeza de la deuda.
 ART. 201.- El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse aquél en el acto de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el actuario en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no es suya la firma; se tendrá por reconocida.
 (REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)
-ART. 202.- Puede hacerse el reconocimiento de documentos firmados ante notario público, en forma autógrafa o con la firma electrónica certificada, ya en el momento del otorgamiento o con posterioridad, siempre que lo haga la persona directamente obligada, su representante legítimo su mandatario con poder bastante.
+ART. 202.- Puede hacerse el reconocimiento de documentos firmados ante notario público, en forma autógrafa o con la firma electrónica certificada, ya en el momento del otorgamiento o con posterioridad, siempre que lo haga la persona directamente obligada, su representante legítimo o su mandatario con poder bastante.
 El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es apoderado del deudor y la cláusula relativa.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 203.- Si es un instrumento público o privado reconocido y contiene cantidad ilíquida, puede prepararse la acción ejecutiva, siempre que la liquidación pueda hacerse en un término que no excederá de nueve días.
@@ -1088,8 +1099,7 @@ XI.- Los demás a los que se les reconozca ese carácter por la Ley.
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
 Por testimonio se entiende la copia de una escritura pública expedida por el notario ante quien se otorgó o por el que lo sustituya conforme a la Ley firmada en forma autógrafa o con la firma electrónica certificada.
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
-Auténtico se llama a todo documento que está a
-utorizado y firmado, en forma autógrafa, por el servidor público que tenga facultades para expedirlo y que lleve el sello de la oficina respectiva; o el que contengan la firma electrónica certificada del servidor público facultado, en cuyo caso no se requerirá el sello.
+Auténtico se llama a todo documento que está autorizado y firmado, en forma autógrafa, por el servidor público que tenga facultades para expedirlo y que lleve el sello de la oficina respectiva; o el que contengan la firma electrónica certificada del servidor público facultado, en cuyo caso no se requerirá el sello.
 (ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)
 Cuando se trate de documentos firmados con la firma electrónica certificada no se requiera la exigencia del sello de la oficina respectiva.
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
@@ -2124,11 +2134,11 @@ II.- Para recurrir el auto de aprobación del remate, en su caso y
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 III.- Para nombrar a su costa un perito que con los nombrados por el ejecutante y el ejecutado practique el avalúo de la cosa. Nunca disfrutarán de este derecho después de practicado el avalúo por los peritos de las partes o el tercero en discordia, en su caso, ni cuando la valorización se haga por otros medios.
 ART. 568.- El avalúo se practicará de acuerdo con las reglas establecidas para la prueba pericial. Si fueren más de dos los peritos valuadores no habrá necesidad de nombrar tercero en discordia.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 569.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por dos veces, de siete en siete días, fijándose edictos en los sitios públicos de costumbre, y si el valor del bien excede de mil unidades de salario mínimo general vigente en el Estado, además de lo anterior, se insertarán aquellos en uno de los periódicos de mayor circulación en la Entidad. A petición de cualquiera de las partes y a su costa el juez puede usar, además de los antes señalados, algún otro medio de publicidad para convocar postores.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
+Artículo 569.- Hecho el avalúo se sacarán los bienes a pública subasta, anunciándose por siete días hábiles, publicándose edictos de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado. A petición de cualquiera de las partes y a su costa el Juez puede usar, además de los antes señalados, algún otro medio de publicidad para convocar postores.
 ART. 570.- Antes de fincarse el remate o declararse la adjudicación podrá el deudor librar sus bienes pagando principal y costas. Después de fincado quedará la venta irrevocable.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en los sitios de costumbre y en los estrados del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor en que se encuentren los bienes. Puede usar el juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
+Artículo 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en el sitio virtual de internet y en los estrados del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor en que se encuentren los bienes. Puede usar el Juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
 ART. 572.- Es postura legal la que cubra las dos terceras partes del avalúo o del precio fijado a la finca hipotecada por los contratantes, con tal de que la parte de contado sea suficiente para pagar el crédito o créditos que han sido objeto del juicio y las costas.
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal las dos tercias partes del avalúo dadas al contado.
 ART. 573.- Para tomar parte en la subasta deberán los licitadores consignar previamente, en el establecimiento de crédito destinado al efecto por la ley, una cantidad igual por lo menos al diez por ciento efectivo del valor de los bienes, que sirva de base para el remate, sin cuyo registro no serán admitidos.
@@ -2270,8 +2280,8 @@ ART. 636.- En toda clase de juicios, cuando se constituya en rebeldía un litiga
 Las subsecuentes resoluciones que recaigan en el proceso y cuantas citaciones deban hacerse, se notificarán por lista en los términos del artículo 123.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 637.- El litigante será declarado rebelde a petición de parte contraria, a no ser que cuando el que ha sido arraigado quebrante el arraigo sin dejar apoderado instruído y expensado.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 638.- Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en un Periódico de los de mayor circulación en el Estado.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
+Artículo 638.- Los autos que ordenen día y hora para el desahogo de alguna prueba y los puntos resolutivos de la sentencia definitiva que se pronuncie siempre que se esté en el caso previsto por la fracción II del artículo 122, se publicarán por dos veces consecutivas, en el sitio virtual de internet destinado para ello.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 639.- Desde el día en que fue declarado rebelde o quebrantó el arraigo el demandado, se decretará, si la parte contraria lo pidiere, la retención de sus bienes muebles y el embargo de los inmuebles en cuanto estime necesarios para asegurar lo que sea objeto del juicio.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
@@ -2607,10 +2617,12 @@ CAPITULO I
 Reglas generales
 ART. 737.- El concurso del deudor no comerciante puede ser voluntario o necesario. Es voluntario cuando el deudor se desprende de sus bienes para pagar a sus acreedores, presentándose por escrito acompañando un estado de su activo y pasivo con expresión del nombre y domicilio de sus deudores y acreedores, así como una explicación de las causas que hayan motivado su presentación en concurso. Sin estos requisitos no se admitirá la solicitud. No se incluirán en el activo los bienes que no puedan embargarse.
 Es necesario cuando dos o más acreedores de plazo cumplido han demandado o ejecutado ante un mismo o diversos jueces a sus deudores y no haya bienes bastantes para que cada uno secuestre lo suficiente para cubrir su crédito y costas.
-ART. 738.- Declarado el concurso, el juez resolverá:
-I.- Notificar personalmente o por cédula, al deudor la formación de su concurso necesario, y en uno de los periódicos de mayor circulación en el Estado, el concurso voluntario;
-(F. DE E., P.O. 9 DE ABRIL DE 1955)
-II.- Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en dos periódicos de información que designará el juez. Si hubiere acreedores en el lugar del juicio, se citarán por medio de cédula, por correo o telégrafo si fuere necesario;
+(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 738.- Declarado el concurso, el Juez resolverá:
+(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)
+I.- Notificar personalmente o por cédula, al deudor la formación de su concurso necesario, y en el sitio virtual de internet destinado para ello, el concurso voluntario;
+(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2014)
+II.- Hacer saber a los acreedores la formación del concurso por edictos que se publicarán en el sitio virtual de internet destinado para ello. Si hubiere acreedores en el lugar del juicio, se citarán por medio de cédula, por correo o telégrafo si fuere necesario;
 III.- Nombrar síndico provisional;
 IV.- Decretar el embargo y aseguramiento de los bienes, libros, correspondencia y documentos del deudor, diligencias que deberán practicarse en el día, sellando las puertas de los almacenes y despachos del deudor y muebles susceptibles de embargo que se hallen en el domicilio del mismo deudor;
 V.- Hacer saber a los deudores la prohibición de hacer pagos o entregar efectos al concursado, y la orden de éste de entregar bienes al síndico, bajo el apercibimiento de segunda paga a los primeros y de procederse penalmente en contra del deudor que ocultare cosas de su propiedad;
@@ -2755,7 +2767,8 @@ CAPITULO II
 De las testamentarías
 ART. 789.- El que promueva el juicio de testamentaría debe de presentar el testamento del difunto. El juez sin más trámite, lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento se les dé a conocer, y, si no lo hubiere, procedan a elegirlo con arreglo a lo prescrito en los artículos 1,573, 1,574, 1,575 y 1,579 del Código Civil.
 ART. 790.- La junta se verificará dentro de los ocho días siguientes a la citación, si la mayoría de los herederos reside en el lugar del juicio. Si la mayoría residiere fuera del lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias. La citación se hará por cédula o correo certificado.
-ART. 791.- Si no se conociere el domicilio de los herederos y éstos estuvieren fuera del lugar del juicio, se mandarán publicar edictos en el lugar del juicio en los sitios de costumbre, en el del último domicilio del finado y en el de su nacimiento.
+(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 791.- Si no se conociere el domicilio de los herederos y éstos estuvieren fuera del lugar del juicio, se mandarán publicar edictos de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado.
 Estando ausentes los herederos y sabiéndose su residencia, se les citará por exhorto cuando estuvieren fuera del Estado.
 ART. 792.- Si hubiere herederos menores o incapacitados que tengan tutor, mandará citar a éste para la junta.
 Si los herederos menores no tuvieren tutor, dispondrá que le nombren con arreglo a derecho como se previene en el artículo 775.
@@ -2783,11 +2796,12 @@ ART. 805.- Si ninguno de los pretendientes hubiere sido declarado heredero, cont
 ART. 806.- Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 800 mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grados de parentesco de los que reclaman la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 El juez prudentemente podrá ampliar el plazo anterior cuando, por el lugar de origen del finado u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-Los edictos se insertarán, además, dos veces de diez en diez días en uno de los periódicos de mayor circulación en la Entidad si el valor de los bienes hereditarios excediere de mil unidades de salario mínimo general vigente en el Estado.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
+Los edictos se publicarán en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado por veinte días hábiles si el valor de los bienes hereditarios excediere de mil unidades de salario mínimo general vigente en el Estado.
 ART. 807.- Transcurrido el término de los edictos a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista, el juez hará la declaración prevenida en el artículo 804.
 Si hubieren comparecido otros parientes, el juez le (sic) señalará un término no mayor de quince días para que, con audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 802 a 806.
-ART. 808.- Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos de la manera y por el término expresados en el artículo 806, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
+(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
+ART. 808. Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el Juez mandará publicar edictos en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado y por el término expresado en el artículo 806, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
 ART. 809.- Los que comparezcan a consecuencia de dichos llamamientos, deberán expresar por escrito, el grado de parentesco en que se hallen con el causante de la herencia, justificándolo con los correspondientes documentos firmados en forma autógrafa o con la firma electrónica certificada, acompañados del árbol genealógico. Estos escritos y documentos se unirán a la sección de sucesión por el orden en que se vayan presentando.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
