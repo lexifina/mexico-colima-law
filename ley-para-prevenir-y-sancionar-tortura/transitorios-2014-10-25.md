@@ -1,6 +1,7 @@
 P.O. 25 DE OCTUBRE DE 2014.
 PRIMERO.- Previa publicación en el Periódico Oficial "El Estado de Colima", el presente Decreto entrará en vigor en la fecha, en las regiones y mediante las modalidades siguientes:
-I. El 19 de noviembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 III. En materia de Justicia Penal para Adolecentes entrará en vigor el 1° de abril del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
 IV. El 15 de agosto del año 2015, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
