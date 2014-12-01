@@ -1,0 +1,12 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)
+ART. 124 BIS.- Cuando el Notario titular pida licencia para separarse definitivamente de su notaría en los términos de la presente Ley, fallezca o presente incapacidad que determine su imposibilidad de continuar su función, con el objeto de que la notaría no deje de prestar sus servicios haya o no celebrado convenio de asociación, el adscrito lo sustituirá en forma inmediata y provisional notificando a la Secretaría General de Gobierno de ello. A partir de que el Notario sustituto entra en funciones tiene hasta dos años para solicitar a la Secretaría la evaluación de su desempeño como Notario sustituto a fin de que le sea otorgada la titularidad de la notaría, la cual podrá obtener si cubre los requisitos siguientes:
+I. Haberse conducido con eficiencia, honestidad, probidad y eficacia en el desempeño de la función;
+II. Haber cumplido con las obligaciones inherentes al cargo;
+III. No tener resolución fundada en su contra relativa a los procedimientos de queja administrativa o de responsabilidad, en los términos previstos por esta ley; y
+IV. Aprobar la evaluación que haga el jurado integrado en los términos del artículo 112 de esta ley.
+Si el sustentante no acredita alguno de los requisitos previstos en las fracciones I, II y III de este artículo no tendrá derecho a la evaluación prevista en la fracción IV.
+Para efecto de tener por acreditados los requisitos previstos en las fracciones I y II antes enumerados, la Secretaría General de Gobierno se apoyará en las visitas de inspección a la notaría a cargo del sustituto para verificar materialmente su actuación en el protocolo que actúa.
+En cuanto al requisito previsto en la fracción III, deberá constatarse y certificarse de los archivos que obran en la Secretaría General de Gobierno.
+El requisito señalado en la fracción IV se acreditará con el documento que demuestre que aprobó la evaluación.
+De no ser favorable la evaluación para que el Notario sustituto adquiera la titularidad de la notaría, ésta quedará vacante y posteriormente dentro de los próximos veinte días hábiles se convocará a examen en los términos prevenidos en el artículo 110 de la presente ley; en tanto se nombra al Notario titular el ejecutivo designará a un Notario sustituto.

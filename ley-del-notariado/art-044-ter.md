@@ -1,0 +1,3 @@
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2014)
+ART. 44 TER.- Cuando ante un Juez o Notario presenten un poder para actos de dominio sobre bienes inmuebles, otorgado por persona física o moral, y que dicho poder no esté sujeto a otro registro, deberá solicitar en forma escrita o electrónica el informe relativo de la existencia o inexistencia, y en su caso, de la vigencia de algún poder, mediante la solicitud de revisión a la Secretaría General de Gobierno y ésta a su vez solicitará vía Internet el reporte de revisión al Registro Nacional de Avisos de Poderes Notariales.

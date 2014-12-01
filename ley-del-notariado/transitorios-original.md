@@ -12,4 +12,4 @@ ART. 10.- Se abrogan las leyes y disposiciones relativas al notariado vigentes c
 El Gobernador Constitucional del Estado, dispondrá se publique, circule y observe.
 Salón de Sesiones del H. Congreso del Estado.- Colima, Col., Diciembre 29 de 1963.- Diputado Presidente, PROFR. ISMAEL AGUAYO FIGUEROA.- Diputado Secretario, ENRIQUE CUEVAS RUIZ.- Diputado Secretario, JOSE AHUMADA SALAZAR.- Rúbricas.
 Por tanto mando se imprima, publique, circule y observe.- Palacio de Gobierno, Colima, Col., Diciembre 29 de 1963.- El Gobernador Constitucional del Estado, LIC. FRANCISCO VELASCO CURIEL.- Rúbrica.- El Secretario General de Gobierno, LIC. JULIO SANTA ANA E.- Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.

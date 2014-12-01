@@ -1,4 +1,9 @@
-(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)
-ART. 12 BIS.- Los documentos que integran el protocolo podrán ser digitalizados por el notario, para incorporarse a un archivo electrónico. El notario deberá autorizar los documentos digitalizados con su firma electrónica certificada.
-El notario podrá optar por llevar el apéndice en forma electrónica. En este caso, los documentos que el notario agregue al apéndice electrónico deberán de ser digitalizados por él, cuando se trate de documentos en soporte material que se conviertan a documentos en soporte electrónico. Los documentos públicos electrónicos, que sean requeridos por el notario, deberá solicitarlos en forma directa y obtenerlos suscritos por su autor con firma electrónica certificada. Cuando tales documentos estén disponibles en Internet, el notario deberá obtenerlos directamente y conservar el documento electrónico, en su apéndice electrónico, para su ulterior consulta.
-Los documentos a que se refiere este artículo tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada del notario.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2014)
+ART. 12 BIS.- El Notario podrá contar con un protocolo electrónico, el cual se integra con:
+a) Los registros electrónicos de actos y escrituras otorgados ante la fe del Notario; y
+b) El apéndice y el índice de instrumentos electrónicos.
+Cada libro del protocolo electrónico deberá contener ochocientos registros electrónicos, entendiendo por estos los asientos de actos y escrituras.
+Para efecto de celebrar un acto o escritura en el protocolo electrónico el Notario público y las partes que intervengan deben contar con la firma electrónica certificada proporcionada por la autoridad competente.
+Las copias de los documentos autorizados en el protocolo electrónico deberán expedirse y remitirse por medio magnético, electrónico u óptico con la firma electrónica certificada por el Notario Público que autorizó el acto.
+Serán aplicables al protocolo electrónico las disposiciones relativas al protocolo en cuanto no las contravengan.
