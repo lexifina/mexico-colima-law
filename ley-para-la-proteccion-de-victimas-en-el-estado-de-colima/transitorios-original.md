@@ -1,0 +1,14 @@
+TRANSITORIOS
+ARTÍCULO PRIMERO.- El presente Decreto entrará en vigor el 31 de diciembre del año 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
+ARTÍCULO SEGUNDO.- Se abrogan la Ley que Regula la Atención y Protección a la Víctima del Delito en el Estado de Colima, publicada el 23 de septiembre de 2006, mediante decreto número 416, en el Periódico Oficial "El Estado de Colima"; así como la Ley para la Protección de Víctimas en el Estado de Colima, publicado el día 15 de febrero de 2014, mediante decreto número 283, en el Periódico Oficial "El Estado de Colima". Asimismo, quedan abrogadas todas las disposiciones que se opongan al presente Decreto.
+ARTÍCULO TERCERO.- Lo correspondiente en esta Ley al nuevo Sistema de Justicia Penal Acusatorio Adversarial, en tanto no entrare en vigor en las zonas y regiones, de conformidad a las fechas establecidas en la Declaratoria de Implementación de este Sistema, lo substanciarán las autoridades que al momento de la entrada en vigor de la presente Ley les corresponda.
+ARTÍCULO CUARTO.- El Ejecutivo del Estado contará con un término de 120 días posteriores a la entrada en vigor del presente Decreto, para adecuar o emitir la reglamentación correspondiente que desarrolle las bases y lineamientos de la presente Ley.
+ARTÍCULO QUINTO.- En tanto se conforme la Unidad de Asesoría Jurídica Estatal, el Ministerio Público dará la asesoría necesaria a las víctimas y ofendidos, y en caso de que por éste se emitan acuerdos o determinación que afecten a los intereses de los antes mencionados, en estos casos, la asesoría jurídica la prestará la Defensoría Pública.
+El Gobernador del Estado dispondrá se publique, circule y observe.
+Dado en el Recinto Oficial del Poder Legislativo, a los doce días del mes de diciembre del año dos mil catorce.
+C. OSCAR A. VALDOVINOS ANGUIANO, DIPUTADO PRESIDENTE.- Rúbrica.- C. MANUEL PALACIOS RODRÍGUEZ, DIPUTADO SECRETARIO.- Rúbrica.- C. GABRIELA BENAVIDES COBOS, DIPUTADA SECRETARIA.- Rúbrica.
+Por tanto mando se imnprima (sic), publique, circule y observe.
+Dado en Palacio de Gobierno, al día 13 trece del mes de diciembre del año dos mil catorce.
+A t e n t a m e n t e
+SUFRAGIO EFECTIVO. NO REELECCIÓN
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ.-Rúbrica.- SECRETARIO DE SEGURIDAD PÚBLICA, GRAL. DE DIV. D.E.M. RET. RAÚL PINEDO DÁVILA.- Rúbrica.- SECRETARIO DE EDUCACIÓN, MTRO. JOSÉ GUILLERMO RANGEL LOZANO.- Rúbrica.- PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, LIC. MARCOS SANTANA MONTES.- Rúbrica.- SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA.- Rúbrica.- SECRETARIO DE DESARROLLO SOCIAL, LIC. RIGOBERTO SALAZAR VELASCO.- Rúbrica.- SECRETARIA DE FINANZAS Y ADMINISTRACIÓN, C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ.- Rúbrica.-
