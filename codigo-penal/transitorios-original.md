@@ -3,7 +3,8 @@ ARTÍCULO PRIMERO.- Previa publicación en el Periódico Oficial "El Estado de C
 (REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)
 I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
 II. El 1° de abril del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
-III. En materia de Justicia Penal para Adolecentes entrará en vigor el 1º de abril del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+(REFORMADA, P.O. 23 DE MARZO DE 2015)
+III. En materia de Justicia Penal para Adolecentes (sic) entrará en vigor el 12 de agosto del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
 IV. El 5 de agosto del año 2015, en el Municipio de Manzanillo, correspondiente al tercer partido judicial; y
 V. El 12 de agosto del año 2015, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 ARTÍCULO SEGUNDO.- Se abroga el Código Penal para el Estado de Colima publicado el día 27 de Julio de 1985 en el Periódico Oficial "El Estado de Colima" gradualmente, de conformidad a las fechas en que se vaya incorporando el Nuevo Sistema de Justicia Penal Acusatorio Adversarial en el partido judicial correspondiente, conforme a lo establecido en el Artículo Transitorio anterior, hasta que quede abrogado definitivamente. Asimismo, quedan abrogadas todas las disposiciones que se opongan al presente Decreto.
