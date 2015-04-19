@@ -2069,8 +2069,9 @@ II.- El secuestro de bienes que han sido objeto de embargo judicial anterior, en
 III.- El secuestro de alhajas y demás muebles preciosos que se hará depositándolos en la institución autorizada al efecto por la ley o en el Monte de Piedad.
 ART. 543.- Quedan exceptuados de embargo:
 I.- Los bienes que constituyan el patrimonio de familia desde su inscripción en el Registro Público de la Propiedad, en los términos establecidos por el Código Civil;
-(REFORMADA, P.O. 14 DE JUNIO DE 1975)
-II.- El lecho cotidiano, los vestidos y los muebles del uso ordinario del deudor, de su cónyuge o de sus hijos no siendo de lujo, a juicio del Juez;
+(REFORMADA, P.O. 18 DE ABRIL DE 2015)
+II.- El menaje de casa constituido por los utensilios de cocina, el lecho cotidiano, los vestidos y los muebles de uso ordinario del deudor, de su cónyuge o de sus hijos que vivan con él y a sus expensas, incluyendo la estufa, refrigerador, radio receptor, la mesa de uso diario y sus sillas, las camas y los colchones, los ventiladores y los bienes y aparatos similares a los antes mencionados, siempre que no sean de lujo a juicio del juez, a menos que el crédito provenga del precio del respectivo bien.
+Cuando el deudor posea dos o más bienes de cada uno de los antes mencionados el embargo procederá sobre los que se consideren adicionales o en exceso.
 III.- Los instrumentos, aparatos y útiles necesarios para el arte u oficio a que el deudor esté dedicado;
 IV.- La maquinaria, instrumentos y animales propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca a que estén destinados, a juicio del juez, a cuyo efecto oirá el informe de un perito nombrado por él;
 V.- Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se dediquen al estudio de profesiones liberales;
