@@ -1,5 +1,4 @@
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE ENERO DE 2015.
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 FERNANDO MORENO PEÑA, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabe:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
