@@ -1,4 +1,4 @@
-LEY ESTATAL DE OBRAS PUBLICAS
+LEY ESTATAL DE OBRAS PÚBLICAS
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 FERNANDO MORENO PEÑA, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
