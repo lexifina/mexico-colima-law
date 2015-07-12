@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 11 DE JULIO DE 2015)
+ARTICULO 24 BIS 2. Con sujeción a los principios de democracia, tolerancia, participación, solidaridad, transparencia, pluralidad, y autonomía, los Ayuntamientos establecerán y regularán, en el reglamento correspondiente, la conformación, elección de los integrantes, su remoción, así como el funcionamiento general, los derechos, atribuciones y obligaciones de los comités de participación vecinal.
