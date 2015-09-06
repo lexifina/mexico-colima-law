@@ -374,8 +374,8 @@ II.- Cuando se trate de personas cuyo domicilio se ignora.
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 En este caso el juicio deberá seguir con los trámites y solemnidades a que se refiere el título noveno.
 III.- En todos los demás casos previstos por la ley.
-(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
-En los casos anteriores, los edictos se publicarán por dos meses consecutivos, de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
+(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+En los casos anteriores, los edictos se publicarán por dos veces consecutivas, de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
 (ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 Previamente a la publicación por edictos a que se hace referencia en el presente artículo, la parte actora deberá dar a conocer el último domicilio conocido de la persona, para que en su caso se indague sobre su paradero.
 (ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)
