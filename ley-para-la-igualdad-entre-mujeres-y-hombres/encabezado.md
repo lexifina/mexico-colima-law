@@ -1,5 +1,4 @@
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE DICIEMBRE DE 2014.
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
