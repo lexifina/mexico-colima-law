@@ -106,8 +106,8 @@ f) Poseer al día de la elección, título profesional de Licenciado en Derecho 
 g) No haber tenido cargo alguno de elección popular ni haber sido postulado como candidato en los cinco años anteriores a su nombramiento;
 (ADICIONADO, P.O. 31 DE MAYO DE 2014)
 h) No haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales de algún partido político o de algún organismo, institución, colegio o agrupación ciudadana afiliada a algún partido político en los últimos tres años anteriores a su elección;
-(ADICIONADO, P.O. 31 DE MAYO DE 2014)
-i) No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretarios de Gobierno o Procurador General de Justicia; ni Presidente Municipal, Secretario, Tesorero, Oficial Mayor o Contralor de un Ayuntamiento, en el año anterior a su designación; y
+(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)
+i) No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretarios de Gobierno o Fiscal General del Estado; ni Presidente Municipal, Secretario, Tesorero, Oficial Mayor o Contralor de un Ayuntamiento, en el año anterior a su designación; y
 (ADICIONADO, P.O. 31 DE MAYO DE 2014)
 j) No ser ni haber sido ministro de culto religioso alguno, en los últimos cinco años anteriores a su nombramiento.
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2011)

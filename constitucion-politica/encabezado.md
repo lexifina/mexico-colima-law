@@ -4,6 +4,6 @@ J. FELIPE VALLE, Gobernador Constitucional del Estado Libre y Soberano de Colima
 La XX Legislatura en funciones de Constituyente, expide en nombre del Pueblo la siguiente:
 CONSTITUCION POLITICA del Estado Libre y soberano de Colima
 TITULO I.
-(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2012)
+(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2015)
 CAPÍTULO I.
-De los Derechos Humanos.
+De los Derechos Humanos y sus Garantías
