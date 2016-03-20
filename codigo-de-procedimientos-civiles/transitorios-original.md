@@ -1693,6 +1693,20 @@ ART. 428 BIS 55.- Los incidentes que no tengan tramitación especial podrán pro
 Tratándose de una cuestión que requiera prueba y de ser procedente su admisión, el juez ordenará su desahogo en la misma audiencia, de considerar que se encuentran preparadas, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución incidental.
 Cuando las partes no ofrezcan pruebas o las que propongan no se admitan, el juez, sin mayores trámites, dictará la resolución correspondiente.
 Si en la audiencia de juicio no pudieren desahogarse las pruebas vinculadas con el incidente o no pudiera concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia desahogando las pruebas y resolviendo la incidencia en una audiencia especial, previamente al dictado de la sentencia definitiva.
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2016)
+TITULO SEXTO TER
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2016)
+CAPITULO ÚNICO
+DEL DIVORCIO SIN CAUSA
+(ADICIONADO, P.O. 19 DE MARZO DE 2016)
+ART. 428 TER.- El cónyuge que unilateralmente desee promover el juicio de divorcio sin causa, podrá hacerlo solicitándolo por escrito ante el Juez competente, quien deberá emplazar al demandado para efectos de su conocimiento, y para que en su caso manifieste lo que a su derecho convenga dentro del término de tres días hábiles siguientes a la notificación, vencido ese plazo los autos se turnaran al Juez a efecto de emitir sentencia definitiva dentro de un término de diez días hábiles.
+(ADICIONADO, P.O. 19 DE MARZO DE 2016)
+ART. 428 TER 1.- Cuando existan menores, incapaces o bienes de la sociedad conyugal, deberá acompañar a su solicitud la propuesta de convenio que deberá reunir los requisitos establecidos en el artículo 273 del Nuevo Código Civil para el Estado de Colima.
+Admitida la solicitud con los documentos y copias anexas, se notificará y se correrá traslado al otro cónyuge, a fin de que en el plazo de quince días manifieste su conformidad con el convenio o, en su caso, presente su contrapropuesta.
+Asimismo, el Juez ordenará poner a la vista del representante del Ministerio Público adscrito, la solicitud de divorcio y anexos, y en caso de existir la contrapropuesta para su debida intervención.
+(ADICIONADO, P.O. 19 DE MARZO DE 2016)
+ART. 428 TER 2.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 428 Ter 1 y éste no contravenga ninguna disposición legal, el juez lo aprobará de plano, decretando el divorcio mediante sentencia.
+En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
 TITULO SEPTIMO
 De los juicios sumarios y de la vía de apremio
 CAPITULO I

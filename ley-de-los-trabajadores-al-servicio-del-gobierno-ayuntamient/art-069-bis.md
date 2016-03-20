@@ -8,5 +8,3 @@ IV.- Ejecutar cualquier acto que restrinja a los trabajadores el derecho a reali
 V.- Realizar actos de represión de cualquier índole, en contra de sus trabajadores, familias o dependientes económicos;
 VI.- Hacer propaganda política o religiosa dentro de sus dependencias, y
 VII.- Obligar a los trabajadores de la entidad para afiliarse a un partido político y a participar en actos partidistas incluso fuera del horario de trabajo.
-CAPITULO VI
-De las obligaciones de los trabajadores.
