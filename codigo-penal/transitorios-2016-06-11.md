@@ -1,0 +1,3 @@
+P.O. 11 DE JUNIO DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 104 SE REFORMAN ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EL DÍA 11 DE OCTUBRE DE 2014".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
