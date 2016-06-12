@@ -1,3 +1,2 @@
 ARTICULO UNICO:- Se faculta al C. Gral. de Div. Jesús González Lugo, Gobernador Constitucional del Estado, para expedir el nuevo Código Civil del Estado Libre y Soberano de Colima aprobado por la H. XXXVI Legislatura Constitucional del Estado en Sesión Pública Extraordinaria celebrada el día 25 de agosto de 1953.
 Por lo que en uso de la facultad que me concede el anterior Decreto, expido el siguiente
-NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA

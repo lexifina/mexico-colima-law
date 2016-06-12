@@ -1,4 +1,4 @@
-NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
+CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 INDICE GENERAL
 DEL NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
