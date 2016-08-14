@@ -1,4 +1,4 @@
-LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
+LEY DEL INSTITUTO COLIMENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de agosto de 2009.
 LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
