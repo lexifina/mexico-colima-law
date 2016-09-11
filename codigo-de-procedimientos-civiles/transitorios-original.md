@@ -39,8 +39,8 @@ ART. 20.- La acción de obra peligrosa se da al poseedor jurídico o derivado de
 ART. 21.- Compete acción a un tercero para coadyuvar en el juicio seguido contra su codeudor solidario. Igual facultad corresponde al tercero cuyo derecho dependa de la subsistencia del derecho del demandado o del actor. El deudor de obligación indivisible que sea demandado por la totalidad de la prestación puede hacer concurrir a juicio a sus codeudores, siempre y cuando su cumplimiento no sea de tal naturaleza que sólo puede satisfacerse por el demandado.
 ART. 22.- El tercero obligado a la evicción deberá ser citado a juicio oportunamente para que le pare perjuicio la sentencia.
 ART. 23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
-(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)
-ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonios o nulidad de éstos, filiación, reconocimiento, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
 Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 ART. 25.- Las acciones personales se deducirán para exigir el cumplimiento de una obligación personal, ya sea de dar, de hacer o no hacer determinado acto.
 ART. 26.- El enriquecimiento sin causa de una parte, con detrimento de otra, presta mérito al perjudicado para ejercitar la acción de indemnización en la medida en que aquélla se enriqueció.
@@ -503,8 +503,8 @@ c).- De las acciones de nulidad, rescisión y evicción de la partición heredit
 VII.- En los concursos de acreedores, el juez del domicilio del deudor;
 VIII.- En los actos de jurisdicción voluntaria, el del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el del lugar donde están ubicados;
 IX.- En los negocios relativos a la tutela de los menores e incapacitados, el juez de la residencia de éstos, para la designación del tutor, y en los demás casos el del domicilio de este;
-(REFORMADA, P.O. 11 DE JUNIO DE 2016)
-X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)
+X.- En los negocios relativos a los impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad del matrimonio, lo es el del domicilio conyugal;
 (REFORMADA, P.O. 11 DE JUNIO DE 2016)
 XII.- En los juicios de divorcio, el tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado; y
@@ -3172,17 +3172,15 @@ Disposiciones relativas a otros actos de jurisdicción voluntaria
 ART. 937.- Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
 (REFORMADA, P.O. 25 DE MARZO DE 2000)
 I.- La habilitación para comparecer en juicio que solicite el menor de más de 16 años cuando compruebe que los padres o ascendientes que ejerzan la patria potestad están ausentes, se ignore su paradero o se nieguen a representarlo, sólo se le concederá autorización cuando fuere demandado o se le siguiera perjuicio grave de no promover juicio y comprobare buena conducta y aptitud para el manejo de sus negocios;
-(REFORMADA, P.O. 25 DE MARZO DE 2000)
-II.- La solicitud de emancipación o habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
-(REFORMADA, P.O. 11 DE JUNIO DE 2016)
-III.- La autorización judicial que soliciten los emancipados por razón de matrimonio para enajenar o gravar bienes raíces o para comparecer en juicio. En este último caso, se les nombrará un tutor especial;
+(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)
+II.- La solicitud de habilitación de edad que hagan los mayores de 16 años sujetos a la patria potestad o tutela, si demostraren buena conducta y aptitud para el manejo de sus intereses. En este caso se oirá también a los padres o tutores;
+III.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2016)
 IV.- (DEROGADA, P.O. 25 DE MARZO DE 2000)
 V.- (sic)
-(REFORMADO PRIMER PÁRRAFO P.O. 25 DE MARZO DE 2000)
-ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
-(REFORMADO, P.O. 11 DE JUNIO DE 2016)
-El menor de edad que deseando celebrar un matrimonio necesite acudir a la autoridad competente para suplir el consentimiento de sus padres, puede solicitar al Juez determine sobre su custodia.
-En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)
+ART. 938.- Podrá decretarse la guarda y cuidado de menores o incapacitados que se hallen sujetos a la patria potestad o a la tutela, que fueren maltratados por sus padres o tutores o reciban de éstos ejemplos perniciosos a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren, para tal caso, no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)
+(DEROGADO TERCER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2016)
 (ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2000)
 TITULO DECIMOSEXTO
 De las controversias del orden familiar
