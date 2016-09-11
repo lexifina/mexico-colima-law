@@ -8,7 +8,7 @@ ART. 1º.- El ejercicio de las acciones civiles requiere:
 I.- La existencia de un derecho;
 II.- La violación de un derecho o el desconocimiento de una obligación, o la necesidad de declarar, preservar o constituir un derecho;
 III.- La capacidad para ejercitar la acción por sí o por legítimo representante;
-IV.- El interés en el (sic) actor para deducirla.
+IV.- El interés en el actor para deducirla.
 Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
 ART. 2º.- La acción procede en juicio, aun cuando no se exprese su nombre, con tal de que se determina (sic) con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.
 ART. 3º.- Por las acciones reales se reclamarán la herencia, los derechos reales o la declaración de libertad de gravámenes reales. Se dan y se ejercitan contra el que tiene en su poder la cosa y tiene obligación real, con excepción de la petición de herencia y la negatoria.
@@ -279,7 +279,7 @@ Se entenderá que el actor tiene a su disposición los documentos firmados en fo
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
 ART. 97.- La presentación de documentos de que habla el artículo anterior, cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto si durante el término de prueba o en la audiencia respectiva no se presentare una copia del documento firmado en forma autógrafa o con la firma electrónica o en su versión electrónica, con los requisitos necesarios para que haga fe en juicio.
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985)
-ART. 98.- Después de la demanda de (sic) contestación no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes: 1o.- Ser de fecha posterior a dichos escritos; 2o.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia; 3o.- Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada y siempre que haya hecho oportunamente la designación expresa en el párrafo segundo del Artículo 96.
+ART. 98.- Después de la demanda de contestación no se admitirán al actor ni al demandado, respectivamente, otros documentos que los que se hallen en alguno de los casos siguientes: 1o.- Ser de fecha posterior a dichos escritos; 2o.- Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia; 3o.- Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada y siempre que haya hecho oportunamente la designación expresa en el párrafo segundo del Artículo 96.
 Esto se entenderá sin perjuicio de la facultad que tienen los tribunales de investigar la verdad sobre los puntos controvertidos de acuerdo con las reglas generales de prueba.
 ART. 99.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 ART. 100.- De todo documento que se presente después del término de prueba se dará traslado a la otra parte para que dentro del tercer día manifieste lo que a su derecho convenga.
@@ -405,7 +405,7 @@ De los Edictos Electrónicos
 (ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
 ART. 129 BIS 1.- Los edictos que deban publicarse de manera electrónica deberán ser elaborados por la autoridad judicial que los autorizó quien, previa la comprobación del pago de los derechos correspondientes, será la responsable de comunicar su contenido y términos de su publicación a la Dirección de Informática para que ésta última proceda a realizar su difusión, a más tardar al día hábil siguiente, en la página de internet prevista para ello.
 (ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
-ART. 129 BIS 2.- La página de edictos electrónicos deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, la Dirección de Informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados, por municipio en (sic) tratándose de bienes e, histórico.
+ART. 129 BIS 2.- La página de edictos electrónicos deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, la Dirección de Informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados, por municipio en tratándose de bienes e, histórico.
 (ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
 ART. 129 BIS 3.- Efectuada la publicación de los edictos a que hace referencia el artículo 129 Bis 1, la Dirección de Informática deberá expedir la constancia de publicación respectiva y remitirla de inmediato al órgano jurisdiccional requirente para que éste, en su caso, se encuentre en aptitud de computar los términos judiciales que correspondan.
 (ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2014)
@@ -417,7 +417,7 @@ ART. 132.- Una vez concluídos los términos fijados a las partes, sin necesidad
 ART. 133.- Siempre que la práctica de un acto judicial requiera citación de personas que estén fuera del lugar del juicio, para que concurran ante el Tribunal, se debe fijar un término en el que se aumente al fijado por la Ley un día más por cada doscientos kilómetros de distancia o fracción que exceda de la mitad. Si el demandado residiere en el extranjero, el juez ampliará el término a todo el que considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 ART. 134.- Todos los términos contemplados en el presente ordenamiento se consideran individuales para las partes.
-ART. 135.- Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro (sic).
+ART. 135.- Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales contadas de las veinticuatro a las veinticuatro.
 ART. 136.- Cuando este Código no señale los términos para la práctica de algún acto judicial, o para el ejercicio de algún derecho, se tendrán por señalados los siguientes:
 I.- (DEROGADA, P.O. 8 DE SEPTIEMBRE DE 2012)
 II.- (DEROGADA, P.O. 8 DE SEPTIEMBRE DE 2012)
@@ -1529,7 +1529,7 @@ Disposiciones generales
 ART. 428 BIS 11.- Es obligación de las partes asistir a las audiencias del procedimiento, por sí o a través de sus legítimos representantes, que gocen de las facultades a que se refiere el artículo 112 bis de este código.
 Se exceptúa de lo anterior, el divorcio por mutuo consentimiento, en el cual, las partes deberán comparecer personalmente a la audiencia de juicio.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
-ART. 428 BIS 12.- Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, en la cual (sic) el juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
+ART. 428 BIS 12.- Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, en la cual el juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 13.- Las partes no podrán invocar, leer, ni incorporar como prueba al procedimiento oral, las propuestas que en su momento se hubieran formulado con motivo de un método alterno hecho valer.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
@@ -1579,7 +1579,7 @@ V.- Desahogo de pruebas;
 VI.- Formulación de alegatos;
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 27.- La audiencia de trámite se llevará a cabo con o sin la asistencia de las partes en los casos de la fracción III del artículo 428 BIS.
-A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente en la entidad en la fecha de la audiencia.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 28.- El juez incitará a las partes o los interesados a través de los medios alternos a llegar a un convenio, de no lograrlo, examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
@@ -1654,7 +1654,7 @@ V.- La calificación sobre la admisibilidad de las pruebas, y
 VI.- La citación para audiencia de juicio.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 45.- La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
-A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente (sic) en la entidad en la fecha de la audiencia.
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente en la entidad en la fecha de la audiencia.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 46.- El juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
@@ -1936,7 +1936,7 @@ ART. 473.- Si la finca no se halla en el lugar del juicio, se librará exhorto a
 ART. 474.- Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho, en fecha anterior a la de inscripción de la demanda.
 (REFORMADO, P.O. 22 DE MARZO DE 1997)
 ART. 475.- Desde el día del emplazamiento, contra el deudor la obligación de depositario judicial respecto de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
-Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelará (sic) por los medios de apremio que le autoriza la ley.
+Para efecto del inventario, el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el juez lo compelará por los medios de apremio que le autoriza la ley.
 (REFORMADO, P.O. 22 DE MARZO DE 1997)
 ART. 476.- El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
 N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 600, PUBLICADO EN EL P.O. 8 DE SEPTIEMBRE DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.
