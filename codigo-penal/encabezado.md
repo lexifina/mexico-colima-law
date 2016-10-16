@@ -1,4 +1,5 @@
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
+(REPUBLICADO DECRETO NO. 137, P.O. 15 DE OCTUBRE DE 2016).
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 DECRETO No. 394
 ES DE APROBARSE Y SE APRUEBA EL CÓDIGO PENAL PARA EL ESTADO DE COLIMA.
