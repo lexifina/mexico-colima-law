@@ -1,0 +1,3 @@
+P.O. 12 DE NOVIEMBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 169 SE REFORMA EL INCISO J) DE LA FRACCIÓN I DEL ARTÍCULO 45 Y EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 47, TODOS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
