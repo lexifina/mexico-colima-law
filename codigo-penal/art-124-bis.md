@@ -12,4 +12,5 @@ VI. Exista o haya existido entre el activo y la víctima una relación laboral, 
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
 VIII. El cuerpo de la víctima sea expuesto, depositado, arrojado o exhibido en un lugar público; o
 IX. Cuando la víctima se haya encontrado en un estado de indefensión, entiéndase éste como la situación de desprotección real o incapacidad que imposibilite su defensa. Ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio.
-A quien cometa feminicidio se le impondrán de treinta y cinco a cincuenta años de prisión, multa por el importe equivalente de mil a mil quinientos días de salario mínimo, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+A quien cometa feminicidio se le impondrán de treinta y cinco a cincuenta años de prisión, multa por el importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.

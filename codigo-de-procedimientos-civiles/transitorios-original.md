@@ -193,8 +193,8 @@ ART. 60.- Los jueces y magistrados a quienes corresponda recibirán por sí mism
 ART. 61.- Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren, mediante la imposición de cualquiera de las correcciones disciplinarias establecidas en el artículo 62 del presente ordenamiento. Pueden también emplear el uso de la fuerza pública. Si las faltas llegaren a constituir delitos, se dará vista al Ministerio Público de los hechos ocurridos, a afecto de que se inicie la averiguación previa correspondiente en contra del probable responsable; para ello, el Juez o Magistrado remitirá testimonio de lo conducente.
 ART. 62.- Se entenderá corrección disciplinaria:
 I.- El apercibimiento o amonestación;
-(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)
-II.- La multa de uno a sesenta días de salario mínimo general vigente en el Estado al momento de su imposición, la que se duplicará en caso de reincidencia; y
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+II.- La multa de uno a sesenta unidades de medida y actualización, la que se duplicará en caso de reincidencia; y
 (REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)
 III.- La suspensión temporal del cargo, empleo o comisión, que no exceda de un mes, cuando la corrección se imponga a un empleado del tribunal que la impone.
 ART. 63.- Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al juez que la oiga en justicia; y se citará para la audiencia dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
@@ -206,8 +206,9 @@ En las diligencias o actuaciones en materia familiar, que se practiquen fuera de
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 ART. 65.- Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria si lo pidiere.
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 66.- El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de diez a veinte unidades de medida y actualización.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 66.- El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de diez a veinte unidades de salario mínimo vigente en el Estado al momento de su imposición, como multa.
 Para la aplicación de la multa que se detalla en el presente artículo, deberán tomarse en cuenta las disposiciones que en materia de imposición de sanciones establece la Ley Orgánica del Poder Judicial del Estado.
 ART. 67.- Los secretarios cuidarán de que los expedientes sean exactamente foliados, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de los escritos y pondrán el sello de la Secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
 ART. 68.- El promovente de diligencias de jurisdicción voluntaria, así como los litigantes, podrán designar un notario que desempeñe las funciones que este Código asigna al secretario. En las testamentarías e intestados, la designación podrá hacerse por el albacea.
@@ -220,12 +221,12 @@ La reposición se substanciará "incidentalmente" y, sin necesidad de acuerdo ju
 Quedan los jueces facultados para investigar de oficio la existencia de los autos desaparecidos y la responsabilidad de quien, en su caso, sea el causante de su desaparición, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 (REFORMADO, P.O. 9 DE OCTUBRE DE 2010)
 ART. 71.- Para sacar copia o testimonio certificado de cualquier constancia o actuación que obre en un juicio, así como en los archivos o protocolos físicos o electrónicos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y petición de parte interesada en el juicio, previo pago de los derechos que al fisco estatal correspondan.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 72.- Los tribunales no admitirán recursos ni incidentes notoriamente intrascendentes o improcedentes; los desecharán de plano, exponiendo los fundamentos y motivos correspondientes, e impondrán a favor del colitigante, una indemnización de uno a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, la que deberán cubrir en forma solidaria el promovente y autorizado legal.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 72.- Los tribunales no admitirán recursos ni incidentes notoriamente intrascendentes o improcedentes; los desecharán de plano, exponiendo los fundamentos y motivos correspondientes, e impondrán a favor del colitigante, una indemnización de uno a cuarenta unidad (sic) de medida y actualización, la que deberán cubrir en forma solidaria el promovente y autorizado legal.
 (REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)
 ART. 73.- Los tribunales, para hacer cumplir sus determinaciones pueden emplear indistintamente cualquiera de los siguientes medios de apremio:
-(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)
-I.- La multa de uno a cien días de salario mínimo general vigente en el Estado, al momento de su imposición, que se duplicará en caso de reincidencia.
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+I.- La multa de uno a cien unidades de medida y actualización, que se duplicará en caso de reincidencia.
 (REFORMADA, P.O. 10 DE AGOSTO DE 1985)
 II.- El auxilio de la fuerza pública.
 (REFORMADA, P.O. 10 DE AGOSTO DE 1985)
@@ -315,8 +316,8 @@ El tribunal exhortado podrá conceder excepcionalmente la simplificación de for
 ART. 109.- Los exhortos que se remitan al extranjero o se reciban de él se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
 CAPITULO V
 De las notificaciones
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 110.- Las notificaciones personales, citaciones y emplazamientos se efectuarán lo más tarde a los dos días siguientes al en que se publiquen las resoluciones que las prevengan, cuando el juez, magistrado o la ley no dispusieren otra cosa. Al que infrinja lo anterior, el titular del órgano le impondrá una multa de cinco salarios mínimos vigentes en el Estado, que se hará efectiva por conducto del órgano administrativo correspondiente del Poder Judicial del Estado.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 110.- Las notificaciones personales, citaciones y emplazamientos se efectuarán lo más tarde a los dos días siguientes al en que se publiquen las resoluciones que las prevengan, cuando el juez, magistrado o la ley no dispusieren otra cosa. Al que infrinja lo anterior, el titular del órgano le impondrá una multa de cinco unidades de medida y actualización, que se hará efectiva por conducto del órgano administrativo correspondiente del Poder Judicial del Estado.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 ART. 111.- Las notificaciones se harán personalmente, por cédula, por lista, por edictos o por cualquier otro medio tecnológico que se disponga y surtirán efectos al día siguiente del que se hayan practicado, conforme a lo dispuesto en los artículos siguientes.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
@@ -392,8 +393,8 @@ ART. 124.- Es obligación del servidor público facultado anexar al expediente l
 ART. 125.- En tratándose de notificaciones personales, si las partes o sus autorizados ocurren al tribunal a notificarse, el funcionario judicial con facultades, levantará la certificación de su consulta.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 ART. 126.- Se fijará en lugar visible de las oficinas del tribunal o juzgados, una lista de los negocios que se hayan acordado cada día. La lista se fijará a más tardar a las 10 diez horas del día siguiente al de la fecha de la resolución, expresándose el número de expediente, clase de juicio de que se trata y el sentido de la misma. Estas listas quedaran resguardadas en el tribunal o juzgado correspondiente por un plazo máximo de 6 seis meses, para los efectos legales a que haya lugar.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 127.- En las salas del tribunal y en los juzgados, los Secretarios de Acuerdos asentarán en autos las notificaciones que señala el artículo 123. Al que infrinja lo anterior, el titular del órgano le impondrá una multa de cinco salarios mínimos vigentes en el Estado, que se hará efectiva por conducto del órgano administrativo correspondiente del Poder Judicial del Estado.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 127.- En las salas del tribunal y en los juzgados, los Secretarios de Acuerdos asentarán en autos las notificaciones que señala el artículo 123. Al que infrinja lo anterior, el titular del órgano le impondrá una multa de cinco unidades de medida y actualización, que se hará efectiva por conducto del órgano administrativo correspondiente del Poder Judicial del Estado.
 CAPITULO VI
 De los términos judiciales
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
@@ -574,8 +575,8 @@ En el caso de que se ofrezcan pruebas y éstas se admitan se mandarán preparar 
 Si las partes sólo alegan y no ofrecen pruebas, o las propuestas no se admiten, la Sala competente del Tribunal citará para oír resolución, la que se pronunciará dentro del término de ocho días a partir de dicha citación.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 167.- El litigante que hubiere optado por uno de los dos medios de promover una incompetencia, no podrá abandonarlo y recurrir al otro, ni tampoco emplearlos sucesivamente.
-(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
-En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa de hasta cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+En el caso de que se declare infundada o improcedente una incompetencia, se aplicará al que la opuso, una multa de hasta cuarenta unidades de medida y actualización, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, siempre que a juicio del Juez, el incidente respectivo fuere promovido para alargar o dilatar el procedimiento.
 (REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
 ART. 168.- Las competencias suscitadas entre un Juez de Primera Instancia y otro de Menor Cuantía, o entre estos últimos, se dirimirán por la Sala competente del Supremo Tribunal de Justicia.
 TITULO CUARTO
@@ -648,10 +649,12 @@ ART. 187.- Los magistrados y jueces que conozcan de una recusación son irrecusa
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 ART. 188.- Para dar curso a una recusación con causa, el litigante deberá exhibir mediante la cédula de depósito respectiva, el monto máximo de la posible indemnización a favor del colitigante.
 Si se declara improcedente o no probada la causa de recusación, atendiendo a las circunstancias del caso, se impondrá al recusante la obligación de indemnizar al colitigante, bajo los siguientes parámetros:
-(REFORMADA P.O. 15 DE NOVIEMBRE DE 2014)
-I.- De uno a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un Juez de Menor Cuantía o Secretario de Acuerdos;
-II.- De cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere un juez de primera instancia; y
-III.- De diez a sesenta días de salario mínimo general vigente en el Estado al momento de su imposición, si el recusado fuere magistrado.
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+I.- De uno a veinte unidades de medida y actualización, si el recusado fuere un Juez de Menor Cuantía o Secretario de Acuerdos;
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+II.- De cinco a cuarenta unidades de medida y actualización, si el recusado fuere un juez de primera instancia; y
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+III.- De diez a sesenta unidades de medida y actualización, si el recusado fuere magistrado.
 ART. 189.- De la recusación de un magistrado conocerá el de la sala que le sigue en número; de la de un juez, la sala que corresponda.
 ART. 190.- Si en la sentencia se declara que procede la recusación, volverán los autos al juzgado de su origen con testimonio de dicha sentencia, para que éste, a su vez, los remita al juez que corresponda. En el tribunal el magistrado recusado queda separado del conocimiento del negocio, el que se turnará a la sala que siga en número.
 Si se declara no ser bastante la causa, se devolverán los autos con testimonio de la resolución al juzgado de su origen para que continúe el procedimiento. Si el funcionario recusado fuere un magistrado, continuará conociendo del negocio la misma sala, como antes de la recusación.
@@ -977,8 +980,8 @@ ART. 300.- Cuando las pruebas hubieren de practicarse fuera del Estado, a petici
 El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el término extraordinario y determinará el monto de la cantidad que el oferente deberá depositar para garantizar el pago de la multa, en caso de que la prueba no sea incorporada a los autos dentro del plazo respectivo. Si el oferente no hace este depósito dentro de los tres días siguientes a la notificación del auto que admitió la prueba, éste quedará sin efecto jurídico y precluirá el derecho del oferente a que se practique dicha prueba.
 (ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)
 En el caso de que los documentos se puedan cotejar por vía electrónica, se deberá indicar la dependencia y la página de internet de ésta, supuesto en el cual la concesión del término extraordinario de prueba será innecesario.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 301.- La parte a quien se hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro del plazo señalado por el Juez, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador de cinco hasta cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia. Asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 301.- La parte a quien se hubiere concedido el período extraordinario de prueba a que se refiere el artículo anterior, se le entregará el exhorto para su diligenciación y si no lo devolviere debidamente diligenciado dentro del plazo señalado por el Juez, sin justificar que para ello tuvo impedimento bastante, se le impondrá una multa que fijará el juzgador de cinco hasta cuarenta unidades de medida y actualización, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia. Asimismo, se le condenará a pagar indemnización de daños y perjuicios en beneficio de su contraparte y se declarará desierta la prueba.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 302.- El desahogo de pruebas fuera del lugar del juicio se hará a través de exhorto o despacho, que se remitirá a la autoridad competente del lugar de que se trate, para cuyo efecto el Juez concederá al oferente un término que no podrá exceder de:
 I.- Cincuenta días, si las pruebas para las que se solicitó han de practicarse dentro del territorio nacional y fuera del Estado;
@@ -1198,15 +1201,15 @@ Las partes podrán manifestar su conformidad con el dictamen del perito de la co
 ART. 347.- La falta de presentación del escrito del perito del oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se deseche la prueba pericial. Si la parte contraria no designara perito, o éste no aceptara y protestara el cargo, se le tendrá por conforme con el dictamen pericial que rinda el perito del oferente.
 En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes no rinden su dictamen dentro del término concedido, el Juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo previsto en el artículo 346 de este Código.
 En caso de que alguno de los peritos renuncie después de haber aceptado y protestado el cargo, la parte que lo haya nombrado podrá solicitar al Juez que designe a otro para sustituirlo.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-En los casos a que se refieren los párrafos anteriores, el Juez sancionará a los peritos omisos, sin justa causa, con multa de diez hasta sesenta unidades de salario mínimo general vigente en el Estado en el momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+En los casos a que se refieren los párrafos anteriores, el Juez sancionará a los peritos omisos, sin justa causa, con multa de diez hasta sesenta unidades de medida y actualización a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 348.- Cuando el Juez lo estime necesario, señalará lugar, día y hora para que el desahogo de la pericial tenga lugar ante su presencia.
 El Juez, podrá pedir a los peritos todas las aclaraciones que estime conducentes, y en el caso de que se tomen muestras, ordenar las providencias necesarias para asegurar su autenticidad y conservación en el momento de su obtención y traslado.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 349.- Cuando el Juez lo estime conveniente, ordenará que la pericial se desahogue en audiencia y concurra el tercero en discordia. En este caso se observarán las reglas siguientes:
-(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)
-I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, podrá ser sancionado con una multa de diez hasta sesenta unidades de salario mínimo general vigente en el Estado al momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+I.- El perito que dejare de concurrir sin causa justa, calificada por el Tribunal, podrá ser sancionado con una multa de diez hasta sesenta unidades de medida y actualización a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 II.- Los peritos practicarán unidos la diligencia. Las partes y sus abogados y consultores técnicos podrán asistir a la práctica de la peritación, salvo que el juzgador disponga otra cosa o que se trate de investigaciones que el perito estime debe realizar sin asistencia de las partes. Éstas pueden realizar las observaciones que estimen pertinentes. Los peritos estarán obligados a considerar, en su dictamen, las observaciones de los interesados y del Tribunal;
 III.- Las partes deberán retirarse, para que los peritos discutan y deliberen solos;
 IV.- Los peritos de las partes emitirán inmediatamente su dictamen, siempre que lo permita la naturaleza del asunto; de lo contrario, se les señalará un término prudente para que lo rindan; y
@@ -1225,8 +1228,8 @@ III.- Ser socio, arrendador, arrendatario, dependiente o tener negocios de cualq
 (ADICIONADA, P.O. 19 DE JULIO DE 2008)
 IV.- Tener amistad íntima o enemistad manifiesta con algunas de las partes, sus representantes o autorizados legales.
 El juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida, se nombrará nuevo perito en los mismos términos que al recusado.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 351.- En caso de ser desechada la recusación, el recusante deberá cubrir a favor del colitigante, una indemnización de uno a veinte unidades de salario mínimo general vigente en el Estado al momento de su imposición.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 351.- En caso de ser desechada la recusación, el recusante deberá cubrir a favor del colitigante, una indemnización de uno a veinte unidades de medida y actualización.
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 352.- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuya rebeldía lo hubiere nombrado el Juez, de acuerdo con el arancel. El tercero para en caso de discordia, será pagado por ambas partes, sin perjuicio de lo que disponga la resolución definitiva sobre la condenación en costas.
 Los honorarios de los peritos deberán ser depositados ante el Juzgado en el momento de ofrecer la prueba. Tratándose de peritos designados por el Juez, éste requerirá a la parte o partes para que en un término de tres días los exhiban.
@@ -1517,7 +1520,8 @@ El juez examinará, escrupulosamente y bajo su más estricta responsabilidad, si
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 10.- Contestada la demanda o solicitud, en su caso, la reconvención, o transcurridos los plazos para ello, el juez, al admitir las pruebas, de ser necesario solicitará los informes y enviará los exhortos para el desahogo de aquellas probanzas que lo requieran, dejará a disposición de las partes las citaciones, las cuales se tramitarán por conducto del oferente de la prueba respectiva.
 En caso de que la prueba pericial verse sobre la firma o escritura de alguna de las partes, el juez fijará en el auto correspondiente, fecha y hora a fin de que dentro de los tres días siguientes al de la admisión de la prueba, se constituyan en el local del tribunal la persona y/o personas que deberán estampar la firma, así como los peritos nombrados, a fin de determinar mediante la pericial los rasgos caligráficos o cuerpo de escritura, debiendo exhibir su dictamen y estar presentes en la audiencia de juicio.
-Si no compareció quien debe firmar o escribir, o el oferente de la prueba, o el perito de alguna de las partes, sin causa justificada, se les impondrá una medida de apremio consiste (sic) en una multa hasta por cuarenta días de salario mínimo vigente en la entidad al momento de la comparecencia, señalando por una sola ocasión nueva fecha para el desahogo de ésta, en el entendido que de no comparecer el oferente o el perito ofrecido de sus (sic) parte, dicha probanza será declarada desierta por falta de interés jurídico, pero en caso de que no comparezca la contraparte, ésta quedará supeditada al dictamen que emita el perito de la oferente.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+Si no compareció quien debe firmar o escribir, o el oferente de la prueba, o el perito de alguna de las partes, sin causa justificada, se les impondrá una medida de apremio consiste (sic) en una multa hasta por cuarenta unidades de medida y actualización, señalando por una sola ocasión nueva fecha para el desahogo de ésta, en el entendido que de no comparecer el oferente o el perito ofrecido de sus (sic) parte, dicha probanza será declarada desierta por falta de interés jurídico, pero en caso de que no comparezca la contraparte, ésta quedará supeditada al dictamen que emita el perito de la oferente.
 Finalmente, de inmediato se señalará la fecha y hora para la celebración de la audiencia correspondiente, la que deberá fijarse dentro de los quince días siguientes.
 (ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)
 CAPITULO II
@@ -1579,7 +1583,8 @@ V.- Desahogo de pruebas;
 VI.- Formulación de alegatos;
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 27.- La audiencia de trámite se llevará a cabo con o sin la asistencia de las partes en los casos de la fracción III del artículo 428 BIS.
-A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente en la entidad en la fecha de la audiencia.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta unidades de medida y actualización.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 28.- El juez incitará a las partes o los interesados a través de los medios alternos a llegar a un convenio, de no lograrlo, examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
@@ -1654,7 +1659,8 @@ V.- La calificación sobre la admisibilidad de las pruebas, y
 VI.- La citación para audiencia de juicio.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 45.- La audiencia preliminar se llevará a cabo con o sin la asistencia de las partes.
-A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta salarios mínimos vigente en la entidad en la fecha de la audiencia.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción hasta por cuarenta unidades de medida y actualización.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
 ART. 428 BIS 46.- El juez examinará las cuestiones relativas a la legitimación procesal y procederá, en su caso, a resolver las excepciones procesales con el fin de depurar el procedimiento; salvo las cuestiones de incompetencia, que se tramitarán conforme a la parte general de este Código.
 (ADICIONADO, P.O. 23 DE AGOSTO DE 2014)
@@ -1944,8 +1950,8 @@ N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 6
 ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos físicos o electrónicos, que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según ordenan los artículos 95 y 96 de éste ordenamiento.
 (REFORMADO, P.O. 22 DE MARZO DE 1997)
 Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento de imponerles una multa de uno a cien días de salario mínimo general vigente en el Estado al momento de su imposición a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, o un arresto hasta de treinta y seis horas, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento de imponerles una multa de una a cien unidades de medida y actualización a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia, o un arresto hasta de treinta y seis horas, en caso de que dejen de comparecer sin causa justificada o que, compareciendo, se nieguen a declarar.
 (REFORMADO, P.O. 22 DE MARZO DE 1997)
 ART. 478.- El juez debe presidir la audiencia, que se iniciará resolviendo todas las excepciones procesales que existan, los incidentes que hubieren y desahogará las pruebas admitidas y preparadas. Si no fuera posible desahogarlas por causas no imputables al oferente, se diferirá la audiencia por una sola vez y bajo su más estricta responsabilidad, atenderá que se preparen las pruebas para desahogarse en la fecha que se señale, que no excederá de los diez días siguientes; si la falta de preparación fuere imputable al oferente, se celebrará la audiencia desahogándose únicamente las pruebas debidamente preparadas, y desechándose las que no lo fueron.
 (REFORMADO, P.O. 22 DE MARZO DE 1997)
@@ -1992,8 +1998,10 @@ ART. 498 BIS.- Desde el momento de iniciado el juicio y antes de que se dicte se
 I.- El arrendador o fiador podrán presentar el informe de abandono del bien mueble o inmueble arrendado, apoyado en la certificación de hechos realizada por notario público, o bien en la declaración de testigos que por su vecindad o parentesco con el arrendatario, tengan conocimiento de este hecho y lo ratifiquen mediante comparecencia ante el personal del juzgado;
 II.- El juez ordenará la inspección del bien mueble o inmueble materia de la litis para comprobar tal hecho. Para esta diligencia, el ejecutor, en el primer caso, se constituirá al lugar donde se encuentre abandonada la cosa arrendada y levantará acta circunstanciada, en presencia de dos testigos del lugar, si los hubiera, o en su defecto de dos testigos de asistencia, detallando las condiciones en que se localizó, y en el segundo supuesto, procederá en los mismos términos y antes de ingresar al bien raíz, deberá cerciorarse sobre la ausencia del arrendatario por un mes del inmueble arrendado, para luego, previa la autorización del Juzgador, proceda a romper las cerraduras del inmueble con cargo al denunciante.
 III.- El ejecutor que practique la diligencia de inspección, en el acta hará una relación pormenorizada del estado físico de la cosa mueble arrendada y, en su caso, del inmueble que reclama el arrendador, asentando en el acta, sobre el notorio abandono del bien mueble o del inmueble; hará inventario pormenorizado de los bienes muebles del arrendatario y de los que sean del arrendador, especificando el estado físico en el que se encuentran y procediendo al aseguramiento de los mismos, dejándolos en depósito del arrendador bajo su responsabilidad hasta que el arrendatario los reclame o, en su caso, declarada la sentencia en el expediente principal, podrán ser destinados al pago de las obligaciones de pago del arrendatario, señaladas en la sentencia; y
-IV. En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales;
-Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos días de salario mínimo y le condenara al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+IV.- En el supuesto de que el funcionario judicial encargado de ejecutar el mandato, demuestre ya sea en forma personal o por conducto de los vecinos del lugar, que la cosa mueble no está abandonada, o bien acredite la ocupación física del inquilino en el inmueble, dará por terminada la diligencia y el trámite del Juicio Sumario o el Juicio Especial de Desocupación, según el caso, deberá continuar por sus etapas procesales.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+Concluida la diligencia, con base en el acta circunstanciada, y comprobado el abandono de la cosa arrendada, el juez dentro de los 05 cinco días siguientes, mediante resolución, determinará si en efecto el bien arrendado fue abandonado y declarará que en ese momento cesan de correr las rentas y restituirá al arrendador el uso y disfrute del bien mueble o inmueble, quedando rescindido el contrato en los términos de los artículos 2373, fracción IX, y 2386 del Código Civil. En caso contrario, impondrá a quien informó falsamente, una multa de veinte a doscientos unidades de medida y actualización y le condenará al pago de los daños que en su caso se ocasionen. Esta determinación admitirá el recurso de apelación.
 Las presentes diligencias podrán ser promovidas indistintamente, cuando se cumplan los requisitos de abandono de muebles o inmuebles del Código Civil y las propias del presente artículo, en el Juicio Especial de Desocupación, o en su defecto en cualquier juicio sumario promovido por el arrendador y que tenga por objeto la recuperación del inmueble o de la cosa mueble arrendada. Para el caso de que las presentes diligencias se hayan promovido y procedido en el Juicio Especial de Desocupación, se declarará sin materia el Juicio y quedará expedito el derecho del actor para reclamar las cuestiones inherentes del arrendamiento en la vía que proceda. Para el caso de que las presentes dirigencias se hayan promovido en un juicio sumario sobre cuestiones de arrendamiento de cosa mueble, o bien raíz, la cuestión inherente a la restitución quedará sin materia, sin embargo, podrá continuarse el juicio por las demás cuestiones reclamadas e inherentes al contrato de arrendamiento.
 (REFORMADA SU NUMERACIÓN, P.O. 10 DE AGOSTO DE 1985)
 CAPITULO VI
@@ -2578,8 +2586,8 @@ III.- Contra la denegación de apelación;
 IV.- En los demás casos fijados por la ley.
 ART. 723.- Se da el recurso de queja en contra (sic) los ejecutores y secretarios por ante el juez. Contra los primeros, sólo por exceso o defecto de las ejecuciones y por las decisiones en los incidentes de ejecución. Contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
 ART. 724.- El recurso de queja contra el juez se interpondrá ante el superior inmediato dentro de las veinticuatro horas que sigan al acto reclamado, haciéndolo saber dentro del mismo tiempo al juez contra quien va el recurso, acompañándole copia. Dentro del tercer día de que tenga conocimiento, el juez de los autos remitirá al superior informe con justificación. El superior, dentro del tercer día, decidirá lo que corresponda.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 725.- Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho, o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa de uno a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 725.- Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho, o hubiere recurso ordinario de la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado, solidariamente, una multa de uno a cuarenta unidades de medida y actualización, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 ART. 726.- El recurso de queja contra los jueces sólo procede en las causas apelables, a no ser que se intente para calificar el grado en la denegación de apelación.
 CAPITULO IV
 Recurso de responsabilidad
@@ -2660,8 +2668,8 @@ ART. 743.- Todo acreedor podrá, hasta tres días antes de la fecha designada pa
 Los acreedores pueden examinar los papeles y documentos del concursado, en la secretaría, antes de la rectificación de créditos.
 ART. 744.- La junta de rectificación y graduación será presidida por el juez, procediéndose al examen de los créditos previa lectura por el síndico de un breve informe sobre el estado general activo y pasivo, y documentos que prueben la existencia de cada uno de ellos. En este informe del síndico estarán contenidos los dictámenes que rinda sobre cada uno de los créditos presentados y de los cuales con anticipación se le corrió traslado.
 En el informe deberá también clasificar los créditos de acuerdo con sus privilegios según el Código Civil.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 745.- Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios, y será removido de plano, imponiéndole además una multa de cinco a cuarenta días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 745.- Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios, y será removido de plano, imponiéndole además una multa de cinco a cuarenta unidades de medida y actualización, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 ART. 746.- El acreedor cuyo crédito no resultare del estado, libros o papeles del deudor, será admitido en la junta siempre que, dentro del término fijado en la fracción VI del artículo 738, haya presentado al juzgado los justificantes del mismo.
 El concursado podrá asistir por sí o por apoderado a toda junta que se celebre, debiendo siempre citársele por cédula.
 ART. 747.- Los acreedores podrán hacerse representar por apoderado o procurador, siendo bastante también el poder ordinario de administración. Quien represente a más de un acreedor sólo podrá tener cinco votos como máximo, pero el monto de todos los créditos se computará para formar, en su caso, a la mayoría, la cantidad o capital.
@@ -2812,8 +2820,8 @@ ART. 805.- Si ninguno de los pretendientes hubiere sido declarado heredero, cont
 ART. 806.- Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 800 mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grados de parentesco de los que reclaman la herencia, y llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
 (REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
 El juez prudentemente podrá ampliar el plazo anterior cuando, por el lugar de origen del finado u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
-(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
-Los edictos se publicarán en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado por veinte días hábiles si el valor de los bienes hereditarios excediere de mil unidades de salario mínimo general vigente en el Estado.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+Los edictos se publicarán en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado por veinte días hábiles si el valor de los bienes hereditarios excediere de mil unidades de medida y actualización.
 ART. 807.- Transcurrido el término de los edictos a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista, el juez hará la declaración prevenida en el artículo 804.
 Si hubieren comparecido otros parientes, el juez le (sic) señalará un término no mayor de quince días para que, con audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 802 a 806.
 (REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
@@ -2905,8 +2913,8 @@ ART. 858.- Tienen derecho a pedir la partición de la herencia:
 ART. 859.- Cuando el albacea no haga la partición por sí mismo, promoverá dentro del tercer día de aprobada la cuenta la elección de un contador o abogado con título oficial registrado en el asiento del tribunal para que haga la división de los bienes. El juez convocará a los herederos, por medio del correo o cédula, a junta dentro de los tres días siguientes, a fin de que se haga en su presencia la elección.
 Si no hubiere mayoría el juez nombrará partidor eligiéndolo entre los propuestos.
 El cónyuge aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios hubiere bienes de la sociedad conyugal.
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 860.- El juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano del encargo y de multa de hasta cuarenta días de salario mínimo general vigente en el Estado, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 860.- El juez pondrá a disposición del partidor los autos, y bajo inventario los papeles y documentos relativos al caudal para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano del encargo y de multa de hasta cuarenta unidades de medida y actualización, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 ART. 861.- El partidor pedirá a los interesados las instrucciones que juzgue necesarias, a fin de hacer las adjudicaciones de conformidad con ellos, en todo lo que estén de acuerdo, o de conciliar en lo posible sus pretensiones.
 Puede ocurrir al juez para que, por correo o cédulas los cite a una junta, a fin de que en ella los interesados fijen de común acuerdo las bases de la partición, que se considerarán como un convenio. Si no hubiere conformidad, el partidor se sujetará a los principios legales.
 En todo caso, al hacerse la división se separarán los bienes que correspondan al cónyuge que sobreviva, conforme a las capitulaciones matrimoniales o las disposiciones que regulan la sociedad conyugal.
@@ -3053,8 +3061,8 @@ I.- Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limi
 (REFORMADA, P.O. 5 DE ABRIL DE 2014)
 II.- El estado de incapacidad del mayor de edad puede probarse por cualquier medio idóneo de convicción pero en todo caso se requiere la certificación de tres médicos por lo menos preferentemente alienistas y tratándose de menores bastará con el resumen clínico elaborado por médico especialista tratante de la discapacidad que produjo la incapacidad y, que en el Estado, de ser posible, pertenezca al servicio médico público para que tome parte en la audiencia y se oiga su dictamen;
 III.- Si la sentencia de primera instancia fuere declaratoria de estado, proveerá el juez, aunque fuere apelada o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo la guarda del presunto incapacitado y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
-(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)
-IV.- El que promueva dolosamente el juicio de interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar por concepto de indemnización de cien a quinientos días de salario mínimo general vigente en el Estado al momento de su imposición, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+IV.- El que promueva dolosamente el juicio de interdicción incurrirá en las penas que la ley impone por falsedad y calumnia y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar por concepto de indemnización de cien a quinientas unidades de medida y actualización, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
 (REFORMADA, P.O. 5 DE ABRIL DE 2014)
 V.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley; y
 (ADICIONADA, P.O. 5 DE ABRIL DE 2014)
@@ -3240,7 +3248,8 @@ De la Justicia de Paz
 ART. 956.- Se establecen en el Estado de Colima los juzgados de paz que fija la Ley Orgánica del Poder Judicial con las jurisdicciones que en la misma se determinan.
 (REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)
 ART. 957.- Conocerán los Jueces de Menor Cuantía en materia civil y mercantil de:
-I. De asuntos civiles y mercantiles cuyo monto no exceda de quinientas veces el salario mínimo diario general vigente en el Estado cuando se trate de derechos personales y de dos mil veces el salario vigente en el Estado cuando se trate de derechos reales; y
+(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)
+I.- De asuntos civiles y mercantiles cuyo monto no exceda de quinientas unidades de medida y actualización cuando se trate de derechos personales y de dos mil unidades de medida y actualización cuando se trate de derechos reales; y
 II. De la diligencia de los exhortos, despachos y demás asuntos que les encomiende el Supremo Tribunal de Justicia, los Jueces de Primera Instancia, los de su misma categoría y las leyes relativas, siempre que dichas diligencias deban verificarse dentro de su jurisdicción territorial.
 Para determinar la cuantía del asunto no deberán tomarse en cuenta intereses y demás accesorios reclamados a la fecha de la interposición de la demanda.
 ART. 958.- (DEROGADO, P.O. 15 DE NOVIEMBRE DE 2014)
@@ -3272,8 +3281,8 @@ ART. 967.- Las citas se extenderán en esqueletos impresos tomados de libros tal
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
 ART. 968.- El comisario o gendarme que entregue la cita recogerá, en una libreta especial, recibo de ella, el cual, si no supiere o no pudiere firmar la persona que debiera hacerlo, será firmado por alguna otra presente, en su nombre, asentándose en la libreta a quien se haya hecho la entrega y el motivo.
 En el juzgado habrá el número necesario de libretas para que pueda llevar una cada encargado de entregar citas.
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)
-ART. 969.- En los casos a que se refiere el artículo 965, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o pudiere firmar, lo hará en su ruego, un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de cinco a veinte días de salario mínimo general vigente en el Estado al momento de su imposición, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)
+ART. 969.- En los casos a que se refiere el artículo 965, el recibo se firmará por la persona a quien se hiciere la citación. Si no supiere o pudiere firmar, lo hará en su ruego, un testigo; si no quisiere firmar o presentar testigos que lo hagan, firmará el testigo requerido al efecto por el notificador. Este testigo no puede negarse, bajo multa de cinco a veinte unidades de medida y actualización, a favor del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
 En la libreta se asentará la razón de lo ocurrido.
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
