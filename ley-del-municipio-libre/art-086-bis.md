@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)
+ARTICULO 86 Bis.- Las Unidades Municipales de Protección Civil funcionarán como un órgano con autonomía de operación financiera y administrativa, dependiente del Ayuntamiento, las cuales coordinarán todas las acciones públicas municipales a favor de la protección civil, así como promover, apoyar, fomentar, vigilar y evaluar las estrategias y programas que se deriven de una gestión integral de riesgos en concordancia con los criterios que establezca la Unidad Estatal de Protección Civil.
