@@ -5,6 +5,6 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente:
 D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 C O N S I D E R A N D O
-.
+[...]
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 D E C R E T O No. 406

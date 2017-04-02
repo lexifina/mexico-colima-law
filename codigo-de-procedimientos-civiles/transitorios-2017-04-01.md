@@ -1,0 +1,3 @@
+P.O. 1 DE ABRIL DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 256 POR EL QUE SE REFORMAN LA FRACCIONES XVI Y XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 429 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".

@@ -1735,8 +1735,12 @@ XII.- La acción rescisoria de enajenaciones pactadas bajo condición resolutori
 XIII.- La responsabilidad civil que provenga de causa extracontractual, así como la que se origine por incumplimiento de los contratos enumerados en este artículo;
 XIV.- La división de cosa común y las diferencias que entre los copropietarios surgieren en la administración, disfrute, y en todo lo relativo a la cosa común;
 XV.- La consignación en pago;
-XVI.- Las acciones relativas a servidumbres legales o que consten en títulos públicos; y
-XVII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo determine la ley.
+(REFORMADA, P.O. 1 DE ABRIL DE 2017)
+XVI.- Las acciones relativas a las servidumbres legales o que consten en títulos públicos;
+(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2017)
+XVII.- Los juicios que tengan que ver con la patria potestad, salvo la hipótesis contemplada en la fracción V del artículo 937 de este Código; y
+(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE ABRIL DE 2017)
+XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad o lo determine la ley.
 ART. 430.- Todas las contiendas entre partes cuya tramitación no esté prevista en este título, se ventilarán en juicio ordinario.
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
 ART. 431.- En el caso de la fracción XVI del artículo 429, no se requieren más solemnidades que oír a las partes; primero al denunciante o al actor; enseguida a los demandados; recibir en este orden sus pruebas en el acto mismo y dictar allí la resolución. Si no estuviere el secretario, procederá el juez con dos testigos de asistencia.
