@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 1 DE ABRIL DE 2017)
+ART. 55 BIS.- Ningún menor que haya nacido en hospitales privados o del Estado podrá salir del mismo sin haber sido previamente registrado ante el Oficial del Registro Civil.
+En los casos que se dé a luz en comunidades rurales o indígenas, casas particulares y/o lugares externos a sanatorios privados o del Estado, el Oficial del Registro Civil deberá adoptar las medidas necesarias para que el menor, en no más de tres días hábiles, obtenga su registro y acta de nacimiento.
+La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que instalarán los Módulos del Registro Civil para registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo supervisión de la propia Dirección del Registro Civil.
