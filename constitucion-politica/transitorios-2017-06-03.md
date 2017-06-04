@@ -1,0 +1,3 @@
+P.O. 3 DE JUNIO DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 288 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE DERECHOS HUMANOS".]
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
