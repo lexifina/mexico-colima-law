@@ -6,9 +6,10 @@ Los partidos políticos tienen como fin promover la participación del pueblo en
 Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto quedan prohibidas la intervención (sic) de organizaciones gremiales, o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley.
 Los partidos políticos promoverán y garantizarán la equidad y la paridad entre mujeres y hombres en sus órganos de dirección y en las candidaturas a cargos de elección popular.
-(REFORMADO, P.O. 31 DE MAYO DE 2014)
-Para este último fin, deberán registrar hasta el 50% de candidatos de un mismo género a cargos de diputados por el principio de mayoría relativa; tratándose de cargos de diputados por el principio de representación proporcional, quienes se ubicarán de manera alternada en la lista, no podrán incluir más del 50% de un mismo género.
-En el caso de los Ayuntamientos, cuyo número total de presidentes municipales, síndicos y regidores sea par, el porcentaje para cada uno de los géneros será del 50% y cuando se trate de un número impar, será hasta un 60% para un mismo género.
+(REFORMADO, P.O. 8 DE JUNIO DE 2017)
+Para este último fin, si las fórmulas que presenten a cargos de diputados por el principio de mayoría relativa corresponden a un número par, deberán registrar el 50% de candidatos de un mismo género, en caso de que se trate de número impar, el porcentaje de cada género será el más cercano al 50%; tratándose de cargos de diputaciones por el principio de representación proporcional, cada partido político presentará una lista de prelación, alternando propuestas de uno y otro género, por la totalidad de los cargos correspondientes.
+(REFORMADO, P.O. 8 DE JUNIO DE 2017)
+En el caso de los Ayuntamientos, si un partido político registra un número par de candidatos a Presidentes Municipales el 50% de las candidaturas corresponderá a un mismo género, en caso de que se trate de número impar el porcentaje de cada género será el más cercano a dicha cifra. En cada planilla deberán alternarse las propuestas de uno y otro género en las planillas respectivas.
 Los partidos políticos garantizarán la inclusión de jóvenes en las candidaturas a cargos de elección popular.
 Los partidos podrán formar coaliciones y postular candidaturas comunes para las elecciones de Gobernador, Ayuntamientos y diputados por el principio de mayoría relativa en los términos que disponga la ley.
 (REFORMADO, P.O. 5 DE OCTUBRE DE 2013)
@@ -19,6 +20,8 @@ Ninguna otra persona física o moral, sea a título propio o por cuenta de terce
 La libertad de expresión y el derecho a la información en el contexto del debate político, serán invariablemente garantizados por las autoridades electorales.
 (REFORMADO, P.O. 5 DE OCTUBRE DE 2013)
 En la propaganda política o electoral que difundan los partidos políticos, sus candidatos y los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones, a los propios partidos políticos o a las personas.
+(ADICIONADO, P.O. 8 DE JUNIO DE 2017)
+Las autoridades electorales y los partidos políticos combatirán la violencia política en contra de las mujeres. La ley sancionará todo tipo de violencia política contra las mujeres.
 Cuando a juicio de la autoridad electoral local el tiempo en radio y televisión que le fue otorgado, fuese insuficiente para sus fines, hará la solicitud a la autoridad administrativa electoral federal, quien determinará lo conducente para cubrir el tiempo faltante, conforme a las facultades que la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia le confieren.
 Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes estatales, como de los municipios, órganos autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 (REFORMADA, P.O. 20 DE AGOSTO DE 2011)
