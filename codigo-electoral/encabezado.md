@@ -1,3 +1,4 @@
+[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE JULIO DE 2017 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 DECRETO No. 358
@@ -6,7 +7,8 @@ LIC. MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberan
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN IX, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+[...]
 Por lo anteriormente expuesto se expide el siguiente
 D E C R E T O No. 358
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba el Código Electoral del Estado de Colima, para quedar de la siguiente manera:
