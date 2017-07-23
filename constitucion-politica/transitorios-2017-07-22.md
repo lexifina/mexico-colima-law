@@ -1,0 +1,3 @@
+P.O. 22 DE JULIO DE 2017.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 328 POR EL QUE SE REFORMA LA FRACCIÓN I, PÁRRAFO SEGUNDO Y LA FRACCIÓN V, PÁRRAFO SEGUNDO AMBOS AL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
