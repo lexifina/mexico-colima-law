@@ -1,4 +1,4 @@
-LEY DE LA JUVENTUD DEL ESTADO DE COLIMA.
+LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 DECRETO No. 339
 POR EL QUE SE APRUEBA LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA.
