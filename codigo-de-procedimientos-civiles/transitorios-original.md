@@ -1708,7 +1708,8 @@ DEL DIVORCIO SIN CAUSA
 ART. 428 TER.- El cónyuge que unilateralmente desee promover el juicio de divorcio sin causa, podrá hacerlo solicitándolo por escrito ante el Juez competente, quien deberá emplazar al demandado para efectos de su conocimiento, y para que en su caso manifieste lo que a su derecho convenga dentro del término de tres días hábiles siguientes a la notificación, vencido ese plazo los autos se turnaran al Juez a efecto de emitir sentencia definitiva dentro de un término de diez días hábiles.
 (ADICIONADO, P.O. 19 DE MARZO DE 2016)
 ART. 428 TER 1.- Cuando existan menores, incapaces o bienes de la sociedad conyugal, deberá acompañar a su solicitud la propuesta de convenio que deberá reunir los requisitos establecidos en el artículo 273 del Nuevo Código Civil para el Estado de Colima.
-Admitida la solicitud con los documentos y copias anexas, se notificará y se correrá traslado al otro cónyuge, a fin de que en el plazo de quince días manifieste su conformidad con el convenio o, en su caso, presente su contrapropuesta.
+(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)
+Admitida la solicitud con los documentos y copias anexas, se notificará y se correrá traslado al otro cónyuge, a fin de que en el plazo de siete días manifieste su conformidad con el convenio o, en su caso, presente su contrapropuesta.
 Asimismo, el Juez ordenará poner a la vista del representante del Ministerio Público adscrito, la solicitud de divorcio y anexos, y en caso de existir la contrapropuesta para su debida intervención.
 (ADICIONADO, P.O. 19 DE MARZO DE 2016)
 ART. 428 TER 2.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 428 Ter 1 y éste no contravenga ninguna disposición legal, el juez lo aprobará de plano, decretando el divorcio mediante sentencia.
