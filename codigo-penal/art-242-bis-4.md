@@ -1,0 +1,8 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2017)
+CAPÍTULO XIV
+EJERCICIO ABUSIVO DE FUNCIONES
+(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)
+ARTÍCULO 242 BIS 4. Comete el delito de ejercicio abusivo de funciones, el servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones, adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
