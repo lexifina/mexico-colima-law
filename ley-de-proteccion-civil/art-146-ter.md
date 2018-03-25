@@ -1,4 +1,9 @@
-(ADICIONADO, P.O. 15 DE OCTUBRE DE 2016)
-Artículo 146 Ter.- Siempre que en el territorio estatal se presenten fenómenos meteorológicos o geológicos que puedan causar deterioro en los elementos a que se refiere el artículo previo, las Unidades Estatal y Municipales de Protección Civil deberán llevar a cabo una inspección en los distintos municipios, a fin de identificar los objetos riesgosos para la vida y el patrimonio de las personas, proponiendo la poda o derribamiento de árboles deteriorados o que estén a punto de caerse y la remoción de estructuras físicas en mal estado.
-Capítulo III
-De las Sanciones
+(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE MARZO DE 2018)
+Artículo 146 TER.- Para los efectos de esta Ley y los reglamentos que de ella deriven, se consideran de alto riesgo, los inmuebles y eventos:
+I. Que cuenten con un aforo o capacidad mayor a 1,000 personas;
+II. En espacio cerrado con un aforo o capacidad mayor a 500 personas;
+III. Con consumo de alcohol;
+IV. Con una construcción mayor a 3,000 metros cuadrados; o
+V. Donde se realicen actividades que por su naturaleza pongan en peligro la integridad de las personas.
+En todos los casos anteriores será responsabilidad de la Coordinación Estatal de Protección Civil, salvo que exista convenio mediante el cual se cedan las atribuciones a la autoridad municipal correspondiente.
+En aquellos eventos con aforo o capacidad de más de 10,000 personas, será responsabilidad exclusiva de la Coordinación Estatal de Protección Civil.

@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 24 DE MARZO DE 2018)
+Artículo 146 SEXIES.- Todos los lugares a que se refieren los artículos anteriores deberán contar con las medidas de seguridad de acuerdo a la normatividad vigente; además, deberán colocarse en sitios visibles equipos de seguridad, señales preventivas, restrictivas e informativas, luces y equipo necesario, según el caso, los cuales consignarán las reglas y orientaciones que deberán observarse antes, durante y después de algún siniestro o desastre, así como señalar las zonas de seguridad.
+Capítulo III
+De las Sanciones
