@@ -727,8 +727,8 @@ ART. 209.- Practicado todo lo prevenido en los artículos anteriores, el juez, p
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
 ART. 210.- En el mismo acto de la diligencia y una vez realizado el apremio a que se refiere la fracción III del artículo 208 que antecede, el juez, apercibirá al causante de la separación de que se procederá en su contra en caso de desacato.
 ART. 211.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2011)
-ART. 212.- Si hubiere hijos menores de edad, serán puestos al cuidado de la persona que de común acuerdo los cónyuges hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de 12 años.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2018)
+ART. 212.- Si hubiere hijos menores de edad, serán puestos al cuidado de la persona que de común acuerdo los cónyuges hubieren designado. En defecto de ese acuerdo el juez resolverá provisionalmente tomando como principio rector el interés superior de la niñez, a fin de lograr un estudio objetivo de las aptitudes reales de los padres, que resulte acorde al principio de igualdad.
 (REFORMADO, P.O. 25 DE MARZO DE 2000)
 Cualquier reclamación sobre el cuidado de los hijos, se substanciará en los términos del Título Décimo Sexto, Capítulo Único, de este Código.
 (REFORMADO, P.O. 25 DE MARZO DE 2000)

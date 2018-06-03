@@ -1,0 +1,3 @@
+P.O. 2 DE JUNIO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 488 POR EL QUE SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 70, ADEMÁS SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 71 DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
