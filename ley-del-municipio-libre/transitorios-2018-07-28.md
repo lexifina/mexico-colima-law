@@ -1,0 +1,3 @@
+P.O. 28 DE JULIO DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 518 POR EL QUE SE APRUEBA ADICIONAR LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO 86 BIS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".

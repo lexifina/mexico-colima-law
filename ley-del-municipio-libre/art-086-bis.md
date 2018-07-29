@@ -1,2 +1,10 @@
 (ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)
 ARTICULO 86 Bis.- Las Unidades Municipales de Protección Civil funcionarán como un órgano con autonomía de operación financiera y administrativa, dependiente del Ayuntamiento, las cuales coordinarán todas las acciones públicas municipales a favor de la protección civil, así como promover, apoyar, fomentar, vigilar y evaluar las estrategias y programas que se deriven de una gestión integral de riesgos en concordancia con los criterios que establezca la Unidad Estatal de Protección Civil.
+(ADICIONADO, P.O. 28 DE JULIO DE 2018)
+Las Unidades Municipales de Protección Civil, además de las funciones señaladas en el párrafo anterior y de las atribuciones consignadas en la Ley de Protección Civil del Estado de Colima, en coordinación con la dependencia encargada de emitir las licencias municipales de funcionamiento, deberán elaborar y mantener actualizado un registro de riesgos de siniestros de los establecimientos comerciales, industriales y de servicios que operen en su municipio, clasificándolos en: bajo, medio y alto.
+(ADICIONADO, P.O. 28 DE JULIO DE 2018)
+Al respecto, atenderán a los criterios establecidos por la Unidad (sic) Protección Civil, teniendo en cuenta lo dispuesto en el artículo 23 de la Ley de Protección Civil del Estado de Colima.
+(ADICIONADO, P.O. 28 DE JULIO DE 2018)
+Lo señalado en el presente artículo, servirá a las Unidades Municipales de Protección Civil para promover que en los establecimientos comerciales, industriales y de servicios que operen en su municipio, de acuerdo a la clasificación de riesgo de siniestralidad, exista un Programa Interno o Específico de Protección Civil, mediante el cual se pueden prevenir o evitar la incidencia de hechos o actos que pongan en peligro la vida o los bienes.
+(ADICIONADO, P.O. 28 DE JULIO DE 2018)
+La opinión derivada de las visitas o inspecciones que realicen las Unidades Municipales de Protección Civil será un requisito para que se autorice la expedición o refrendo de licencias de funcionamiento de establecimientos comerciales, industriales y de servicios que operen en su municipio.
