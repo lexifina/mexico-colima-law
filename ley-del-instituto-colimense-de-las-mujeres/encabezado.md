@@ -1,4 +1,4 @@
-LEY DEL INSTITUTO COLIMENSE DE LAS MUJERES
+LEY DEL INSTITUTO COLIMENSE DE LAS MUJERES DEL ESTADO DE COLIMA
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 14 de junio de 2003.
 FERNANDO MORENO PEÑA, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
