@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)
+Artículo 26 Quáter.- La Secretaría, establecerá una coordinación con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para incentivar, capacitar y desarrollar programas de promoción de prestadores de Servicios que se dediquen al Turismo Médico; así como promover y promocionar a las empresas y los avances en equipamiento que tengan por objeto la prestación de servicios de salud.
