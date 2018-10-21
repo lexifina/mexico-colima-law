@@ -1,0 +1,3 @@
+P.O. 20 DE OCTUBRE DE 2018.
+[N. DE E. TRANSITORIO DEL "DECRETO NO. 610 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 27, 28, 29, 30 Y EL CAPÍTULO IV A LA LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA EN MATERIA ALIMENTARIA PARA EL ESTADO DE COLIMA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".

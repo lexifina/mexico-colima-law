@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)
+Artículo 23 Quinquies.- La Secretaría podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido del formato o documento que se les haya presentado, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de 30 días hábiles a partir de que ésta sea declarada por la Secretaría, siempre y cuando le sea entregada la información requerida.

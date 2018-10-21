@@ -1714,6 +1714,8 @@ Asimismo, el Juez ordenará poner a la vista del representante del Ministerio P�
 (ADICIONADO, P.O. 19 DE MARZO DE 2016)
 ART. 428 TER 2.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 428 Ter 1 y éste no contravenga ninguna disposición legal, el juez lo aprobará de plano, decretando el divorcio mediante sentencia.
 En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
+(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)
+ART. 428 TER 3.- La sentencia que declare la disolución del vínculo matrimonial es inapelable.
 TITULO SEPTIMO
 De los juicios sumarios y de la vía de apremio
 CAPITULO I
@@ -2425,7 +2427,7 @@ En los juicios en que la sentencia definitiva sea apelable, la revocación proce
 (REFORMADO, P.O. 19 DE JULIO DE 2008)
 ART. 684.- El Recurso de Revocación deberá interponerse por escrito dentro de los tres días siguientes a la notificación, expresando los hechos y fundamentos legales que lo sustenten. El Juez podrá resolver de plano confirmando o modificando la resolución impugnada. Podrá asimismo, en consideración a las circunstancias del caso, dar vista a la parte contraria por un término igual y la resolución deberá pronunciarse dentro del tercer día siguiente. Esta resolución no admite más recurso que el de responsabilidad.
 Si el recurso fuere presentado extemporáneamente o no contiene expresión de agravios, se declarará desierto y firme la resolución recurrida.
-(REFORMADO [N. DE .E. ADICIONADO], P.O. 19 DE JULIO DE 2008)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2008)
 ART. 685.- Contra los decretos y autos emitidos por las Salas y el Pleno del Supremo Tribunal de Justicia no procede recurso alguno.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.
 (REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)
