@@ -1,0 +1,1 @@
+Artículo Sexto. El Reglamento de la Ley de Pensiones de los Servidores Públicos del Estado de Colima, así como el Reglamento Interior del Instituto y el Reglamento de Préstamos, deberán publicarse dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto.

@@ -1,0 +1,1 @@
+Artículo Décimo. A quienes reúnan los requisitos y condiciones para el otorgamiento de una pensión antes de la entrada en vigor del presente Decreto, se les aplicará la normatividad vigente en el momento de que los reunieron, haciéndose responsable la Entidad Pública Patronal de su pago.

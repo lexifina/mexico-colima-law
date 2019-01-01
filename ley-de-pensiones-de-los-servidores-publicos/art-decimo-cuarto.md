@@ -1,0 +1,2 @@
+Artículo Décimo Cuarto. Quienes hubieren ingresado al servicio público con fecha anterior a la entrada en vigor del presente Decreto, serán considerados como servidores públicos en transición, quedando sujetos a lo establecido en los artículos transitorios y a la Ley, en las partes que no se les contrapongan.
+A los servidores públicos en transición se les reconocerá su antigüedad a través de los años de servicios prestados, la que se comprobará con el documento idóneo.

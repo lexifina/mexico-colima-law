@@ -1,0 +1,2 @@
+Artículo Cuarto. El patrimonio de la Dirección de Pensiones del Estado, conformada por todas sus propiedades, posesiones, derechos y obligaciones que tuviese al entrar en vigor del presente Decreto, se transferirá al patrimonio general del Instituto.
+Considerando que la Dirección de Pensiones del Estado se extingue, los trabajadores de dicho organismo serán transferidos al Instituto, reconociéndose todos sus derechos de antigüedad y condiciones de trabajo.

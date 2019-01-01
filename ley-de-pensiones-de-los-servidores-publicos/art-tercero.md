@@ -1,0 +1,2 @@
+Artículo Tercero. La Dirección de Pensiones del Estado deberá transferir a la Cuenta Institucional del Estado y a las Cuentas Institucionales de los gobiernos municipales que actualmente cotizan a la Dirección de Pensiones del Estado, los saldos en bancos que actualmente administra de cada Entidad Pública Patronal afiliada a dicho organismo.
+En su caso, deberá detallar las cuentas que tiene por cobrar de préstamos, aportaciones y cuotas, de las cuales transferirá los derechos de cobro al Instituto.

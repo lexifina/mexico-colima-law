@@ -1,0 +1,1 @@
+Artículo Séptimo. Los actos que se hayan realizado conforme a la Ley que se abroga por el artículo segundo del presente Decreto, seguirán surtiendo efectos hasta la conclusión del término o cumplimiento de las condiciones en que se hayan efectuado.

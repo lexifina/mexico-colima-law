@@ -1,0 +1,1 @@
+Artículo Décimo Primero. La prescripción de acciones de devolución de cuotas, tratándose de los afiliados que causaron baja de la Entidad Pública Patronal antes de la entrada en vigor del presente Decreto, operará en los términos de la Ley que se abroga por el artículo segundo transitorio.
