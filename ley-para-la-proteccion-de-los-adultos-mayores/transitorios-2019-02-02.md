@@ -1,0 +1,4 @@
+P.O. 2 DE FEBRERO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 32 POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA "LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA", PARA REFERIRSE A LA MISMA COMO "LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+Segundo. A partir del inicio de vigencia del presente Decreto, toda mención en cualquier norma expedida por este Congreso del Estado, Reglamento del Poder Ejecutivo Local, Lineamientos, Convenios, Acuerdos o cualquier otra disposición jurídica aplicable que haga alusión a la "Ley para la Protección de los Adultos en Plenitud del Estado de Colima", se entenderá en lo sucesivo referida a la Ley para la Protección de los Adultos Mayores del Estado de Colima.
