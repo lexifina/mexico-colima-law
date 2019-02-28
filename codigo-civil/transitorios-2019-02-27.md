@@ -1,0 +1,6 @@
+P.O. 27 DE FEBRERO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NO. 44 POR EL QUE SE APRUEBA REFORMAR EL PÁRRAFO PRIMERO DEL ARTÍCULO 35 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 37, Y ADICIONAR LOS ARTÍCULOS 135 BIS, 135 TER Y 135 QUÁTER, DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+TERCERO.- El Poder Ejecutivo del Estado y los Ayuntamientos, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos respectivos, a fin de garantizar el derecho de acceso a las nuevas actas para el reconocimiento de identidad de género.
+CUARTO.- La Dirección del Registro Civil del Estado de Colima se coordinará con las Oficialías del Registro Civil de los Municipios, para que en un término no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, elaboren el formato único de solicitud y demás documentación necesaria para el ejercicio del derecho que se tutela en este instrumento.
