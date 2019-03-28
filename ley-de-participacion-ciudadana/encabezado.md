@@ -1,0 +1,19 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
+Ley publicada en el Suplemento No. 1 al Número 71 del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
+DECRETO No. 531
+POR EL QUE SE APRUEBA EXPEDIR LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA.
+JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes hace sabed:
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
+D E C R E T O
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II, Y 40 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO EXPIDE EL SIGUIENTE DECRETO, CON BASE EN LOS SIGUIENTES,
+A N T E C E D E N T E S
+[…]
+Por lo antes expuesto se expide el siguiente:
+D E C R E T O No. 531
+ÚNICO.- Se aprueba expedir la Ley de Participación Ciudadana del Estado de Colima, para quedar como sigue:
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
+TÍTULO PRIMERO
+DE LA PARTICIPACIÓN CIUDADANA
+Capítulo Primero
+Disposiciones generales
