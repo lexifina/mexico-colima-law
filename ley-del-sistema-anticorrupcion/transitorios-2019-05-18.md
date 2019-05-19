@@ -1,0 +1,5 @@
+P.O. 18 DE MAYO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 66 POR EL QUE SE REFORMA EL INCISO B), DE LA FRACCIÓN I, DEL NUMERAL 1, DEL ARTÍCULO 18, DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los dos nuevos integrantes de la Comisión de Selección, por lo que, una vez publicado el presente Decreto, deberá turnarse copia del mismo a la Comisión o Comisiones Legislativas que corresponda, para efectos del trámite correspondiente.
+TERCERO.- Las dos personas que resulten electas para integrar la Comisión de Selección por virtud de lo dispuesto en el presente Decreto, lo serán por el periodo que le resta a la actual integración de la Comisión, el cual inició el 12 de octubre de 2017 y concluye el 12 de octubre de 2020.
