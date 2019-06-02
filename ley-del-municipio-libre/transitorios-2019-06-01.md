@@ -1,0 +1,5 @@
+P.O. 1 DE JUNIO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 75 POR EL QUE SE APRUEBA ADICIONAR EL CAPÍTULO XV, DENOMINADO "DE LAS COMISIONES DE DERECHOS HUMANOS DE LOS CABILDOS MUNICIPALES", MISMO QUE SE CONFORMA POR EL ARTÍCULO 62, A LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA; ASÍ COMO ADICIONAR UN PÁRRAFO CUARTO AL ARTÍCULO 42 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- El cumplimiento de lo previsto en el presente Decreto que requiera de presupuesto para su instrumentación y desarrollo, se sujetará a la disponibilidad presupuestaria de la Comisión de Derechos Humanos del Estado.
+TERCERO.- La Comisión de Derechos Humanos del Estado deberá prever en su Proyecto de Presupuesto de Egresos del Ejercicio Fiscal 2020 y venideros, la partida respectiva para el cumplimiento de lo previsto en el presente Decreto, en tanto que el H. Congreso del Estado deberá revisar, analizar y, en su caso, aprobar lo necesario para tal fin.
