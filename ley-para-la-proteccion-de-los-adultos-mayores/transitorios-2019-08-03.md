@@ -1,0 +1,4 @@
+P.O. 3 DE AGOSTO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 111 POR EL QUE SE REFORMAN LOS INCISOS A) Y B) DE LA FRACCIÓN XII DEL ARTÍCULO 29 Y SE DEROGA EL ARTÍCULO 30, AMBOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA; SE ABROGAN LOS DECRETOS NÚMERO 148 Y 179, PUBLICADOS EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 13 DE SEPTIEMBRE DE 2007 Y 31 DE JULIO DE 2010, RESPECTIVAMENTE, ADEMÁS, SE APRUEBA ADICIONAR UNA FRACCIÓN X AL ARTÍCULO 1, ASÍ COMO, EL ARTÍCULO 10 A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- La emisión de la Convocatoria para la edición 2019 de la entrega anual del Premio Estatal a los Adultos Mayores se realizará, por esta ocasión, una vez que entre en vigor lo señalado en el presente Decreto.

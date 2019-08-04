@@ -1,0 +1,7 @@
+P.O. 3 DE AGOSTO DE 2019.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM.113 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- El Congreso del Estado de Colima, deberá en un plazo improrrogable de un año a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones normativas correspondientes a efecto de observar el principio de paridad de género establecido en esta Constitución.
+Con respecto a los derechos de la naturaleza en términos de lo dispuesto en el presente Decreto, el Congreso del Estado de Colima deberá realizar las adecuaciones correspondientes a la legislación local en un plazo no mayor a 120 días hábiles contados a partir de la entrada en vigor del mismo.
+TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 1° de esta Constitución, será aplicable a quienes tomen posesión de su encargo, a partir del proceso electoral local siguiente a la entrada en vigor del presente Decreto, según corresponda.
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
