@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)
+ARTÍCULO 275 BIS 1. Será sancionado con pena de tres a diez años de prisión y multa de tres mil veces la unidad de medida y actualización hasta el valor del daño causado, a la persona que destruya documentos relacionados con violaciones graves a derechos humanos, alojados en algún archivo, que así hayan sido declarados previamente por autoridad competente.

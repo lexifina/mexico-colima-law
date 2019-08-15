@@ -1,8 +1,5 @@
-(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)
-TÍTULO SEGUNDO BIS
-DELITOS CONTRA LOS MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2018)
-CAPÍTULO I
-LESIONES Y HOMICIDIO AGRAVADOS EN CONTRA DE MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)
-ARTÍCULO 275 BIS. Cuando se infiera lesiones dolosas a un miembro de las instituciones de seguridad pública, las sanciones señaladas en el artículo 126 del presente Código, se incrementarán de ocho meses a diez años de prisión.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2019)
+CAPÍTULO X
+DE LOS DELITOS CONTRA LOS ARCHIVOS
+(ADICIONADO, P.O. 14 DE AGOSTO DE 2019)
+ARTÍCULO 275 BIS. (SIC) Será sancionado con pena de tres días a diez años de prisión y multa de tres mil a cinco mil veces el valor diario de la unidad de medida y actualización a quien sustraiga, oculte, altere, mutile, destruya o inutilice, total o parcialmente, información y documentos de los archivos que se encuentren bajo su resguardo, salvo en los casos que no exista responsabilidad determinada en la Ley de Archivos del Estado de Colima; y a quien destruya documentos considerados patrimonio documental del Estado.
