@@ -1,6 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)
-Artículo 26 Bis.- La utilización de productos plásticos solo se permitirá en caso de que hayan sido producidas incorporando un porcentaje mínimo del treinta por ciento (30%) de material reciclado y que la fabricación de los mismos sean con materiales y procesos de tecnología que permitan su ágil degradación acorde con los criterios establecidos en el título de la Norma Mexicana "INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA" con clave NMX-E-267-CNCP-2016 o las que la sustituyan.
-(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)
-El porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias las cuales anualmente deberán ajustarse.
-(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)
-Los establecimientos mercantiles y comerciantes podrán utilizar las bolsas de polietileno cuando, por cuestiones de salubridad, se destinen para almacenar, empacar y/o conservar alimentos, mercancía o insumos, y no resulte factible el uso de un material sustituto al polietileno.
+(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2019)
+Artículo 26 Bis.- Se excluye de la prohibición prevista en la fracción XIV del artículo 25 de esta Ley, lo siguiente:
+I. Los popotes que se empleen en hospitales o por cuestiones médicas, siempre y cuando sean de material biodegradable y/o compostable, refiriéndose estos últimos a los materiales que al desecharse se convierten en composta o abono;
+II. Los productos que se empleen en casos de emergencia por catástrofes naturales; y
+III. Por razones de higiene o conservación de alimentos, siempre y cuando sean de material biodegradable o compostable.
