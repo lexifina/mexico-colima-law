@@ -4,6 +4,7 @@ LIC. MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberan
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente:
 D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE (SIC) LOS ARTICULOS 33 FRACCION II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
-CONSIDERANDO...
+CONSIDERANDO
+[...]
 Por lo anteriormente expuesto se expide el siguiente:
 D E C R E T O No. 163
