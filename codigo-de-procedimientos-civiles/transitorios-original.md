@@ -591,18 +591,27 @@ IV.- Si fuere pariente por consanguinidad o afinidad, del abogado o procurador d
 V.- Cuando él, su cónyuge o alguno de sus hijos sea heredero, legatario, donante, donatario, socio, acreedor, deudor, fiador, fiado, arrendador, arrendatario, principal, dependiente o comensal habitual de alguna de las partes o administrador actual de sus bienes;
 VI.- Si ha hecho promesas o amenazas, o ha manifestado de otro modo su odio o afecto por alguno de los litigantes;
 VII.- Si asiste o ha asistido a convites que especialmente para él diere o costeare alguno de los litigantes, después de comenzado el pleito, o si tiene mucha familiaridad con alguno de ellos, o vive con él, en su compañía, en una misma casa;
+(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE NOVIEMBRE DE 2019)
 VIII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
 IX.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate;
 (F. DE E., P.O. 9 DE ABRIL DE 1955)
 X.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún punto que afecte a la substancia de la cuestión, en la misma instancia o en otra;
-XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no haya pasado un año de haber seguido un juicio civil o una causa criminal, como acusador, querellante o denunciante, o se haya constituído parte civil en causa criminal seguida contra cualquiera de ellas;
-XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se ha constituído parte civil en causa criminal seguida contra cualquiera de ellos;
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)
+XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra alguna de las partes, o no haya pasado un año de haber seguido un juicio civil o una causa criminal, como acusador, querellante o denunciante, o se haya constituido parte civil en causa criminal seguida contra cualquiera de ellas;
+(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)
+XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se ha constituido parte civil en causa criminal seguida contra cualquiera de ellos;
 XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expresados parientes sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 XIV.- Si él, su cónyuge o alguno de sus expresados parientes siguen algún proceso civil o criminal en que sea juez, agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 ART. 170.- Los magistrados, jueces y secretarios tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguna de las causas expresadas en el artículo anterior o cualquiera otra análoga, aún cuando las partes no los recusen.
-Sin perjuicio de las providencias que conforme a este Código deben dictar, tienen la obligación de inhibirse inmediatamente que se avoquen al conocimiento de un negocio de que no deben conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o de que tengan conocimiento de él.
-Cuando un juez o magistrado se excuse sin causa legítima, cualquiera de las partes puede acudir en queja al presidente del tribunal, quien encontrando injustificada la abstención podrá imponer una corrección disciplinaria.
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)
+Sin perjuicio de las providencias que conforme a este Código deban dictar los magistrados, jueces y secretarios, éstos tienen la obligación de inhibirse inmediatamente que se avoquen al conocimiento de un negocio de que no deban conocer por impedimento, o dentro de las veinticuatro horas siguientes de que ocurra el hecho que origina el impedimento o tengan conocimiento de él.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2019)
+De las excusas revisará de oficio el inmediato superior jerárquico mediante copia certificada que se le envíe del auto en que el servidor público se declare impedido para conocer del asunto mediante la excusa y, en su caso, de las copias certificadas que consideren necesarias para resolver la misma, quien dentro de un término no mayor a 3 días hábiles contados a partir del día siguiente al que se emita el auto de excusa con independencia de que aún no se haya notificado a las partes, definirá la procedencia o improcedencia de dicha determinación y la competencia de la autoridad que habrá de avocarse al conocimiento del negocio conforme a lo previsto en el artículo 149, sin que el trámite administrativo pueda dilatar más de 10 días hábiles para que la autoridad competente que conozca o radique el expediente, proceda de oficio a notificar dicho acuerdo a las partes.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE NOVIEMBRE DE 2019)
+Cuando un magistrado, juez o secretario se excuse sin causa legítima, durante la revisión de oficio de la determinación, el inmediato superior jerárquico impondrá las correcciones disciplinarias correspondientes de conformidad con el artículo 62.
+(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2019)
+En contra de la determinación que resulte de la revisión de oficio de la excusa que realice el superior jerárquico no procederá recurso ordinario alguno.
 CAPITULO II
 De la recusación
 (REFORMADO, P.O. 19 DE NOVIEMBRE DE 2011)
