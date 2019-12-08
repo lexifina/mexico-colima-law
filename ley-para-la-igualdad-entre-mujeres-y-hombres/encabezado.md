@@ -4,6 +4,7 @@ LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libr
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
-CONSIDERANDOS.
+CONSIDERANDOS
+[...]
 Por lo anteriormente expuesto se expide el siguiente
 D E C R E T O No. 523
