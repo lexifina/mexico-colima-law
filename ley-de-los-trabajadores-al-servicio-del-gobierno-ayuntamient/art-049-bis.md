@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)
+ARTICULO 49 BIS.- A las trabajadoras que laboren en el Gobierno, Ayuntamientos y Organismos Descentralizados del Estado se les asignará un día por año con goce de sueldo para realizarse exámenes de detección de cáncer de mama y cervicouterino. Los trabajadores podrán solicitar este beneficio para la realización de exámenes prostáticos.
+Para tal efecto, la persona trabajadora entregará a la oficina de Recursos Humanos de la dependencia en que labora el documento emitido por la institución o clínica que acredite la realización de dichos exámenes, con el fin de que obre en su expediente laboral.
