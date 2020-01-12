@@ -1,0 +1,3 @@
+P.O. 11 DE ENERO DE 2020.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 194 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
