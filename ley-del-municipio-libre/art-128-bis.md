@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 11 DE JULIO DE 2015)
-ARTÍCULO 128 BIS.- Corresponde al presidente municipal conocer de los recursos de las infracciones administrativas, quien delegará la responsabilidad en el Juez Cívico, quien conocerá, además de las facultades otorgadas en el Reglamento Interior del Juzgado Cívico, de las (sic) medios de impugnación a las sanciones aplicadas en materia de Tránsito y Vialidad, impuestas por el Juez Calificador.
+(REFORMADO, P.O. 1 DE FEBRERO DE 2020)
+ARTICULO 128 BIS.- Corresponde a la presidenta o presidente municipal conocer de los recursos de las infracciones administrativas, quien delegará la responsabilidad en la Jueza o Juez Cívico, quien conocerá, además de las facultades otorgadas en el Reglamento Interior del Juzgado Cívico, de las (sic) medios de impugnación a las sanciones aplicadas en materia de Tránsito y Vialidad, impuestas por la Jueza o Juez Calificador.
