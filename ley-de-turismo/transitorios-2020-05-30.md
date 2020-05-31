@@ -1,0 +1,5 @@
+P.O. 30 DE MAYO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 275 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, HACIENDO EL CORRIMIENTO DEL SUBSECUENTE, AL ARTÍCULO 23 DE LA LEY DE TURISMO DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- La tarifa especial del 15% de descuento en los atractivos, corredores, productos y destinos turísticos que dependan del Gobierno del Estado o estén en convenio con la Federación para las y los colimenses, que establece el artículo 23 de la Ley de Turismo del Estado de Colima, tendrá plena aplicabilidad una vez que se haya decretado, por las autoridades de salud, la conclusión de la contingencia sanitaria de la pandemia del virus SARS-CoV-2, mejor conocido como Coronavirus o COVID-19.
+TERCERO.- El Poder Ejecutivo del Estado y los Municipios contaran con un plazo de 90 días naturales a la entrada en vigor del presente Decreto, para llevar a cabo las reformas reglamentarias que se deriven de este.
