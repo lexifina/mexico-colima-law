@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 29 DE JUNIO DE 2017)
-ARTÍCULO 295 BIS.- Se considerarán infracciones de cualquiera de los sujetos señalados en el artículo 285 del CÓDIGO, los actos u omisiones relacionados con la materia electoral que constituyan violencia política en contra de la mujer, en los términos que disponen los artículos 30 Ter, 30 Quáter y 30 Quinquies de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Colima.
+(REFORMADO, P.O. 13 DE JULIO DE 2020)
+ARTÍCULO 295 BIS.- Se considerarán infracciones de cualquiera de los sujetos señalados en el artículo 285 del CÓDIGO, los actos u omisiones relacionados con la materia electoral que constituyan violencia política en contra de la mujer, en los términos (sic) disponen los artículos 30 Ter y 30 Quáter de la LEY DE ACCESO, de la LEY GENERAL DE ACCESO y demás disposiciones aplicables de la LGIPE y este CÓDIGO.
