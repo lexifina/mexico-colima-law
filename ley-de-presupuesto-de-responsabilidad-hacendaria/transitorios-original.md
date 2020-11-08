@@ -21,3 +21,4 @@ DIP. GRACIELA LARIOS RIVAS, PRESIDENTA. Rúbrica. DIP. JUANA ANDRES RIVERA, SECR
 Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el 13 trece de enero de 2017 dos mil diecisiete.
 JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima. Rúbrica. ARNOLDO OCHOA GONZÁLEZ, Secretario General de Gobierno. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
