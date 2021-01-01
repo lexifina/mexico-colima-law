@@ -1,0 +1,7 @@
+(ADICIONADO, P.O. 30 DE MAYO DE 2020)
+Artículo 62 Bis 16.- El Estado, adoptará todas las medidas legislativas, administrativas y de cualquier otra índole que sean pertinentes para hacer efectivo el desarrollo integral de las personas que hayan sido intervenidas en cirugía reconstructiva de senos.
+La Secretaría impulsará la participación del sector público y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud respecto a las personas que hayan sido intervenidas en cirugía reconstructiva de senos, mediante redes de apoyo, en el ámbito de sus respectivas competencias.
+Título Tercero
+Salubridad Local
+Capítulo I
+Disposiciones Comunes

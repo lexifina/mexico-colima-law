@@ -1,5 +1,5 @@
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)
-Artículo 62 Ter.- El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018) (REFORMADA SU NOMENCLATURA [N. DE E. ANTES ARTÍCULO 62 TER], P.O. 30 DE MAYO DE 2020)
+Artículo 62 Bis 1.- El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
 I. Un Presidente que será el Secretario de Salud y Bienestar Social del Gobierno del Estado;
 II. Un Secretario que será el Presidente de Comisión de Salud del Congreso del Estado;
 III. Cinco vocales quienes serán:

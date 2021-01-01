@@ -1,9 +1,8 @@
-[N. DE E. VÉASE LITERALIDAD DEL EXTRACTO DEL DECRETO NÚMERO 134, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2019, PÁGINA 12.]
-(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)
-Artículo 20 Bis 44.- El Consejo estará integrado por:
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 44], P.O. 30 DE MAYO DE 2020)
+Artículo 62 Bis 7.- El Consejo estará integrado por:
 I. El Titular de la Secretaría de Salud del Gobierno del Estado, como Presidente;
 II. El titular de la Secretaría de Educación del Gobierno del Estado;
-III. El Director de Servicios de Salud, como Secretario Técnico;
+III. El Director de Servicios de Salud, como Secretario Técnico.
 IV. Los Presidentes Municipales de los diez municipios;
 V. Un representante del sector social;
 VI. Un representante del sector privado;

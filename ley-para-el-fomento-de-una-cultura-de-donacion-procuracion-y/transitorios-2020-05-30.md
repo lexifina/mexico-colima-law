@@ -1,0 +1,4 @@
+P.O. 30 DE MAYO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 273 POR EL QUE SE REORDENAN, REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE COLIMA, Y SE ADICIONA LA FRACCIÓN II, AL ARTÍCULO 7º DE LA LEY PARA EL FOMENTO DE UNA CULTURA DE DONACIÓN, PROCURACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Las disposiciones establecidas en el Capítulo VIII denominado "DE LA MASTECTOMÍA", que se integra por los artículos 62 Bis 14, 62 Bis 15, y 62 Bis 16, correspondiente al Título Segundo de la Ley de Salud del Estado de Colima, que requieran de presupuesto para su instrumentación y desarrollo, se sujetarán a la disponibilidad presupuestaria del Gobierno del Estado, debiéndose prever para el ejercicio fiscal 2021 una partida presupuestal para ello.

@@ -1,0 +1,2 @@
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 48], P.O. 30 DE MAYO DE 2020)
+Artículo 62 Bis 11.- Las instituciones de salud del Gobierno del Estado, con base en su capacidad de atención y presupuestal, estarán obligadas a proporcionar de manera gratuita servicios médicos adecuados a las niñas, niños y adolescentes que presenten cualquier diagnóstico confirmado de cáncer sin importar derechohabiencia.

@@ -1,0 +1,2 @@
+(REUBICADO [N. DE E. ANTES ARTÍCULO 20 BIS 43], P.O. 30 DE MAYO DE 2020)
+Artículo 62 Bis 6.- Se crea el Consejo de Prevención, Atención y Combate a la Obesidad, como una instancia colegiada permanente de diseño, consulta, evaluación y coordinación de las estrategias y programas orientados a la prevención, atención y combate del Sobrepeso, Obesidad y Trastornos de la conducta alimentaria en el Estado.

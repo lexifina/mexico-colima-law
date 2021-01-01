@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 LEY PARA EL FOMENTO DE UNA CULTURA DE DONACIÓN, PROCURACIÓN Y TRASPLANTE DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE COLIMA
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 26 de enero de 2013.
 DECRETO No. 35
@@ -6,7 +7,8 @@ LIC. MARIO ANGUIANO MORENO, Gobernador Constitucional del Estado Libre y Soberan
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
-CONSIDERANDO:.
+CONSIDERANDO:
+[...]
 Por lo anteriormente expuesto, se expide el siguiente:
 D E C R E T O No. 35
 ÚNICO.- Es de aprobarse y se aprueba la Ley para el Fomento de una Cultura de Donación, Procuración y Trasplante de Órganos, Tejidos y Células para el Estado de Colima, para quedar como sigue:
