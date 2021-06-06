@@ -1,0 +1,22 @@
+LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA
+Ley publicada en el Suplemento Núm. 3 al Número 46 del Periódico Oficial del Estado de Colima, el sábado 5 de junio de 2021.
+DEL GOBIERNO DEL ESTADO
+PODER LEGISLATIVO
+DECRETO
+NÚM. 454.- POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA.
+JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes hace sabed:
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
+D E C R E T O
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 Y 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO EXPIDE EL PRESENTE DECRETO, CON BASE EN LOS SIGUIENTES
+ANTECEDENTES:
+[…]
+ANÁLISIS DE LAS INICIATIVAS
+[…]
+EXPOSICIÓN DE MOTIVOS
+[…]
+CONSIDERANDOS
+[…]
+Por lo antes expuesto se expide el siguiente
+DECRETO NO. 454
+ÚNICO. Se expide la Ley del Instituto de Defensoría Pública del Estado de Colima, en los siguientes términos:
+LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA
