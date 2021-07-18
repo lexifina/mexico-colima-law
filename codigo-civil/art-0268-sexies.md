@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 17 DE JULIO DE 2021)
+ART. 268 SEXIES.- Los cónyuges que deseen divorciarse por mutuo consentimiento vía judicial, cuando tengan hijas o hijos menores de edad, sean acreedores alimentarios o no hayan liquidado la sociedad conyugal, deberán acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, cumpliendo con los requisitos establecidos en el artículo 268 de este Código.
+En el divorcio por mutuo consentimiento, aprobado el convenio, el órgano jurisdiccional emitirá la sentencia correspondiente con la cual concluirá el juicio de divorcio, ordenando se comunique esta resolución al encargado del Registro Civil.

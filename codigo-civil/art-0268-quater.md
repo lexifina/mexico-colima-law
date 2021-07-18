@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 17 DE JULIO DE 2021)
+ART. 268 QUÁTER.- Antes de que se provea definitivamente sobre la patria potestad o tutela de las hijas o los hijos, a petición de la madre o el padre podrán acordar los tribunales cualquiera providencia que se considere benéfica a los menores, propuesta por los abuelos, tíos o hermanos mayores. El órgano jurisdiccional podrá modificar esta decisión con base en lo dispuesto en los artículos 422, 423 y 734 de este Código.

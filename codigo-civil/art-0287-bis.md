@@ -8,3 +8,4 @@ II.- El demandante se haya dedicado en el lapso en que duró el matrimonio, prep
 III.- Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente inferiores a los de la contraparte.
 (ADICIONADO, P.O. 26 DE MAYO DE 2007)
 El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
+ART 288.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
