@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 17 DE JULIO DE 2021)
+ART. 1408 Bis.- Cuando el testador sea un adulto mayor, se estará a lo siguiente:
+El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador.
+A petición del interesado, podrá solicitar la intervención de un representante de la Procuraduría de la Defensa del Adulto Mayor. Si del criterio del notario se desprende que el Adulto Mayor se encuentra en estado de incapacidad o interdicción, deberá solicitar la intervención de un representante de la Procuraduría de la Defensa del Adulto Mayor.
+Posteriormente, se entrevistará con el testador, a fin de confirmar que éste tiene pleno conocimiento del significado y consecuencias jurídicas de las cláusulas del documento, así como identificar cualquier posible caso de violencia psicológica, patrimonial o económica que pudiera alterar la voluntad del testador en beneficio de un tercero.
+En este caso de confirmarse que no hay pleno conocimiento del acto realizado o si se observara alguno de los tipos de violencia señalados en el párrafo anterior, el representante de la Procuraduría de la Defensa del Adulto Mayor, informará por escrito al notario de la imposibilidad de continuar con la firma del testamento.
+En caso contrario, el representante de la Procuraduría de la Defensa del Adulto Mayor manifestará por escrito que no existe impedimento para continuar.
+El representante de la Procuraduría de la Defensa del Adulto Mayor, cuando se haya solicitado su intervención, deberá estar presente al momento de la lectura en voz alta a las cláusulas del testamento.
+Posteriormente, el testador manifestará su conformidad si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, el representante y los testigos, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.

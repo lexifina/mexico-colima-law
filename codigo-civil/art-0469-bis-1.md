@@ -2,3 +2,7 @@
 ART. 469 BIS 1.- Toda persona en pleno ejercicio de sus derechos puede nombrar tutor o tutores, y a sus sustitutos en previsión de ser declarado judicialmente en estado de interdicción, a efecto de que se encarguen de su persona y patrimonio.
 El nombramiento hecho excluye de su ejercicio a las personas a quienes pudiera corresponderles su desempeño con arreglo a este código.
 A la persona que nombre tutor se le denominará designante u otorgante; al nombrado, tutor cautelar.
+(ADICIONADO, P.O. 17 DE JULIO DE 2021)
+Tratándose de adultos mayores que manifiesten su intención de nombrar un tutor, será, requisito para la validez de los nombramientos, contar de forma previa a la firma ante notario público, del oficio de conformidad emitido por la Procuraduría de la Defensa del Adulto Mayor, en el cual se hará constar que el adulto mayor que realiza el nombramiento de tutor, tiene pleno conocimiento de las implicaciones legales de dicho nombramiento.
+(ADICIONADO, P.O. 17 DE JULIO DE 2021)
+Si de la entrevista que realice el representante de la Procuraduría de la Defensa del Adulto Mayor al interesado, quedara en evidencia el desconocimiento de las implicaciones legales por parte del mismo, si este manifestara que no es su voluntad nombrar tutor o si se identificara un posible caso de violencia psicológica, patrimonial o económica que pudiera alterar la voluntad se informará al Notario Público correspondiente, la negativa a emitir el oficio de conformidad, por lo que no podrá continuarse con el nombramiento y se tendrá por no presentada la solicitud.
