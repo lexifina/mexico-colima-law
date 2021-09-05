@@ -1,0 +1,6 @@
+P.O. 4 DE SEPTIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 484.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 76 DE LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE COLIMA; SE DEROGAN LOS ARTÍCULOS 77 Y 78, DE LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA; Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 33 Y EL ARTÍCUL 38 BIS, AMBOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el periódico oficial "El Estado de Colima".
+SEGUNDO.- Los Ayuntamientos deberán evaluar y revisar sus planes o programas de desarrollo urbano en un lapso no mayor a 180 días contados a partir de la entrada en vigor del presente decreto.
+TERCERO.- Dentro de un plazo no mayor a 30 días naturales, los ayuntamientos deberán incluir en su portal de transparencia los planes o programas de desarrollo urbano, ordenamiento territorial y ecológico, así como los tipos y usos de suelo que se encuentren vigentes.
+CUARTO.- El Instituto de Pensiones de los Servidores Públicos del Estado de Colima dentro de un plazo no mayor a 10 días hábiles contados a partir de la entrada en vigor del presente decreto deberá realizar las acciones necesarias para cabal cumplimiento a lo dispuesto en el presente decreto.
