@@ -1,0 +1,16 @@
+LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
+Ley publicada en el Suplemento Número 1 del Número 71 del Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2021.
+DEL GOBIERNO DEL ESTADO
+PODER LEGISLATIVO
+DECRETO
+NÚM. 494.- POR EL QUE SE APRUEBA LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS.
+JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes hace sabed:
+Que el Congreso del Estado me ha dirigido para su publicación el siguiente:
+D E C R E T O
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 Y 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO EXPIDE EL PRESENTE DECRETO, CON BASE EN LOS SIGUIENTES
+ANTECEDENTES:
+[…]
+Por lo antes expuesto se expide el siguiente
+DECRETO NO. 494
+ÚNICO. Se aprueba la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios, para quedar como sigue:
+LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE COLIMA Y SUS MUNICIPIOS
