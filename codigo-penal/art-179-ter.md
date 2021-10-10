@@ -1,0 +1,8 @@
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE OCTUBRE DE 2021)
+CAPÍTULO V TER
+IDENTIDAD SEXUAL
+(ADICIONADO, P.O. 9 DE OCTUBRE DE 2021)
+ARTÍCULO 179 TER. A quien imparta, promueva, ofrezca, aplique, financie, someta u obligue, con o sin fines de lucro, a otro a recibir una terapia de conversión se le impondrán de dos a cinco años de prisión y de cincuenta a cien horas de trabajo en favor de la comunidad. Este delito se perseguirá por querella.
+Si la terapia de conversión se hiciere en un menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho o persona que no tenga la capacidad de resistir la conducta, la pena se aumentará en una mitad y se perseguirá por oficio.
+Se entiende por terapias de conversión, aquellas prácticas y servicios consistentes en sesiones psicológicas, psiquiátricas, métodos o tratamientos que tenga por objeto anular, obstaculizar, modificar o menoscabar la expresión o identidad de género, así como la orientación sexual de la persona, en las que se emplea violencia física, moral o psicoemocional, mediante tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana.
+Para los efectos de este artículo se entenderá por "identidad de género", a la vivencia interna e individual del género, tal como cada persona la siente, misma que puede corresponder o no con el sexo asignado al nacer; y por "orientación sexual" a la capacidad de cada persona de sentir una atracción erótico-afectiva por personas de un sexo y/o género diferente al suyo, o de su mismo sexo y/o género, o de más de un género o de una identidad de género no binaria.
