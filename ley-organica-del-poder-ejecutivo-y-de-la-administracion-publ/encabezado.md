@@ -1,0 +1,18 @@
+LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
+Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
+DECRETO
+NÚM. 501.- POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA.
+JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes hace sabed:
+Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
+DECRETO
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 Y 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO EXPIDE EL PRESENTE DECRETO, CON BASE EN LOS SIGUIENTES
+ANTECEDENTES
+[…]
+Por lo antes expuesto, se expide el siguiente
+DECRETO NO. 501
+ÚNICO. Se expide la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, en los siguientes términos:
+LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
+TÍTULO PRIMERO
+DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO
+CAPÍTULO ÚNICO
+De la Administración Pública del Estado
