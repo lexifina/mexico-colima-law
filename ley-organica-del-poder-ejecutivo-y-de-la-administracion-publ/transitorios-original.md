@@ -7,7 +7,8 @@ CUARTO. En el caso de que alguna Dependencia o Secretaría de las establecidas e
 La persona titular del Poder Ejecutivo autorizará las transferencias, adecuaciones y medidas presupuestales, programáticas y administrativas que sean necesarias para proveer los recursos y elementos indispensables a las nuevas dependencias o secretarías que se crean o reestructuran por mandato de la ley contenida en este decreto, con las provisiones presupuestales previstas en el Presupuesto de Egresos del Estado vigente para el ejercicio fiscal respectivo.
 QUINTO. Las personas trabajadoras que con motivo de la aplicación de la Ley contenida en este decreto, deban quedar adscritas a una Dependencia o Secretaría diferente a su actual centro de trabajo, no resultarán afectadas en sus derechos laborales.
 SEXTO. Los asuntos en trámite que por motivo de esta ley deban pasar de una Dependencia o Secretaría a otra, permanecerán en el estado en que se encuentren hasta que las unidades administrativas que los deban recibir tomen conocimiento de ellos a excepción de los asuntos sujetos a plazos improrrogables.
-SÉPTIMO. La persona titular del Poder Ejecutivo dentro de los noventa días siguientes a la entrada en vigor del presente decreto expedirá los reglamentos interiores correspondientes a las Dependencias y Secretarías que se crearon o reestructuraron.
+(REFORMADO, P.O. 5 DE MARZO DE 2022)
+SÉPTIMO. La persona titular del Poder Ejecutivo dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto expedirá los reglamentos interiores correspondientes a las Dependencias y Secretarías que se crearon o reestructuraron. En tanto, seguirán surtiendo efectos, en lo conducente, los reglamentos interiores emitidos al amparo de la abrogada Ley Orgánica de la Administración Pública del Estado de Colima, en lo que no se opongan a la presente Ley.
 El Gobernador del Estado dispondrá se publique, circule y observe.
 Dado en el Recinto Oficial del Poder Legislativo, a los 27 veintisiete días del mes de septiembre de 2021 dos mil veintiuno.
 DIP. CLAUDIA GABRIELA AGUIRRE LUNA
@@ -29,3 +30,4 @@ Firma.
 EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 Firma.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

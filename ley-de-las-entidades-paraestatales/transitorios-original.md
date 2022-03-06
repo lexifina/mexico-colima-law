@@ -1,8 +1,10 @@
 TRANSITORIOS
 PRIMERO. La ley contenida en este decreto entrará en vigor el día 1o de noviembre del año 2021, previa publicación que se haga en el periódico oficial "El Estado de Colima".
 SEGUNDO. Se derogan en lo conducente las disposiciones jurídicas que se opongan a lo establecido en el presente decreto.
-TERCERO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, la Legislatura Estatal y el Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones a las leyes o decretos que crean entidades paraestatales de conformidad con lo previsto en este decreto y, en su caso, determinarán la fusión o extinción de las entidades paraestatales que se considere conveniente.
-CUARTO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado adecuará los reglamentos interiores de las dependencias de la Administración Pública Centralizada en cuanto a la fijación de las entidades paraestatales que deban tener sectorizadas y en congruencia con tales reglamentos expedirá el acuerdo general de sectorización de las entidades paraestatales, el cual deberá publicarse en el periódico oficial del Estado.
+(REFORMADO, P.O. 5 DE MARZO DE 2022)
+TERCERO. Dentro de los doscientos setenta días naturales siguientes a la entrada en vigor del presente decreto, la Legislatura Estatal y el Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones a las leyes o decretos que crean entidades paraestatales de conformidad con lo previsto en este decreto y, en su caso, determinarán la fusión o extinción de las entidades paraestatales que se considere conveniente.
+(REFORMADO, P.O. 5 DE MARZO DE 2022)
+CUARTO. Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado adecuará los reglamentos interiores de las dependencias de la Administración Pública Centralizada en cuanto a la fijación de las entidades paraestatales que deban tener sectorizadas y en congruencia con tales reglamentos expedirá el acuerdo general de sectorización de las entidades paraestatales, el cual deberá publicarse en el Periódico Oficial del Estado.
 QUINTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, el Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación, Finanzas y Administración, deberá constituir el registro público de entidades paraestatales que prevé la ley contenida en el presente decreto.
 SEXTO. Los órganos de gobierno de las entidades paraestatales se ajustarán de inmediato a las disposiciones previstas en la ley contenida en el presente decreto, en cuanto a su composición, salvo en aquellos casos debidamente justificados en que se considere conveniente preservar su actual integración en los términos que al respecto fijen las leyes o decretos de creación de la entidad paraestatal respectiva.
 En tal sentido, ajustarán su integración a un mínimo de tres personas y un máximo de nueve, en los términos previstos por el artículo 16 de esta ley.
@@ -29,3 +31,4 @@ Firma.
 EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 Firma.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
