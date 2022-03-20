@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)
-Artículo 26 Bis 5.- La Secretaría y los Órganos Municipales de Turismo del Estado vigilarán que las disposiciones establecidas por este capítulo se cumplan, así como las establecidas en la Ley para la Integración y Desarrollo Social de las Personas con Discapacidad del Estado de Colima y demás aplicables.
+(ADICIONADO, P.O. 19 DE MARZO DE 2022)
+Artículo 26 Bis 5.- Los prestadores de servicios turísticos deben permitir que sus clientes con discapacidad accedan con su animal de servicio a cualquier parte de sus instalaciones que esté abierta al público.
