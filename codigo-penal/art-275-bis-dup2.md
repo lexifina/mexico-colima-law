@@ -5,4 +5,4 @@ DELITOS CONTRA LOS MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 CAPÍTULO I
 LESIONES Y HOMICIDIO AGRAVADOS EN CONTRA DE MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 (ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)
-ARTÍCULO 275 BIS. Cuando se infiera lesiones dolosas a un miembro de las instituciones de seguridad pública, las sanciones señaladas en el artículo 126 del presente Código, se incrementarán de ocho meses a diez años de prisión.
+ARTÍCULO 275 BIS (SIC). Cuando se infiera lesiones dolosas a un miembro de las instituciones de seguridad pública, las sanciones señaladas en el artículo 126 del presente Código, se incrementarán de ocho meses a diez años de prisión.
