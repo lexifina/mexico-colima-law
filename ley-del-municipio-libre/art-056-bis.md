@@ -1,2 +1,3 @@
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2008)
-ARTICULO 56 BIS.- La ausencia temporal o definitiva de alguno de los miembros del cabildo, será suplida de manera inmediata y, en ningún caso, ésta deberá exceder del término de tres días naturales posterior a la solicitud correspondiente.
+(REFORMADO, P.O. 16 DE ABRIL DE 2022)
+ARTICULO 56 BIS.- La ausencia temporal o definitiva de alguno de los miembros del cabildo, será suplida de manera inmediata y, en ningún caso, esta deberá exceder del término de tres días naturales posterior a la solicitud correspondiente.
+En caso de que un munícipe falte a cinco sesiones de manera ininterrumpida, sin causa justificada, será suspendido de su cargo y se llamará de inmediato al suplente para tomarle protesta de Ley, como lo dispone la Constitución en su artículo 90, fracción I, párrafo 11 inciso b) y el arábigo 35 fracción II de la Ley para Regular la Participación del Congreso en Asuntos Municipales.
