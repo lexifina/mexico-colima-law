@@ -18,4 +18,9 @@ XII. Establecer la regulación para la clasificación de establecimientos hotele
 Para el ejercicio de esta atribución el Ejecutivo Estatal podrá signar convenios de colaboración con los municipios en materia de registro de clasificación, verificación del cumplimiento de la regulación a que se refiere la fracción anterior, y la imposición de las sanciones a que haya lugar;
 XIII. Promover y vigilar el cumplimiento de esta Ley y los demás ordenamientos y Normas Oficiales que de ella deriven, en el ámbito de su competencia;
 XIV. Fijar e imponer, de acuerdo a esta Ley y los reglamentos correspondientes, el tipo y monto y de las sanciones por el incumplimiento y violación de las disposiciones en materia turística; y
-XV. Las demás previstas en éste y otros ordenamientos.
+(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2022)
+XV. Facilitar la integración de las comunidades rurales a proyectos turísticos rurales y sustentables, de acuerdo con las propuestas que presentes (sic) los gobiernos municipales y estatal.
+(ADICIONADA, P.O. 25 DE JUNIO DE 2022)
+XVI. Colaborar con la Secretaría de Desarrollo Económico en las acciones tendientes a promover y fortalecer las micro y pequeños comercios, así como las de turismo rural y sustentables en sus diversas modalidades.
+(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2022)
+XV. (SIC) Las demás previstas en éste y otros ordenamientos.

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 25 DE JUNIO DE 2022)
+Artículo 10 Ter.- La Secretaría promoverá el desarrollo de infraestructura y equipamiento para aquellas zonas donde se desarrolle el turismo rural, que contribuya al fomento y desarrollo de la actividad turística, sujeto a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Gobierno del Estado.
+En coordinación con la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en el estado de Colima, promoverán los mecanismos que permitan la promoción y comercialización de los productos de las zonas turísticas rurales.

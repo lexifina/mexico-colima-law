@@ -1,0 +1,6 @@
+P.O. 25 DE JUNIO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 107.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCERO AL ARTÍCULO 54, ADEMÁS, SE REFORMA LA FRACCIÓN XV Y SE ADICIONAN DOS FRACCIONES AL ARÁBIGO 69, PASANDO A SER ESTAS LAS FRACCIONES XVI Y XVII, HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, ASÍ COMO, UN ÚLTIMO PÁRRAFO AL ARÁBIGO CITADO, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTO Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Las obligaciones que se generan en las fracciones XVI y XVII del artículo 69 con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria de cada Entidad o dependencia pública.
+TERCERO.- Las Entidades o dependencia pública, contemplaran en la creación de sus anteproyectos de sus presupuestos de egresos a partir del ejercicio fiscal 2023, el cumplimiento de manera gradual de las obligaciones contenidas en el presente Decreto.
+CUARTO.- Las Entidades o dependencia pública, preverán los espacios en los centros de trabajo para la creación de ludotecas y lactarios de manera gradual conforme a las obligaciones contenidas en el presente Decreto.

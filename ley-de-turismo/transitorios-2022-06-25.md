@@ -1,0 +1,4 @@
+P.O. 25 DE JUNIO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 111.- POR EL QUE SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 2; FRACCIONES XX, XXI DEL ARTÍCULO 11; FRACCIÓN XV DEL ARTÍCULO 15 BIS; Y SE ADICIONA LA FRACCIÓN XXI (SIC) ARTÍCULO 2; EL ARTÍCULO 10 TER; LA FRACCIÓN XXII AL ARTÍCULO 11; LAS FRACCIONES XVI, XVII AL ARTÍCULO 15 BIS; Y SEGUNDO PÁRRAFO AL ARTÍCULO 45 DE LA LEY DE TURISMO DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
