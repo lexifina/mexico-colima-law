@@ -1,15 +1,9 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS
-Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 24 de marzo de 2018.
-DECRETO No. 466
-POR EL QUE SE APRUEBA LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS.
-JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes hace sabed:
-Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
-D E C R E T O
-EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 40 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO EXPIDE EL SIGUIENTE DECRETO. CON BASE EN LOS SIGUIENTES,
-A N T E C E D E N T E S
-[…]
-Por lo antes expuesto se expide el siguiente:
-D E C R E T O No.466
-ÚNICO.- Es de aprobarse y se aprueba (sic) Ley para Regular la Convivencia Civil en el Estado de Colima y sus Municipios, en los siguientes términos:
-LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS
+LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+DECRETO 744
+LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+EXPOSICION DE MOTIVOS
+[...]
+Todo lo expuesto, conforme a las circunstancias que adquiere el turismo como sector prioritario para favorecer la inversión pública y privada, es congruente con los avances de la tecnología y las exigencias ciudadanas de mejorar el servicio turístico que promueven las instituciones públicas, concentrando su objetivo, en favorecer una mejor prestación del mismo a las personas que desean hacer de San Luis Potosí, un remanso y punto de llegada.
+LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
