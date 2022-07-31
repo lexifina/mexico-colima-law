@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE JULIO DE 2022)
+Artículo 67 Ter.- La alerta plateada tiene como objetivo llevar a cabo la búsqueda inmediata, para la localización de personas adultas mayores extraviadas o en estado de abandono, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio mexicano.

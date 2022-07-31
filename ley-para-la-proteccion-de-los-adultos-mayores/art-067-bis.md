@@ -1,2 +1,2 @@
-(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)
-Artículo 67 Bis.- Será obligación de las dependencias y entidades de la administración pública estatal centralizada y paraestatal, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar en esas dependencias.
+(ADICIONADO, P.O. 30 DE JULIO DE 2022)
+Artículo 67 Bis.- (Sic) La alerta plateada es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de personas adultas mayores con reporte de extravío o en estado de abandono.

@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 30 DE JULIO DE 2022)
+Artículo 67 Quinquies.- Para que la Alerta Plateada sea activada por parte de la Procuraduría de la Defensa del Adulto Mayor, deberán considerarse los siguientes criterios:
+I. Que se trate de una persona adulta mayor, considerada como tal para los efectos del presente protocolo a quienes tengan 60 o más años de edad cumplidos;
+II. Que se encuentre en riesgo de sufrir un daño a su integridad personal, por motivo de ausencia, extravío o por haber sido localizada una persona adulta mayor que desconozca o no recuerde los datos de identificación de familiares o amistades; y
+III. Que se tenga información suficiente de la persona adulta mayor en la que se incluya nombre, fecha de nacimiento, edad, género, media filiación (estatura, cabello, color de ojos, peso), nacionalidad, señas particulares, padecimientos o discapacidades, fotografía o retrato hablado, vestimenta, fecha de la última vez en que fue vista y cualquier otra información que se considere relevante para su localización.
