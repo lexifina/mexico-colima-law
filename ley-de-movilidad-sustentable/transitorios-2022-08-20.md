@@ -1,0 +1,5 @@
+P.O. 20 DE AGOSTO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 127.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA."]
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. Las obligaciones que se generan en el punto 5 del artículo 170 y punto 3 del arábigo 246, con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria en la Subsecretaria de Movilidad, dentro del Presupuesto de Egresos 2023.
+TERCERO. La Subsecretaria desarrollara la plataforma digital, software o aplicación que contengan los datos del vehículo, de su propietario y datos del chofer, del Sistema de Transporte Individual Motorizado y del Transporte Privado por Arrendamiento a través de Aplicaciones Tecnológicas, proporcionando a concesionarios y permisionarios un gafete que contenga un código único de QR, para ponerlo a disposición de los usuarios y puedan éstos verificar la información de un transporte seguro, así como que dicha plataforma, cuente con apartado de receptoría de quejas.

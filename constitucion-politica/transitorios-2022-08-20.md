@@ -1,0 +1,5 @@
+P.O. 20 DE AGOSTO DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 125.- POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 31, PÁRRAFO QUINTO, 34, FRACCIONES XXVII Y XXXIII, 95, PÁRRAFO SEGUNDO Y 90, FRACCCIÓN I, PÁRRAFO DÉCIMO TERCERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA."]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo previsto en los transitorios siguientes.
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, en términos de los transitorios anteriores, se derogan todas las disposiciones legales que contravengan o se opongan a lo dispuesto por el presente Decreto.
+TERCERO. Dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado de Colima deberá emitir la Ley relativa a regular el procedimiento para conceder amnistía por delitos cuyo conocimiento corresponda a la jurisdicción de los Tribunales del Estado.
