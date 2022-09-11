@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)
+Artículo 94 Bis.- Los establecimientos comerciales, criaderos, estéticas caninas, y prestadores de servicios vinculados con el manejo, producción, exhibición y venta de animales que presten servicios médicos veterinarios, apliquen vacunas o presten cualquier otro servicio que implique tratamiento veterinario que no sean atendidos por médicos veterinarios zootecnistas con cédula profesional serán objeto de clausura temporal o definitiva por parte de la autoridad municipal competente.

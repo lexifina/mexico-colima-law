@@ -1,0 +1,14 @@
+(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)
+Artículo 99 Bis.- Las multas impuestas con motivo de la aplicación de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, podrán ser impugnadas por las personas físicas o morales mediante la interposición del Recurso de Inconformidad conforme a las reglas establecidas en la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
+T R A N S I T O R I O S
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Se abroga la Ley Estatal para la Protección a los Animales, aprobada el 10 de noviembre de 1981 y publicada en el Periódico Oficial "El Estado de Colima" el sábado 05 de diciembre de 1981, mediante Decreto No. 168, así como las demás disposiciones que se opongan a la presente Ley.
+TERCERO.- El Ejecutivo del Estado dispondrá de un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente ordenamiento, a fin de expedir el Reglamento de la presente Ley.
+CUARTO.- Los ayuntamientos, de acuerdo a su disponibilidad presupuestal, deberán contar con un centro de control animal en cada uno de sus respectivos Municipios, a más tardar dentro de un año a partir de la entrada en vigor del presente ordenamiento.
+El Gobernador del Estado dispondrá se publique, circule y observe."
+Dado en el Recinto Oficial del Poder Legislativo, a los treinta y un días del mes de agosto del año dos mil once.
+C. VÍCTOR JACOBO VÁZQUEZ CERDA, DIPUTADO PRESIDENTE. Rúbrica. C. ALFREDO HERNÁNDEZ RAMOS, DIPUTADO SECRETARIO. Rúbrica. C. JOSÉ LUIS LÓPEZ GONZÁLEZ, DIPUTADO SECRETARIO. Rúbrica.
+Por lo tanto mando se imprima, publique, circule y observe.
+Dado en Palacio de Gobierno, al día 31 del mes de agosto del año dos mil once.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE EDUCACIÓN, PROFR. FEDERICO RANGEL LOZANO. Rúbrica. EL SECRETARIO DE DESARROLLO URBANO, ING. FRANCISCO JAVIER AGUILAR ZARAGOZA. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO. Rúbrica.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]

@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)
+Artículo 27 Bis 2.- Los propietarios o poseedores de animales domésticos o silvestres en cautiverio, deberán proporcionarles alimento y agua en cantidad y calidad adecuada de acuerdo a su especie y etapa productiva.
+Los animales deberán estar sujetos a un programa de medicina preventiva bajo supervisión de un médico veterinario, y deberán ser revisados y atendidos regularmente. Así mismo se les proporcionará atención inmediata en caso de enfermedad o lesión.
