@@ -1,0 +1,7 @@
+P.O. 10 DE SEPTIEMBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 160.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE COLIMA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+TERCERO. El Pleno del Tribunal deberá armonizar, en lo que corresponda, y en un plazo que no excederá de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto, el Reglamento Interior y el Código de Ética del Tribunal.
+CUARTO. En ejercicio de sus facultades regulatorias, el Pleno del Tribunal podrá adoptar las medidas que sean necesarias para cumplir y dar eficacia a las disposiciones contenidas en el presente Decreto.
+QUINTO. Los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes al momento de su inicio, salvo lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal, así como al cumplimiento y ejecución de las sentencias. En este último caso, dichas disposiciones serán plenamente aplicables a los juicios iniciados con anterioridad a la entrada en vigor del presente Decreto, siempre y cuando la sentencia respectiva haya causado estado con posterioridad a la entrada en vigor del indicado Decreto.
