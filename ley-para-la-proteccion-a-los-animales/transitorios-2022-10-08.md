@@ -1,0 +1,6 @@
+P.O. 8 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 158 POR EL QUE SE APRUEBA LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA".]
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. El Poder Ejecutivo del Estado, así como los Ayuntamientos, contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación de conformidad a los términos previstos por este.
+TERCERO. Se derogan las disposiciones contenidas en la Ley para la Protección de los Animales del Estado de Colima, relativas (sic) los denominados animales domésticos, incluidas en los artículos 3 fracción I; 4 fracción III; 7 fracción VII; 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 74, 79 y 80 de la mencionada Ley.
+CUARTO. Las disposiciones relativas a los Centros de Asistencia Animal establecido (sic) en la fracción XIV del artículo 3; la captura de los Animales de Compañía establecida en la fracción VI del artículo 11 y los servicios de cremación establecidos en la fracción VI del artículo 9 de la Ley, se aplicarán de manera paulatina de acuerdo a la disponibilidad presupuestal de la autoridad responsable de su ejecución.
