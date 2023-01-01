@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)
+Artículo 58 Bis 2.- Las niñas, niños y adolescentes tendrán derecho a que se les garantice su salud mental y a vivir en condiciones de bienestar, aun ante la negativa de quienes ejerzan su representación legal, por lo que, en este último caso, deberá dársele la intervención legal que le corresponde a la Procuraduría de Protección de las Niñas, Niños y Adolescentes.

@@ -1,3 +1,4 @@
+[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 176 PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DE LAS MODIFICACIONES AL ARTÍCULO 62 TER CORRESPONDERíAN AL PRESENTE ARTÍCULO; SE SUGIERE CONSULTAR DICHO ARTÍCULO.]
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018) (REFORMADA SU NOMENCLATURA [N. DE E. ANTES ARTÍCULO 62 TER], P.O. 30 DE MAYO DE 2020)
 Artículo 62 Bis 1.- El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
 I. Un Presidente que será el Secretario de Salud y Bienestar Social del Gobierno del Estado;
