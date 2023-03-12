@@ -1,0 +1,3 @@
+P.O. 11 DE MARZO DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 251.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 2556, 2557, 2558 Y 2559 Y SE ADICIONAN LOS ARTÍCULOS 2559 BIS, 2559 BIS 1 Y 2559 BIS 2 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+ARTÍCULO ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
