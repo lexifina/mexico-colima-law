@@ -1,0 +1,3 @@
+P.O. 16 DE SEPTIEMBRE DE 2023.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 345.- POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 75 DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+ARTÍCULO ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
