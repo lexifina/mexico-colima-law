@@ -1,0 +1,3 @@
+P.O. 2 DE MARZO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 407.- POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 10, ASÍ COMO EL ARTÍCULO 30 TER, 30 QUÁTER Y LA FRACCIÓN II DEL ARTÍCULO 30 QUINQUIES DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
