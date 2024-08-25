@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)
+Artículo 61 Sexies.- Se considera sistema de producción de huevo libre de jaula aquel que se lleve a cabo en Casetas o Naves, con o sin acceso al exterior, donde las gallinas disponen de un mayor espacio para moverse sin restricciones y realizar algunos comportamientos naturales que incluyen elementos de enriquecimiento que brindan a las gallinas un entorno de mayor bienestar animal. Ningún tipo de jaula se deberá permitir para la producción de huevo libre de jaula.

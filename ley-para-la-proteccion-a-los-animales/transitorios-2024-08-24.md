@@ -1,0 +1,6 @@
+P.O. 24 DE AGOSTO DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 472.- POR EL QUE SE ADICIONA EL APARTADO I. DENOMINADO "PARA ABASTO", AL "CAPÍTULO VIII" "DE LOS ANIMALES SEGÚN SU FIN ESPECÍFICO", ASÍ COMO LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER, 61 QUINQUIES Y 61 SEXIES A LA LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA".]
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Para el cumplimiento de las disposiciones correspondientes a la producción de Huevo Libre de Jaula, la Subsecretaría de Desarrollo Rural tendrá 180 días naturales para emitir la Norma Estatal correspondiente.
+TERCERO.- Para el cumplimiento de las disposiciones relativas a la protección y bienestar de los animales de abasto, la Subsecretaría de Desarrollo Rural tendrá 180 días naturales para emitir el Reglamento correspondiente.
+CUARTO.- Los productores y personas responsables de la implementación de las disposiciones en materia de bienestar animal tendrán setecientos treinta días naturales para adecuar sus sistemas de producción a las disposiciones del presente decreto, a partir de la expedición del Reglamento correspondiente.
