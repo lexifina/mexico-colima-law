@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 3 DE JULIO DE 2019)
-Artículo 36 Bis. Los tipos de violencia contra los Adultos Mayores, son:
+Artículo 36 Bis.- Los tipos de violencia contra los Adultos Mayores, son:
 I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
 III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
