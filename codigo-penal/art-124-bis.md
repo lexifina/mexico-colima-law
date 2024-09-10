@@ -11,7 +11,10 @@ V. Exista o haya existido entre el activo y la víctima una relación de parente
 VI. Exista o haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otro (sic) que implique confianza, subordinación o superioridad;
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
 VIII. El cuerpo de la víctima sea expuesto, depositado, arrojado o exhibido en un lugar público; o
-IX. Cuando la víctima se haya encontrado en un estado de indefensión, entiéndase éste como la situación de desprotección real o incapacidad que imposibilite su defensa. Ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio.
+(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)
+IX. Cuando la víctima se haya encontrado en un estado de indefensión, entiéndase éste como la situación de desprotección real o incapacidad que imposibilite su defensa. Ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio; y
+(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)
+X. A quien utilice cualquier tipo de gas, compuestos químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque la muerte.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2019)
 A quien cometa feminicidio se le impondrán de cuarenta a sesenta años de prisión, multa por el importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.
 (ADICIONADO, P.O. 10 DE JUNIO DE 2023)
