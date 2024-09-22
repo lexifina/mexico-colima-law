@@ -1,0 +1,6 @@
+P.O. 21 DE SEPTIEMBRE DE 2024.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 492.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 135 BIS Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 135 QUÁTER DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+TERCERO.- En lo que respecta a las reformas al Código Civil para el Estado de Colima contenidas en el presente decreto, el Poder Ejecutivo del Estado y los Ayuntamientos, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos respectivos, a fin de garantizar el derecho de acceso a las nuevas actas para el reconocimiento de identidad de género.
+CUARTO.- La Dirección General del Registro Civil del Estado de Colima se coordinará con las Oficialías del Registro Civil de los Municipios, para que en un término no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, elaboren el formato único de solicitud y demás documentación necesaria para el ejercicio del derecho que se tutela en este instrumento.
