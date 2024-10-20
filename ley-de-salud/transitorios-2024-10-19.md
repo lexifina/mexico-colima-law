@@ -1,0 +1,3 @@
+P.O. 19 DE OCTUBRE DE 2024.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 501.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 31, LA FRACCIÓN X DEL ARTÍCULO 32, ASÍ COMO ADICIONAR EL ARTÍCULO 58 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE COLIMA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
