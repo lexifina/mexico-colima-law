@@ -1,0 +1,3 @@
+P.O. 1 DE NOVIEMBRE DE 2025.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 181.- POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES II Y IV DEL ARTÍCULO 126 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
