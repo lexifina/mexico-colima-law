@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+Artículo 45 Bis 2.- El procedimiento para llevar a cabo la determinación de las comunidades locales con potencial turístico contenida en la fracción VIII Bis 2 del artículo 15 Bis de la presente Ley, se regulará en el Reglamento de la misma.
+La Subsecretaría se coordinará con los representantes de estas comunidades para elaborar y ejecutar planes de manejo y conservación de sus recursos naturales y socioculturales, en plena congruencia con los planes y programas emitidos por otras instancias, en términos de las normas ambientales de orden territorial, forestal, social y las demás que resulten aplicables.

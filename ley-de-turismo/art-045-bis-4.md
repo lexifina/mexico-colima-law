@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+Artículo 45 Bis 4.- La Subsecretaría, en conjunto con las dependencias y entidades de la administración pública estatal y los prestadores de servicios turísticos, promoverá la participación de los habitantes de las zonas donde se practique el turismo comunitario, con el fin de involucrarlos en el desarrollo, planificación, manejo y aprovechamiento sostenible de los recursos naturales de su entorno.

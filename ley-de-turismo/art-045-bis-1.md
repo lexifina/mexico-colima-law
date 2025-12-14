@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+Artículo 45 Bis 1.- Para efectos de esta Ley, se entenderá por Prestadores de Servicios Turísticos Comunitarios a las personas que ofrezcan productos o servicios a los turistas, organizados de forma individual o colectiva, caracterizados por su contribución a la preservación de la identidad, autenticidad local, el patrimonio natural y biocultural, así como al desarrollo sostenible de los territorios en los que operan.

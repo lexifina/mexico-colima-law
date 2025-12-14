@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+Artículo 45 Bis 3.- La Subsecretaría, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal, impulsará acciones para el fomento del turismo comunitario con los sectores social, académico, ambiental y privado para la promoción y comercialización de los productos, así como la conservación de los recursos bioculturales, de las comunidades con potencial turístico.
