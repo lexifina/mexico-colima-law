@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2025)
+ARTÍCULO 89 QUARTER.- La cancelación de las anotaciones preventivas, embargos o cualquier otro registro ordenado por una autoridad sólo podrá hacerse por mandamiento de la misma autoridad que ordenó o quien la substituya en el conocimiento del caso o por diversa autoridad, en tal caso deberá motivar y fundamentar la causa generadora de la cancelación salvo los casos contemplados en la presente Ley, su reglamento y otras disposiciones legales.
+No obstante, podrá hacerse la cancelación a solicitud de la parte acreedora o la deudora, si ésta acredita fehacientemente haber cubierto el adeudo.
+En los casos que los procedimientos o juicios estén concluidos, el propietario podrá solicitar la cancelación si acredita fehacientemente la conclusión favorable del mismo.
+Los documentos originales donde se haga constar los actos o hechos jurídicos o las copias certificadas de los mismos, serán los idóneos para acreditar fehacientemente las situaciones observadas en los párrafos anteriores.

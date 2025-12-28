@@ -1,0 +1,5 @@
+P.O. 27 DE DICIEMBRE DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 223.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUTO PARA EL REGISTRO DEL TERRITORIO DEL ESTADO DE COLIMA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO. La operación de las unidades administrativas o de apoyo que requieran presupuesto adicional al autorizado en el ejercicio vigente, para el funcionamiento del OIC, se sujetarán a la disponibilidad presupuestaria del Instituto; sin menoscabo de que se realicen las gestiones conducentes para allegarse del presupuesto necesario en los ejercicios presupuestales posteriores.
+TERCERO. Dentro de los noventa días naturales posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Gobierno del Estado deberá realizar las modificaciones necesarias al Reglamento de la Ley del Instituto para el Registro del Territorio del Estado de Colima, para armonizar su contenido con la presente reforma.
