@@ -1,0 +1,5 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)
+ARTÍCULO 59 TER. Conductas violatorias
+1. Las conductas del personal que integran las Instituciones de Seguridad Pública, vinculadas a la violencia de género, el acoso y el hostigamiento sexual, en cualquiera de sus modalidades, deberán ser investigadas y sancionadas con perspectiva de género, garantizando el principio de debida diligencia, confidencialidad, no revictimización y el derecho de las víctimas a una reparación adecuada, con independencia de la responsabilidad administrativa o penal que se configure.
+2. Las Instituciones de seguridad deberán contar con lineamientos, procedimientos y protocolos específicos para atender estas faltas, así como medidas de protección y acompañamiento para las personas afectadas.
+3. Con independencia de la investigación o procedimiento administrativo, cuando las conductas constituyan la probable comisión de un delito, las autoridades que investiguen o substancien el procedimiento darán vista al Ministerio Público sin dilación y aplicando en todo momento la perspectiva de género.

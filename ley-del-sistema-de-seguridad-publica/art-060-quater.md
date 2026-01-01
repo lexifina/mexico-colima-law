@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)
+ARTÍCULO 60 QUATER. Autoridades encargadas del procedimiento administrativo
+1. La autoridad encargada de sustanciar el procedimiento administrativo será distinta de aquella que investigue y de la que resuelva. Será responsable de dictar el acuerdo de inicio, así como de realizar el emplazamiento correspondiente, de la recepción, admisión o desechamiento, preparación y desahogo de pruebas, y de la conducción de la audiencia única y el cierre de instrucción. La autoridad sustanciadora del procedimiento disciplinario sancionador será distinta de aquella que tramite la separación del cargo por incumplimiento de requisitos de permanencia, la que estará a cargo de las instancias responsables del servicio profesional de carrera.

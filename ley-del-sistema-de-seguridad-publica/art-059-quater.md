@@ -1,0 +1,10 @@
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)
+ARTÍCULO 59 QUATER. Procedimiento sancionador
+1. El procedimiento sancionador deberá constar de las siguientes etapas:
+I. Inicio formal del procedimiento;
+II. Notificación personal y emplazamiento;
+III. Admisión y desahogo de pruebas;
+IV. Audiencia única, y
+V. Cierre de instrucción y resolución.
+2. Las autoridades disciplinarias deberán resolver los procedimientos disciplinarios en un plazo no mayor a seis meses, contado a partir de la fecha de inicio formal del procedimiento. La inobservancia injustificada de este plazo será causa de responsabilidad administrativa.
+3. Los instrumentos normativos que regulen el régimen disciplinario deberán establecer los medios de impugnación que procedan contra las resoluciones dictadas.
