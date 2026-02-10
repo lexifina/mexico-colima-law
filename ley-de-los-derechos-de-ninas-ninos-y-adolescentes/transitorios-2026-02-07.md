@@ -1,0 +1,3 @@
+P.O. 7 DE FEBRERO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 243.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+ÚNICO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial "El Estado de Colima".
