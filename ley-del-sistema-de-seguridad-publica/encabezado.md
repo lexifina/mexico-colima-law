@@ -1,5 +1,4 @@
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2026.]
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de noviembre de 2020.
 JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes hace sabed:
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente

@@ -1,0 +1,6 @@
+P.O. 16 DE ABRIL DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 269.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA; Y SE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA".]
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO. Dentro del plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo Estatal llevará a cabo la armonización de los reglamentos interiores de las dependencias y entidades de la Administración Pública, que con motivo de las presentes reformas deban ser actualizados.
+TERCERO. Todas las referencias que hagan mención a la Secretaría de Seguridad Pública del Estado de Colima, en las leyes y demás disposiciones vigentes, se entenderán realizadas a la Secretaría de Seguridad y Protección Ciudadana del Estado de Colima.
+CUARTO. Se instruye a las autoridades competentes para que, en el ámbito de sus atribuciones, realicen las adecuaciones presupuestarias y administrativas necesarias, a efecto de transferir los recursos humanos, materiales y financieros a la Secretaría de Seguridad y Protección Ciudadana, garantizando el cumplimiento del presente Decreto.
