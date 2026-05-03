@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE MAYO DE 2026)
+ARTÍCULO 33 Ter.- Para el adecuado cumplimiento de las atribuciones de la persona titular del Órgano Interno de Control y de las áreas que lo integran, la persona titular de la Rectoría Universitaria y demás unidades administrativas de la Universidad le proporcionarán la información que le sea solicitada, de conformidad con las disposiciones administrativas y demás ordenamientos aplicables.

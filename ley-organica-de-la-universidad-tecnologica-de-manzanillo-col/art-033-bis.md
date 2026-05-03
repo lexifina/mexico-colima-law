@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 2 DE MAYO DE 2026)
+ARTÍCULO 33 Bis.- Para la vigilancia, control y evaluación de las funciones de la Universidad, la persona titular del Órgano Interno de Control, fungirá con el carácter de Comisaria o Comisario, y participará en las sesiones del Consejo Directivo de conformidad con el segundo párrafo del artículo 12 del presente ordenamiento. Las personas servidoras públicas que integren el Órgano Interno de Control de la Universidad, incluido la titular, serán nombradas y en su caso removidas por la Contraloría General del Estado de Colima.
