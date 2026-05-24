@@ -1,13 +1,14 @@
-[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, LA PRESENTE LEY ENTRA EN VIGOR EL 01 DE ENERO DE 2017, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA".]
-LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA
-Ley publicada en el Suplemento No. 1 al Número 73 del Periódico Oficial del Estado de Colima.
-DECRETO No. 160
-POR EL QUE SE APRUEBA LA LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA.
-LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
-Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente:
-D E C R E T O
-EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y;
-A N T E C E D E N T E S
+LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
+Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+DECRETO 1017
+La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
+Decreta
+EXPOSICIÓN DE MOTIVOS
 […]
-Por lo anteriormente expuesto, se expide el siguiente:
-DECRETO No. 160
+ÚNICO. Se expide la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de San Luis Potosí, para quedar como sigue
+LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
+TÍTULO PRIMERO
+DISPOSICIONES GENERALES
+Capítulo I
+Objeto de la Ley
