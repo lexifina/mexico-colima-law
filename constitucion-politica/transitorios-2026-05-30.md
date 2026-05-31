@@ -1,0 +1,4 @@
+P.O. 30 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 317.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE BIENESTAR".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO. El Congreso del Estado de Colima deberá llevar a cabo las reformas a la legislación secundaria que se deriven del presente Decreto para garantizar lo previsto en este, en el plazo de 180 días hábiles a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
