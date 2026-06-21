@@ -1,2 +1,4 @@
-(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)
+(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE JUNIO DE 2026)
 Artículo 67 Bis.- Será obligación de las dependencias y entidades de la administración pública estatal centralizada y paraestatal, así como las dependencias y entidades de las administraciones públicas municipales centralizadas y paramunicipales, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar en esas dependencias.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2026)
+Todas las instituciones de orden público y privado del Estado, garantizarán que en sus instalaciones existan las condiciones necesarias, para que se les dé a las personas adultas mayores un trato digno, especial y prioritario al momento de realizar un trámite personal, otorgándoles sillas de espera y una fila preferencial."
