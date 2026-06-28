@@ -1,0 +1,6 @@
+P.O. 27 DE JUNIO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 332.- POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA".]
+Primero. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+Segundo. Las reformas a los artículos 20, primer párrafo, 21, fracción VII; 24, segundo párrafo, 25, fracción X; 160, párrafo quinto derogado de la fracción IV; así como la derogación del Libro Octavo, con su título único, capítulos y artículos del 358 al 366; del Código Electoral del Estado de Colima, en materia de prohibición de elección consecutiva para los cargos de diputaciones, presidencias municipales y demás integrantes de los ayuntamientos, serán aplicables a partir del proceso electoral a celebrarse en el año 2030.
+Tercero. Las reformas a los artículos 18, fracción X; 21, fracción VIII; y 25, fracción XI del Código Electoral del Estado de Colima, en materia de prohibición al nepotismo electoral en las candidaturas a la gubernatura, diputaciones y munícipes, serán aplicables a partir del proceso electoral a celebrarse en el año 2030.
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
