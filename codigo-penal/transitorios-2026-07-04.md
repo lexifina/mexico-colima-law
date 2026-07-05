@@ -1,0 +1,3 @@
+P.O. 4 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 335.- POR EL QUE SE ADICIONA EL CAPÍTULO II TER, Y EL ARTÍCULO 133 QUINQUIES AL TÍTULO PRIMERO, SECCIÓN PRIMERA, LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
