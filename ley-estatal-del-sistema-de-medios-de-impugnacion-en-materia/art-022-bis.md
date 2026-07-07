@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 6 DE JULIO DE 2026)
+Artículo 22 BIS.- Si el Tribunal Electoral recibe un escrito por el que se promueva un medio de impugnación, de inmediato remitirá copia certificada de la demanda y sus anexos a la autoridad u órgano partidista señalado como responsable, requiriéndosele para que dentro del plazo de 24 horas realice el trámite indicado por el artículo 23 y remita la documentación a la que se refieren las fracciones II y V del artículo 24 de la presente LEY.

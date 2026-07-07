@@ -1,0 +1,3 @@
+P.O. 6 DE JULIO DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 342.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL".]
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
