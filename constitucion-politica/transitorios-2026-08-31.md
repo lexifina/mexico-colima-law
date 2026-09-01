@@ -1,0 +1,6 @@
+P.O. 31 DE AGOSTO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 357.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE COLIMA, EN MATERIA DE REFORMA AL PODER JUDICIAL".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO. El Congreso del Estado realizará las adecuaciones necesarias a las leyes locales de la materia conforme a las disposiciones transitorias del Decreto publicado en el Diario Oficial de la Federación el 02 de junio del 2026, por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma al Poder Judicial Federal.
+TERCERO. Se autoriza al Poder Ejecutivo del Gobierno del Estado para que realice las adecuaciones presupuestales que resulten necesarias al techo presupuestario autorizado en el Presupuesto de Egresos del Estado de Colima para el presente ejercicio fiscal y posteriores, a los entes públicos involucrados, a efecto de dar viabilidad a la implementación del presente decreto.
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
