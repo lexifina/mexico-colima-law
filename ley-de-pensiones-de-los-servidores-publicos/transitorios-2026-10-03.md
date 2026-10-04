@@ -1,0 +1,9 @@
+P.O. 3 DE OCTUBRE DE 2026.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 366.- POR EL QUE SE ADICIONA EL ARTÍCULO CUADRAGÉSIMO CUARTO TRANSITORIO A LA LEY
+DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA, PARA ESTABLECER UN PROGRAMA DE CRÉDITO HIPOTECARIO PARA LA ADQUISICIÓN DE VIVIENDA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+SEGUNDO. El Instituto de Pensiones de los Servidores Públicos del Estado de Colima deberá, dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, elaborar y poner a disposición de las personas afiliadas los formatos, mecanismos y demás instrumentos administrativos necesarios para la presentación, recepción y trámite de las solicitudes de acceso al Programa previsto en el artículo Cuadragésimo Cuarto Transitorio de la Ley de Pensiones de los Servidores Públicos del Estado de Colima.
+TERCERO. Para el otorgamiento de los créditos hipotecarios comprendidos en el presente Programa, por única ocasión y durante su vigencia, se exceptuará la aplicación de las disposiciones contenidas en los artículos 57, 129 y 138 de esta Ley, exclusivamente en lo relativo a la existencia, cuantía y porcentaje máximo de los excedentes que podrán destinarse al otorgamiento de créditos hipotecarios, permaneciendo aplicables las demás disposiciones previstas en dichos artículos.
+Los recursos necesarios para la ejecución del Programa se cubrirán exclusivamente con cargo a la Cuenta Institucional del Gobierno del Estado, conforme a su disponibilidad financiera y sin afectar ni comprometer la suficiencia de los recursos
+destinados al pago oportuno de las pensiones, gastos funerarios, seguros de vida, gratificaciones anuales y demás prestaciones a cargo de dicha Cuenta.
+En ningún caso podrán afectarse recursos de otras Cuentas Institucionales ni realizarse transferencias entre ellas para financiar el Programa.
