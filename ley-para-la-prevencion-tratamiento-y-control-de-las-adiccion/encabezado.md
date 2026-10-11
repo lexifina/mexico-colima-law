@@ -1,11 +1,7 @@
-LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
-Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
-DECRETO No. 330
-POR EL QUE SE APRUEBA LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA.
-LIC. JESÚS SILVERIO CAVAZOS CEBALLOS, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
-Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
-D E C R E T O
-HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
-...
-Por lo antes expuesto se tiene a bien expedir el siguiente:
-D E C R E T O No. 330
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
+Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
+Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+DECRETO 0181
+La Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí
+EXPOSICIÓN DE MOTIVOS…

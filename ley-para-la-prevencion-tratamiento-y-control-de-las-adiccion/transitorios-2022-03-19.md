@@ -1,3 +1,0 @@
-P.O. 19 DE MARZO DE 2022.
-[N. DE E. TRANSITORIO DEL " DECRETO NÚM. 66.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADCCIONES EN EL ESTADO DE COLIMA".]
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".

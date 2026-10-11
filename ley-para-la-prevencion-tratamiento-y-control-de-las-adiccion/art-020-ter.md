@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)
-ARTICULO 20 TER.- Una vez que se tenga el consentimiento por escrito de quienes ejerzan la patria potestad y/o tutores de los alumnos, cuando así lo considere necesario el Director del plantel, solicitará de manera formal a la Secretaría de Salud se lleve a cabo la aplicación del cuestionario de tamizaje POSIT a los alumnos de educación básica y media superior, de 12 a 18 años, salvaguardando en todo momento los derechos de las niñas, niños y adolescentes.
