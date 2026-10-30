@@ -1,0 +1,11 @@
+{
+  "path": "mx-col",
+  "code": "MX-COL",
+  "name": "Colima",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-colima-law",
+  "build": "built: constitution, codes and laws (102 ordenamientos, 864 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}

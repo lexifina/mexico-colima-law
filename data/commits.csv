@@ -1,0 +1,660 @@
+day,kind,law,acts,files,branch
+1917-10-23,start,constitucion-1917-10-20-10,constitucion-politica,153,main
+1924-10-07,law,reforma-1924-10-04-38,constitucion-politica,11,main
+1928-10-23,law,decreto-1928-10-20-42,constitucion-politica,2,main
+1928-11-10,law,decreto-1928-11-10-45,constitucion-politica,155,main
+1932-06-21,law,decreto-1932-06-18-25,constitucion-politica,157,main
+1932-09-27,law,reforma-1932-09-24-39,constitucion-politica,61,main
+1935-07-09,law,reforma-1935-07-06-27,constitucion-politica,33,main
+1936-12-15,law,decreto-1936-12-12-50,constitucion-politica,25,main
+1939-06-01,law,decreto-1939-05-27-21,constitucion-politica,8,main
+1941-01-01,law,decreto-1940-12-07-49,constitucion-politica,7,main
+1941-01-01,law,decreto-1940-12-28-52,constitucion-politica,4,main
+1942-06-27,law,decreto-1942-06-27-26,constitucion-politica,5,main
+1942-12-29,law,decreto-1942-12-26-52,constitucion-politica,8,main
+1943-02-20,law,decreto-1943-02-20-8,constitucion-politica,4,main
+1948-06-05,law,decreto-1948-06-05-23,constitucion-politica,3,main
+1949-01-08,law,decreto-1949-01-08-2,constitucion-politica,2,main
+1949-11-08,law,decreto-1949-11-05-45,constitucion-politica,2,main
+1949-12-03,law,decreto-1949-12-03-49,constitucion-politica,2,main
+1950-01-07,law,decreto-1950-01-07-1,constitucion-politica,4,main
+1951-06-02,law,decreto-1951-06-02-22,constitucion-politica,2,main
+1951-11-10,law,decreto-1951-11-10-45,constitucion-politica,4,main
+1952-06-21,law,decreto-1952-06-21-25,constitucion-politica,4,main
+1953-01-10,law,decreto-1953-01-10-2,constitucion-politica,7,main
+1953-03-21,law,decreto-1953-03-21-12,constitucion-politica,6,main
+1953-10-24,law,decreto-1953-10-24-43,constitucion-politica,2,main
+1954-01-23,law,decreto-1954-01-23-4,constitucion-politica,3,main
+1954-01-30,law,decreto-1954-01-30-5,constitucion-politica,3,main
+1954-01-30,law,decreto-1954-01-30-5-2,constitucion-politica,9,main
+1954-04-10,law,decreto-1954-04-10-15,constitucion-politica,4,main
+1954-09-04,law,decreto-1954-09-04-36,constitucion-politica,4,main
+1954-09-28,start,codigo-1954-09-25-39-suplemento,codigo-civil,2959,main
+1954-09-28,start,codigo-1954-09-25-suplemento,codigo-de-procedimientos-civiles,3,main
+1955-03-19,law,decreto-1955-03-19-12,constitucion-politica,2,main
+1955-08-20,law,decreto-1955-08-20-34,constitucion-politica,3,main
+1958-11-15,law,decreto-1958-11-15-46,codigo-de-procedimientos-civiles,3,main
+1962-02-04,law,decreto-1962-02-03-5,constitucion-politica,3,main
+1962-05-12,law,decreto-1962-05-12-19,constitucion-politica,2,main
+1962-12-29,law,decreto-1962-12-29-52-suplemento,codigo-civil,8,main
+1962-12-29,law,decreto-1962-12-29-suplemento-al-52,codigo-de-procedimientos-civiles,2,main
+1964-02-15,start,ley-1964-01-04-1,ley-del-notariado,170,main
+1964-08-22,law,decreto-1964-08-22-34,constitucion-politica,7,main
+1965-02-13,law,decreto-1965-02-13-7,codigo-civil,2,main
+1965-08-01,law,decreto-1965-07-10-28,ley-del-notariado,3,main
+1965-08-24,law,decreto-1965-08-21-34,ley-del-notariado,2,main
+1966-01-25,law,decreto-1966-01-22-4,constitucion-politica,6,main
+1966-08-20,law,decreto-1966-08-20-34,ley-del-notariado,3,main
+1967-06-03,law,decreto-1967-06-03-22,constitucion-politica,2,main
+1970-06-02,law,decreto-1970-05-30-22,codigo-civil codigo-de-procedimientos-civiles,19,main
+1970-06-30,law,decreto-1970-06-27-26,constitucion-politica,2,main
+1973-09-20,law,decreto-1973-08-04-31,ley-del-notariado,4,main
+1974-09-07,law,decreto-1974-09-07-36,codigo-civil,18,main
+1975-06-17,law,decreto-1975-06-14-24,codigo-civil codigo-de-procedimientos-civiles,37,main
+1976-08-21,law,decreto-1976-08-21-34,constitucion-politica,3,main
+1977-05-28,law,decreto-1977-05-28-22,constitucion-politica,2,main
+1978-11-12,law,decreto-1978-11-11-45,constitucion-politica,9,main
+1980-02-03,law,decreto-1980-02-02-5,codigo-civil,6,main
+1980-08-10,start,ley-1980-08-09-32,ley-para-la-prestacion-del-servicio-de-agua-potable-y-drenaj,22,main
+1980-08-24,law,decreto-1980-08-23-34,codigo-civil,31,main
+1980-11-23,start,ley-1980-11-22-47,ley-organica-de-la-universidad-de-colima,41,main
+1981-11-01,law,decreto-1981-10-31-44,codigo-civil,2,main
+1982-07-04,law,decreto-1982-07-03-27,codigo-civil,3,main
+1982-07-04,law,decreto-1982-07-03-27-2,codigo-civil,4,main
+1983-12-25,law,decreto-1983-12-24-52,constitucion-politica,11,main
+1984-01-01,law,decreto-1983-12-31-53,ley-para-la-prestacion-del-servicio-de-agua-potable-y-drenaj,4,main
+1984-02-05,law,decreto-1984-02-04-5,codigo-civil,6,main
+1985-06-09,start,ley-1985-06-08-23,ley-organica-de-la-tesoreria-general-del-estado,32,main
+1985-07-14,law,decreto-1985-07-13-28,constitucion-politica,2,main
+1985-08-11,law,decreto-1985-08-10-32,codigo-de-procedimientos-civiles,2,main
+1985-11-17,law,decreto-1985-11-16-46,constitucion-politica,12,main
+1986-08-03,law,decreto-1986-08-02-31,constitucion-politica,7,main
+1987-09-08,law,decreto-1987-09-05-36,constitucion-politica,2,main
+1987-12-27,law,decreto-1987-12-26-52,constitucion-politica,5,main
+1988-06-26,law,decreto-1988-06-25-26,constitucion-politica,14,main
+1989-01-15,law,decreto-1989-01-14-2,codigo-civil,5,main
+1989-09-24,law,decreto-1989-09-23-38,constitucion-politica,3,main
+1989-09-24,law,decreto-1989-09-23-supl-al-38,constitucion-politica,31,main
+1991-01-08,law,decreto-1991-01-05-1,constitucion-politica,3,main
+1991-09-30,law,decreto-1991-01-05-1-2,constitucion-politica,3,main
+1991-09-30,law,decreto-1991-01-05-1-3,constitucion-politica,3,main
+1991-09-30,law,decreto-1991-01-05-1-4,constitucion-politica,2,main
+1991-09-30,law,decreto-1991-01-26-4,constitucion-politica,3,main
+1992-01-05,start,ley-1992-01-04-1,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,183,main
+1992-03-01,law,decreto-1992-02-29-9,constitucion-politica,3,main
+1992-06-21,start,decreto-1992-06-20-25,ley-que-crea-el-organismo-publico-descentralizado-denominado,14,main
+1992-06-27,law,fe-de-erratas-1992-06-27-26,ley-que-crea-el-organismo-publico-descentralizado-denominado,2,main
+1992-08-02,law,decreto-1992-08-01-31,constitucion-politica,2,main
+1992-12-06,law,decreto-1992-12-05-49,constitucion-politica,9,main
+1993-01-17,start,ley-1993-01-16-3,ley-que-crea-el-archivo-historico-del-municipio-de-colima,22,main
+1994-03-27,law,decreto-1994-03-26-13,constitucion-politica,79,main
+1994-07-09,law,decreto-1994-07-09-28,codigo-civil codigo-de-procedimientos-civiles,38,main
+1994-07-10,law,decreto-1994-07-09-28,ley-del-notariado,49,main
+1995-05-14,start,ley-1995-05-13-19,ley-para-prevenir-y-sancionar-tortura,15,main
+1996-07-01,law,decreto-1996-06-01-22,codigo-civil,2,main
+1996-09-15,law,decreto-1996-09-14-37,constitucion-politica,13,main
+1996-10-27,law,decreto-1996-10-26-43,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,3,main
+1997-02-16,law,decreto-1997-02-15-7,constitucion-politica,9,main
+1997-03-23,law,decreto-1997-03-22-12,codigo-civil codigo-de-procedimientos-civiles,6,main
+1998-02-15,start,ley-1998-02-14-7,ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,55,main
+1998-05-24,law,decreto-1998-05-23-22,ley-que-crea-el-organismo-publico-descentralizado-denominado,7,main
+1999-07-27,law,decreto-1999-07-26-32-edicion-especial,constitucion-politica,13,main
+1999-07-27,law,decreto-1999-07-26-32-edicion-especial-2,constitucion-politica,2,main
+1999-09-19,law,decreto-1999-09-18-40,codigo-civil codigo-de-procedimientos-civiles,32,main
+1999-09-26,law,decreto-1999-09-25-41,constitucion-politica,2,main
+1999-12-12,law,decreto-1999-12-11-52,constitucion-politica,8,main
+1999-12-12,law,decreto-1999-12-11-52-2,constitucion-politica,3,main
+2000-03-26,law,decreto-2000-03-25-14,codigo-civil codigo-de-procedimientos-civiles,25,main
+2000-04-23,law,decreto-2000-04-22-18,codigo-civil,4,main
+2000-05-07,law,decreto-2000-05-06-20,constitucion-politica,2,main
+2000-07-23,law,decreto-2000-07-22-31,constitucion-politica,12,main
+2000-10-01,law,decreto-2000-09-30-41,constitucion-politica,20,main
+2001-04-30,start,ley-2001-03-31-14-suplemento-1,ley-del-municipio-libre,138,main
+2001-06-17,start,ley-2001-06-16-25-suplemento-no-1,ley-de-instituciones-de-asistencia-privada,60,main
+2001-06-17,law,decreto-2001-06-16-25-suplemento-1,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2001-10-21,law,decreto-2001-10-20-43-suplemento-no-1,ley-que-crea-el-organismo-publico-descentralizado-denominado,2,main
+2002-04-21,start,ley-2002-04-20-17-suplemento-no-1,ley-para-regular-la-participacion-del-congreso-en-asuntos-mu,61,main
+2002-07-24,law,decreto-2002-07-23-32-edicion-especial,constitucion-politica,221,main
+2002-07-24,law,decreto-2002-07-23-32-edicion-especial-2,constitucion-politica,223,main
+2002-07-24,law,decreto-2002-07-23-32-edicion-especial-3,constitucion-politica,7,main
+2002-11-22,start,ley-2002-10-23-47-suplemento-no-3,ley-para-resolver-los-conflictos-de-limites-intermunicipales,40,main
+2002-12-16,start,ley-2002-11-16-52-suplemento-no-2,ley-estatal-de-obras-publicas,98,main
+2003-01-12,start,ley-2003-01-11-02-suplemento-no-1,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,44,main
+2003-01-26,start,codigo-2003-01-11-2-suplemento-no-3,codigo-fiscal-municipal,136,main
+2003-03-30,law,decreto-2003-03-29-15-suplemento-4,codigo-civil,14,main
+2003-06-01,law,decreto-2003-05-31-24,ley-de-instituciones-de-asistencia-privada,120,main
+2003-06-15,start,ley-2003-06-14-26-suplemento-1,ley-del-instituto-colimense-de-las-mujeres,18,main
+2003-08-24,start,ley-2003-08-23-36-suplemento-3,ley-para-fomentar-la-donacion-altruista-en-materia-alimentar,28,main
+2003-08-24,law,decreto-2003-08-23-36-suplemento-3,ley-de-instituciones-de-asistencia-privada,5,main
+2003-09-28,start,ley-2003-09-27-42-suplemento-no-1,ley-de-justicia-alternativa,76,main
+2003-10-05,start,codigo-2003-10-04-43-suplemento-no-3,codigo-fiscal,201,main
+2003-11-16,law,decreto-2003-11-15-53-suplemento-2,ley-del-municipio-libre,3,main
+2004-01-10,law,decreto-2004-01-09-02-edicion-especial,constitucion-politica,2,main
+2004-01-14,law,decreto-2004-01-13-04-edicion-especial,ley-del-municipio-libre,2,main
+2004-04-11,start,ley-2004-04-10-19-suplemento-no-1,ley-inquilinaria-para-casos-de-desastres-en-el-estado-de-col,19,main
+2004-04-11,law,decreto-2004-04-10-19-suplemento-no-1,constitucion-politica,2,main
+2004-04-11,law,decreto-2004-04-10-19-suplemento-1,constitucion-politica,2,main
+2004-05-09,law,decreto-2004-05-08-23,codigo-de-procedimientos-civiles ley-del-municipio-libre,4,main
+2004-06-20,law,decreto-2004-06-19-31-suplemento-no-3,constitucion-politica,5,main
+2004-07-25,law,decreto-2004-07-24-36-suplemento-no-3,ley-del-municipio-libre,7,main
+2004-09-12,start,ley-2004-09-11-43-suplemento-no-4,ley-para-la-proteccion-de-los-adultos-mayores,84,main
+2004-09-19,law,decreto-2004-09-18-44,constitucion-politica,2,main
+2004-10-17,law,decreto-2004-10-16-48-suplemento-no-1,codigo-fiscal-municipal,5,main
+2005-05-01,law,decreto-2005-04-30-36-suplemento-no-6,codigo-civil ley-estatal-de-obras-publicas ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,16,main
+2005-08-29,law,decreto-2005-08-29-56-edicion-especial,constitucion-politica,6,main
+2005-08-31,start,ley-2005-08-31-57-edicion-especial,ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,78,main
+2005-11-27,law,decreto-2005-11-26-73-suplemento-no-2,codigo-civil ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,12,main
+2006-02-18,law,decreto-2006-02-18-07-suplemento-no-5,codigo-fiscal-municipal,3,main
+2006-02-19,start,ley-2006-02-18-7-suplemento-4,ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,79,main
+2006-02-19,law,decreto-2006-02-18-07-suplemento-no-2,constitucion-politica,3,main
+2006-04-05,law,decreto-2006-04-04-15-suplemento-no-1,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,8,main
+2006-04-05,law,decreto-2006-04-04-15-suplemento-no-2,codigo-de-procedimientos-civiles,2,main
+2006-04-09,start,ley-2006-04-08-16-suplemento-no-5,ley-de-residuos-solidos,82,main
+2006-05-16,law,decreto-2006-05-15-22-suplemento-no-1,constitucion-politica,4,main
+2006-09-03,start,ley-2006-09-02-42-suplemento-no-3,ley-estatal-para-el-fomento-a-la-lectura-y-al-libro,34,main
+2006-09-03,start,ley-2006-09-02-42-suplemento-no-4,ley-para-el-desarrollo-forestal-sustentable,95,main
+2006-09-24,start,ley-2006-09-23-45-suplemento-no-8,ley-de-turismo,61,main
+2006-09-24,start,ley-2006-09-23-45-suplemento-no-4,ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-e,48,main
+2006-09-24,law,decreto-2006-09-23-45-suplemento-no-11,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2006-10-08,start,ley-2006-10-07-48-suplemento-no-3,ley-de-profesiones,114,main
+2006-10-08,law,decreto-2006-10-07-48,constitucion-politica,2,main
+2007-03-18,law,decreto-2007-03-17-13-suplemento-no-1,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2007-05-12,law,decreto-2007-05-12-22-suplemento-no-1,ley-del-municipio-libre ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-e ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion ley-para-regular-la-participacion-del-congreso-en-asuntos-mu ley-para-resolver-los-conflictos-de-limites-intermunicipales ley-que-crea-el-organismo-publico-descentralizado-denominado,22,main
+2007-05-27,law,decreto-2007-05-26-24-suplemento-no-4,codigo-civil codigo-de-procedimientos-civiles,11,main
+2007-07-22,start,ley-2007-07-21-32,ley-de-las-personas-ilustres,22,main
+2007-09-09,law,decreto-2007-09-08-39-suplemento-no-2,constitucion-politica ley-del-municipio-libre,19,main
+2007-09-11,law,decreto-2007-09-08-39-suplemento-no-2,codigo-civil,3,main
+2007-10-07,law,decreto-2007-10-06-45-suplemento-no-1,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2007-11-11,law,decreto-2007-11-10-50-suplemento-no-2,constitucion-politica,3,main
+2007-11-25,law,decreto-2007-11-24-52-suplemento-no-2,codigo-civil codigo-de-procedimientos-civiles ley-del-notariado,7,main
+2008-01-27,law,decreto-2008-01-26-05-suplemento-no-1,codigo-civil,3,main
+2008-04-20,law,decreto-2008-04-19-17-suplemento-no-3,codigo-civil codigo-de-procedimientos-civiles,6,main
+2008-05-04,law,decreto-2008-05-03-19-suplemento-no-1,ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,44,main
+2008-05-04,law,decreto-2008-05-03-19-suplemento-no-3,codigo-civil,2,main
+2008-05-24,start,ley-2008-05-24-22-suplemento-no-12,ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-medic,160,main
+2008-06-01,law,decreto-2008-05-31-23-suplemento-no-1,constitucion-politica,2,main
+2008-07-06,law,decreto-2008-07-05-28-suplemento-no-4,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,3,main
+2008-07-19,law,decreto-2008-07-19-30-suplemento-no-5,ley-de-la-comision-estatal-de-conciliacion-y-arbitraje-medic,11,main
+2008-07-20,law,decreto-2008-07-19-30-suplemento-no-6,codigo-civil codigo-de-procedimientos-civiles,17,main
+2008-08-31,law,decreto-2008-08-31-37-sup-1-ed-especial,ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,37,main
+2008-09-28,law,decreto-2008-09-27-42,codigo-de-procedimientos-civiles,2,main
+2008-10-01,law,decreto-2008-05-31-23-suplemento-no-1-2,constitucion-politica,3,main
+2008-10-01,law,decreto-2008-05-31-23-suplemento-no-1-3,constitucion-politica,5,main
+2008-10-01,law,decreto-2008-07-26-31-suplemento-no-1,constitucion-politica,2,main
+2008-10-01,law,decreto-2008-08-23-35,constitucion-politica,4,main
+2008-10-01,law,decreto-2008-09-27-42,constitucion-politica,2,main
+2008-10-04,law,decreto-2008-10-04-43-suplemento-no-1,ley-del-municipio-libre,2,main
+2008-11-02,start,ley-2008-11-01-47-suplemento-no-3,ley-de-pesca-y-acuacultura-sustentables,74,main
+2009-01-01,law,decreto-2008-12-20-54,codigo-fiscal-municipal,2,main
+2009-02-15,law,decreto-2009-02-14-07-suplemento-no-1,ley-del-municipio-libre,2,main
+2009-03-08,law,decreto-2009-03-07-10-suplemento-no-1,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2009-03-21,law,decreto-2009-03-21-12,constitucion-politica,2,main
+2009-04-07,law,decreto-2009-04-04-14,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,131,main
+2009-04-22,law,decreto-2009-02-21-08-suplemento-no-2,codigo-de-procedimientos-civiles,2,main
+2009-05-10,law,decreto-2009-05-09-19,codigo-civil ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,135,main
+2009-05-24,start,ley-2009-05-09-19-suplemento-4,ley-para-la-igualdad-entre-mujeres-y-hombres,47,main
+2009-06-20,law,decreto-2009-06-20-5-suplemento,constitucion-politica,2,main
+2009-06-21,law,decreto-2009-06-20-5-suplemento-2,constitucion-politica,15,main
+2009-06-28,law,decreto-2009-06-27-26-suplemento-1,codigo-civil,4,main
+2009-07-19,law,decreto-2009-07-18-30-suplemento-3,codigo-civil,72,main
+2009-07-19,law,decreto-2009-07-18-30-suplemento-4,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2009-08-02,law,decreto-2009-08-01-34-suplemento-3,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,4,main
+2009-08-16,start,ley-2009-08-15-36-suplemento-no-2,ley-del-instituto-colimense-de-la-infraestructura-fisica-edu,25,main
+2009-08-30,law,decreto-2009-08-29-40-suplemento-no-4,ley-del-instituto-colimense-de-la-infraestructura-fisica-edu,3,main
+2009-09-27,law,decreto-2009-09-26-45-suplemento-no-17,ley-de-turismo,25,main
+2009-09-29,law,decreto-2009-09-26-45-suplemento-no-16,codigo-de-procedimientos-civiles,2,main
+2009-10-04,law,decreto-2009-10-03-46-suplemento-no-2,ley-del-instituto-colimense-de-la-infraestructura-fisica-edu ley-del-notariado,27,main
+2010-05-02,law,decreto-2010-05-01-18,ley-del-municipio-libre,4,main
+2010-08-15,law,decreto-2010-08-14-33-suplemento-no-1,ley-del-municipio-libre,2,main
+2010-10-10,law,decreto-2010-10-09-41-suplemento-no-2,constitucion-politica ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-e,10,main
+2010-10-12,law,decreto-2010-10-09-41-suplemento-no-2,codigo-civil codigo-de-procedimientos-civiles,115,main
+2010-11-26,law,decreto-2010-11-25-48-suplemento-no-2,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2010-11-28,law,decreto-2010-11-25-48-suplemento-no-1,ley-del-notariado,29,main
+2011-01-01,law,decreto-2010-12-18-52-suplemento-no-3,codigo-fiscal-municipal,7,main
+2011-01-01,law,decreto-2010-12-25-53-suplemento-no-1,codigo-fiscal,13,main
+2011-01-25,law,decreto-2011-01-22-04-suplemento-no-2,codigo-civil,2,main
+2011-02-13,law,decreto-2011-02-12-7,ley-de-residuos-solidos,6,main
+2011-02-20,law,decreto-2011-02-19-9-suplemento-no-1,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2011-04-17,law,decreto-2011-04-16-18-suplemento-no-1,codigo-civil codigo-de-procedimientos-civiles,4,main
+2011-04-17,law,decreto-2011-04-16-18-suplemento-no-1-2,codigo-civil,5,main
+2011-04-17,law,decreto-2011-04-16-18-suplemento-no-1-3,codigo-civil,2,main
+2011-05-15,law,decreto-2011-05-14-23-suplemento-no-3,constitucion-politica,4,main
+2011-05-22,law,decreto-2011-05-21-24-suplemento-no-1,codigo-civil codigo-de-procedimientos-civiles codigo-fiscal codigo-fiscal-municipal,48,main
+2011-06-19,law,decreto-2011-06-18-28-suplemento-no-1,ley-del-municipio-libre,13,main
+2011-07-17,law,decreto-2011-07-16-32,constitucion-politica,6,main
+2011-08-14,start,ley-2011-08-13-37-suplemento-no-3,ley-de-valuacion,99,main
+2011-08-14,start,ley-2011-08-13-37-suplemento-no-2,ley-para-la-promocion-de-la-cultura-de-la-legalidad,22,main
+2011-08-14,law,decreto-2011-08-13-37-suplemento-no-1,constitucion-politica codigo-de-procedimientos-civiles ley-de-justicia-alternativa,14,main
+2011-08-21,start,ley-2011-08-20-38-suplemento-no-1,ley-que-crea-el-consejo-de-armonizacion-contable,22,main
+2011-08-21,law,decreto-2011-08-20-38-suplemento-no-1,constitucion-politica,3,main
+2011-08-31,start,codigo-2011-08-30-40-suplemento-no-1,codigo-electoral,329,main
+2011-08-31,law,decreto-2011-08-30-40-edicion-especial-extra,constitucion-politica,57,main
+2011-08-31,law,decreto-2011-08-30-40-suplemento-no-2,ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,60,main
+2011-09-01,start,ley-2011-08-31-41-suplemento-no-1,ley-para-la-proteccion-a-los-animales,100,main
+2011-10-30,start,ley-2011-10-29-52-suplemento-no-3,ley-de-proteccion-civil,162,main
+2011-10-30,start,ley-2011-10-29-52-suplemento-no-2,ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,42,main
+2011-10-30,law,decreto-2011-10-29-52-suplemento-no-1,codigo-civil,5,main
+2011-11-08,law,decreto-2011-11-07-54-suplemento-no-1,ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,7,main
+2011-11-20,law,decreto-2011-11-19-56-suplemento-no-1,codigo-de-procedimientos-civiles,3,main
+2011-12-11,law,decreto-2011-12-10-60-suplemento-no-3,codigo-civil codigo-de-procedimientos-civiles,49,main
+2012-01-29,law,decreto-2012-01-28-06-suplemento-no-3,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2012-02-05,law,decreto-2012-02-04-07-suplemento-no-2,ley-del-municipio-libre,3,main
+2012-02-19,law,decreto-2012-02-18-09-suplemento-no-4,ley-de-las-personas-ilustres,6,main
+2012-03-04,law,decreto-2012-03-03-12-suplemento-no-1,codigo-electoral,4,main
+2012-05-06,law,decreto-2012-05-05-25-suplemento-no-1,constitucion-politica codigo-civil,9,main
+2012-05-20,law,decreto-2012-05-19-27-suplemento-no-4,codigo-civil,11,main
+2012-05-27,law,decreto-2012-05-26-28-suplemento-no-5,ley-del-municipio-libre,4,main
+2012-06-03,law,decreto-2012-06-02-29,codigo-civil,6,main
+2012-06-17,law,decreto-2012-06-16-31,ley-de-justicia-alternativa,17,main
+2012-07-01,law,decreto-2012-06-30-33,ley-de-turismo,13,main
+2012-07-14,law,decreto-2012-07-14-35,constitucion-politica,2,main
+2012-07-15,start,ley-2012-07-14-35,ley-para-la-prevencion-social-de-la-violencia-y-la-delincuen,31,main
+2012-07-29,start,ley-2012-07-28-37-suplemento-no-1,ley-para-la-proteccion-integral-del-ejercicio-periodistico,33,main
+2012-08-12,law,decreto-2012-08-11-39,constitucion-politica,8,main
+2012-08-19,start,ley-2012-08-18-40-suplemento-no-3,ley-de-operaciones-inmobiliarias,26,main
+2012-08-19,start,ley-2012-08-18-40-suplemento-no-2,ley-de-vivienda,99,main
+2012-08-26,start,ley-2012-08-25-41-suplemento-no-2,ley-del-instituto-para-el-registro-del-territorio,192,main
+2012-08-26,law,ley-2012-08-25-41-suplemento-no-2,codigo-civil,73,main
+2012-09-02,start,ley-2012-09-01-43-suplemento-no-25,ley-del-sistema-de-asistencia-social,133,main
+2012-09-02,start,ley-2012-09-01-43-suplemento-no-24,ley-para-el-impulso-de-la-sociedad-de-la-informacion-y-el-co,39,main
+2012-09-02,law,decreto-2012-09-01-43-suplemento-no-26,ley-de-turismo ley-para-la-proteccion-de-los-adultos-mayores,8,main
+2012-09-09,law,decreto-2012-09-08-44-suplemento-no-4,codigo-de-procedimientos-civiles,2,main
+2012-09-16,law,decreto-2012-09-15-45-suplemento-no-5,codigo-de-procedimientos-civiles,2,main
+2012-09-23,law,decreto-2012-09-22-46-suplemento-no-3,ley-de-proteccion-civil,8,main
+2012-10-02,law,decreto-2012-09-29-47-suplemento-no-1,constitucion-politica,2,main
+2012-12-11,law,decreto-2012-12-08-59-suplemento-no-2,codigo-civil,4,main
+2012-12-18,law,decreto-2012-12-15-60-suplemento-no-3,ley-para-la-proteccion-de-los-adultos-mayores,2,main
+2013-01-06,law,decreto-2013-01-05-1,constitucion-politica,4,main
+2013-01-27,start,ley-2013-01-26-8-suplemento-no-2,ley-para-el-fomento-de-una-cultura-de-donacion-procuracion-y,91,main
+2013-02-03,law,decreto-2013-02-02-09-suplemento-no-3,codigo-civil,3,main
+2013-02-05,law,decreto-2013-02-02-09-suplemento-no-3,ley-para-prevenir-y-sancionar-tortura,3,main
+2013-03-14,law,decreto-2013-03-13-17-extraordinaria,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,4,main
+2013-06-27,law,decreto-2013-06-26-35-ed-esp-extraordinaria,constitucion-politica,5,main
+2013-06-27,law,decreto-2013-06-26-35-edicion-especial-extraordin,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2013-08-04,start,ley-2013-08-03-42-suplemento-no-1,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,122,main
+2013-08-04,start,ley-2013-08-03-42,ley-de-promocion-e-impulso-al-joven-emprendedor,21,main
+2013-08-04,start,ley-2013-08-03-42,ley-de-voluntad-anticipada,44,main
+2013-08-04,law,decreto-2013-08-03-42,constitucion-politica,2,main
+2013-08-11,law,decreto-2013-08-10-43-suplemento-no-3,codigo-civil codigo-de-procedimientos-civiles,123,main
+2013-09-08,start,ley-2013-09-07-47-suplemento-no-4,ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor,68,main
+2013-10-06,law,decreto-2013-10-05-52,constitucion-politica,4,main
+2013-10-13,law,decreto-2013-10-12-53-suplemento-no-1,ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,13,main
+2013-10-13,law,decreto-2013-10-12-53-suplemento-no-2,ley-de-pesca-y-acuacultura-sustentables,8,main
+2013-11-24,law,decreto-2013-11-23-61-suplemento-no-1,ley-para-el-fomento-de-una-cultura-de-donacion-procuracion-y,5,main
+2013-12-01,law,decreto-2013-11-30-62-suplemento-no-4,codigo-fiscal,37,main
+2013-12-15,law,decreto-2013-12-14-64-suplemento-no-1,ley-del-municipio-libre,3,main
+2014-02-02,law,decreto-2014-02-01-7-suplemento-no-1,ley-para-la-proteccion-de-los-adultos-mayores,4,main
+2014-02-23,law,decreto-2014-02-22-10,ley-para-la-igualdad-entre-mujeres-y-hombres,9,main
+2014-03-16,law,decreto-2014-03-15-14-suplemento-no-2,ley-para-la-proteccion-a-los-animales,6,main
+2014-03-18,law,decreto-2014-03-15-14,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2014-04-06,law,decreto-2014-04-05-18,codigo-civil codigo-de-procedimientos-civiles,34,main
+2014-04-12,law,fe-de-erratas-2014-04-12-19,codigo-civil codigo-de-procedimientos-civiles,2,main
+2014-05-04,law,decreto-2014-05-03-22,ley-de-turismo ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,250,main
+2014-05-11,law,decreto-2014-05-10-23-suplemento-no-1,ley-para-el-desarrollo-forestal-sustentable,6,main
+2014-06-01,start,ley-2014-05-31-26-suplemento-no-2,ley-de-seguridad-integral-escolar,124,main
+2014-06-01,law,decreto-2014-05-31-26-suplemento-no-2,constitucion-politica ley-de-justicia-alternativa ley-de-vivienda,19,main
+2014-06-15,law,decreto-2014-06-14-28-suplemento-no-1,codigo-electoral,265,main
+2014-06-15,law,decreto-2014-06-14-28-suplemento-no-2,codigo-civil ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,24,main
+2014-06-22,law,decreto-2014-06-21-29-suplemento-no-1,codigo-civil codigo-de-procedimientos-civiles ley-de-profesiones,13,main
+2014-06-29,law,decreto-2014-06-28-31-suplemento-no-2,codigo-electoral,6,main
+2014-06-29,law,fe-de-erratas-2014-06-28-31-suplemento-no-2,codigo-electoral,5,main
+2014-07-13,start,ley-2014-07-12-33-suplemento-no-1,ley-de-la-juventud,91,main
+2014-07-13,law,decreto-2014-07-12-33-suplemento-no-2,codigo-civil codigo-de-procedimientos-civiles ley-de-proteccion-civil,20,main
+2014-07-27,law,decreto-2014-07-26-35-suplemento-no-2,constitucion-politica,9,main
+2014-08-24,law,decreto-2014-08-23-40-suplemento-no-1,constitucion-politica codigo-civil codigo-de-procedimientos-civiles ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,15,main
+2014-10-11,law,fe-de-erratas-2014-10-11-47,codigo-electoral,2,main
+2014-10-28,start,ley-2014-10-25-49-suplemento-no-3,ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-e,68,main
+2014-10-28,law,ley-2014-10-25-49-suplemento-no-4,ley-para-prevenir-y-sancionar-tortura,2,main
+2014-11-16,law,decreto-2014-11-15-52-suplemento-no-2,codigo-civil codigo-de-procedimientos-civiles,16,main
+2014-11-16,law,decreto-2014-11-15-52-suplemento-no-2-2,codigo-de-procedimientos-civiles,2,main
+2014-11-21,law,decreto-2014-11-18-53-edicion-especial-extraordinaria,ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-e ley-para-prevenir-y-sancionar-tortura,4,main
+2014-11-23,law,decreto-2014-11-22-54-suplemento-no-1,ley-para-la-igualdad-entre-mujeres-y-hombres,29,main
+2014-12-01,law,decreto-2014-11-01-50-suplemento-no-2,ley-del-notariado,86,main
+2014-12-06,law,fe-de-erratas-2014-12-06-56,ley-para-la-igualdad-entre-mujeres-y-hombres,2,main
+2014-12-14,start,ley-2014-12-13-57-suplemento-no-3,ley-organica-de-la-universidad-tecnologica-de-manzanillo-col,42,main
+2014-12-31,start,codigo-2014-10-11-47-suplemento-no-3,codigo-penal,300,main
+2014-12-31,start,ley-2014-12-13-57-suplemento-no-7,ley-para-la-administracion-de-bienes-asegurados-decomisados,110,main
+2014-12-31,start,ley-2014-12-13-57-suplemento-4,ley-para-la-proteccion-de-victimas-en-el-estado-de-colima,164,main
+2014-12-31,law,decreto-2014-11-18-53-edicion-especial-extraordinaria,codigo-penal,3,main
+2015-01-01,start,ley-2014-09-06-42-suplemento-no-5,ley-para-el-fomento-de-energias-renovables-y-eficiencia-ener,27,main
+2015-01-11,law,decreto-2015-01-10-2,ley-del-municipio-libre,3,main
+2015-01-31,law,fe-de-erratas-2015-01-31-5,ley-del-municipio-libre,3,main
+2015-02-08,law,decreto-2015-02-07-6-suplemento-no-3,ley-de-profesiones,2,main
+2015-02-15,law,decreto-2015-02-14-7,codigo-penal,7,main
+2015-03-24,law,decreto-2015-03-23-16-edicion-especial-extraordinaria,codigo-penal ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-e,4,main
+2015-04-05,law,decreto-2015-04-04-18,constitucion-politica codigo-penal ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-e,7,main
+2015-04-19,start,ley-2015-04-18-21-suplemento-no-1,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,138,main
+2015-04-19,law,decreto-2015-04-18-21,codigo-de-procedimientos-civiles ley-para-la-proteccion-de-victimas-en-el-estado-de-colima,5,main
+2015-05-17,law,decreto-2015-05-16-26-suplemento-no-1,ley-del-municipio-libre,4,main
+2015-06-21,law,decreto-2015-06-20-32-suplemento-no-2,constitucion-politica,2,main
+2015-06-28,law,decreto-2015-06-27-33-suplemento-no-1,ley-estatal-de-obras-publicas,4,main
+2015-07-05,law,decreto-2015-07-04-35-suplemento-no-1,codigo-penal,6,main
+2015-07-12,law,decreto-2015-07-11-36-suplemento-no-2,ley-del-municipio-libre,11,main
+2015-07-12,law,decreto-2015-07-11-36-suplemento-no-4,ley-del-municipio-libre,6,main
+2015-07-14,law,decreto-2015-07-11-36-suplemento-no-2,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,239,main
+2015-08-02,law,decreto-2015-08-01-39,ley-del-municipio-libre,5,main
+2015-08-16,law,decreto-2015-08-15-41,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-proteccion-de-los-adultos-mayores,7,main
+2015-08-18,law,acuerdo-s-2015-08-15-41,codigo-de-procedimientos-civiles,2,main
+2015-09-06,law,decreto-2015-09-05-46-suplemento-2,codigo-civil codigo-de-procedimientos-civiles,5,main
+2015-09-13,law,decreto-2015-09-12-48-suplemento-no-3,constitucion-politica,2,main
+2015-09-27,law,decreto-2015-09-26-51-suplemento-no-4,ley-del-sistema-de-asistencia-social,11,main
+2015-10-02,start,ley-2015-10-01-52-edicion-especial-extraordinaria-suplemento-no-15,ley-del-periodico-oficial,31,main
+2015-10-02,law,decreto-2015-10-01-52-edicion-especial-extraordinaria,codigo-penal ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-e,14,main
+2015-11-08,law,decreto-2015-11-07-63,constitucion-politica,30,main
+2015-12-13,law,decreto-2015-12-12-68-suplemento-no-4,ley-del-municipio-libre,6,main
+2016-01-16,law,fe-de-erratas-2016-01-16-4,ley-del-municipio-libre,1,main
+2016-03-01,law,decreto-2016-02-29-13-bis-edicion-especial-extraordinaria,codigo-penal ley-para-la-proteccion-a-testigos-y-sujetos-intervinientes-e,4,main
+2016-03-02,law,decreto-2016-03-01-14-edicion-especial-extraordinaria,codigo-penal,5,main
+2016-03-20,law,decreto-2016-03-19-17,codigo-civil codigo-de-procedimientos-civiles ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,17,main
+2016-05-29,law,decreto-2016-05-28-30-suplemento-no-2,constitucion-politica,5,main
+2016-06-12,law,decreto-2016-06-11-33,ley-de-vivienda,2,main
+2016-06-12,law,decreto-2016-06-11-33-suplemento-no-2,constitucion-politica codigo-civil codigo-de-procedimientos-civiles ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,170,main
+2016-06-12,law,decreto-2016-06-11-33-suplemento-no-3,codigo-penal,18,main
+2016-06-18,law,fe-de-erratas-2016-06-18-34,constitucion-politica ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,6,main
+2016-06-19,law,decreto-2016-06-18-34-suplemento-no-2,ley-de-proteccion-civil,3,main
+2016-08-07,start,ley-2016-08-06-46-suplemento-no-2,ley-de-planeacion-democratica-para-el-desarrollo,79,main
+2016-08-14,law,decreto-2016-08-13-48-suplemento-no-1,ley-del-instituto-colimense-de-la-infraestructura-fisica-edu,11,main
+2016-09-11,law,decreto-2016-09-10-58-suplemento-no-1,codigo-de-procedimientos-civiles codigo-penal,5,main
+2016-09-11,law,decreto-2016-09-10-58-suplemento-no-3,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-del-municipio-libre,12,main
+2016-09-11,law,decreto-2016-09-10-58-suplemento-no-1-2,codigo-penal,10,main
+2016-09-11,law,decreto-2016-09-10-58-suplemento-no-3,codigo-de-procedimientos-civiles,2,main
+2016-09-11,law,decreto-2016-09-10-58-suplemento-no-3-2,codigo-civil,48,main
+2016-09-11,law,decreto-2016-09-10-58-suplemento-no-1,codigo-civil,5,main
+2016-10-16,law,decreto-2016-10-15-63-suplemento-no-4,codigo-penal ley-de-proteccion-civil,8,main
+2016-10-30,law,decreto-2016-10-29-67-suplemento-no-1,ley-para-la-proteccion-de-los-adultos-mayores,5,main
+2016-11-13,law,decreto-2016-11-12-70,ley-del-municipio-libre,3,main
+2016-11-23,law,decreto-2016-11-22-73-edicion-especial-extraordinaria-suplemento-no-3,codigo-civil codigo-de-procedimientos-civiles codigo-electoral codigo-fiscal codigo-fiscal-municipal codigo-penal ley-de-justicia-alternativa ley-de-operaciones-inmobiliarias ley-de-profesiones ley-de-proteccion-civil ley-de-residuos-solidos ley-del-instituto-para-el-registro-del-territorio ley-del-municipio-libre ley-estatal-de-obras-publicas ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia ley-para-la-administracion-de-bienes-asegurados-decomisados ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion ley-para-la-proteccion-a-los-animales ley-para-la-proteccion-de-los-adultos-mayores ley-para-regular-la-participacion-del-congreso-en-asuntos-mu ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas ley-para-resolver-los-conflictos-de-limites-intermunicipales,245,main
+2016-12-11,law,decreto-2016-12-10-77-suplemento-no-5,codigo-penal ley-del-municipio-libre,4,main
+2017-01-01,start,ley-2016-11-22-73-edicion-especial-extraordinaria-suplemento-1,ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-cam,54,main
+2017-01-29,start,ley-2017-01-28-6-suplemento-no-9,ley-de-presupuesto-de-responsabilidad-hacendaria,87,main
+2017-01-31,start,ley-2017-01-30-7-edicion-extraordinaria,ley-de-movilidad-sustentable,405,main
+2017-04-02,law,decreto-2017-04-01-22-suplemento-no-3,codigo-civil codigo-de-procedimientos-civiles ley-de-promocion-e-impulso-al-joven-emprendedor ley-de-proteccion-civil ley-estatal-para-el-fomento-a-la-lectura-y-al-libro,35,main
+2017-04-02,law,decreto-2017-04-01-22-suplemento-no-4,ley-de-residuos-solidos ley-del-municipio-libre,8,main
+2017-04-02,law,decreto-2017-04-01-22-suplemento-no-3-2,codigo-civil,4,main
+2017-04-02,law,decreto-2017-04-01-22-suplemento-no-4,codigo-civil,4,main
+2017-05-14,law,decreto-2017-05-13-31-suplemento-no-1,constitucion-politica,25,main
+2017-06-04,start,ley-2017-06-03-38-suplemento-no-4,ley-para-la-atencion-de-personas-con-trastornos-del-espectro,31,main
+2017-06-04,law,decreto-2017-06-03-38-suplemento-no-4,constitucion-politica codigo-civil,6,main
+2017-06-04,law,decreto-2017-06-03-38-suplemento-no-4-2,codigo-civil,4,main
+2017-06-09,law,decreto-2017-06-08-39-edicion-especial-extraordinaria,constitucion-politica,6,main
+2017-06-30,law,decreto-2017-06-29-43-edicion-especial-extraordinaria,codigo-electoral ley-del-municipio-libre ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,69,main
+2017-07-02,law,decreto-2017-07-01-44-suplemento-no-1,ley-de-turismo,4,main
+2017-07-16,start,ley-2017-07-15-46-suplemento-no-2,ley-del-sistema-anticorrupcion,60,main
+2017-07-22,law,fe-de-erratas-2017-07-22-47,codigo-electoral,1,main
+2017-07-23,law,decreto-2017-07-22-47,constitucion-politica,2,main
+2017-07-23,law,decreto-2017-07-22-47-2,constitucion-politica,2,main
+2017-08-06,law,decreto-2017-08-05-51,codigo-civil codigo-de-procedimientos-civiles,4,main
+2017-08-27,law,decreto-2017-08-26-55-suplemento-no-3,ley-de-la-juventud,3,main
+2017-08-27,law,decreto-2017-08-26-55-suplemento-no-3-2,ley-de-la-juventud,4,main
+2017-09-10,law,decreto-2017-09-09-57-suplemento-no-2,constitucion-politica ley-de-la-juventud ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-del-municipio-libre ley-estatal-de-obras-publicas,14,main
+2017-10-08,law,decreto-2017-10-07-64-suplemento-no-2,ley-para-la-proteccion-de-los-adultos-mayores,2,main
+2017-10-15,law,decreto-2017-10-14-66-suplemento-no-1,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,4,main
+2017-11-26,law,decreto-2017-11-25-75-suplemento-3,codigo-penal ley-del-municipio-libre,42,main
+2017-11-26,law,decreto-2017-11-25-75,constitucion-politica codigo-de-procedimientos-civiles ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-proteccion-de-victimas-en-el-estado-de-colima,16,main
+2017-12-03,law,decreto-2017-12-02-76,codigo-fiscal,36,main
+2017-12-28,law,decreto-2017-12-27-83-edicion-especial-extraordinaria,constitucion-politica,156,main
+2018-02-04,law,decreto-2018-02-03-7,codigo-civil ley-de-turismo,5,main
+2018-03-25,law,decreto-2018-03-24-23,ley-de-profesiones ley-de-proteccion-civil ley-del-municipio-libre ley-estatal-para-el-fomento-a-la-lectura-y-al-libro,19,main
+2018-03-27,law,decreto-2018-03-24-23,ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,3,main
+2018-04-30,start,ley-2018-03-31-25,ley-para-regular-la-apertura-instalacion-y-funcionamiento-de,48,main
+2018-05-13,law,decreto-2018-05-12-33,ley-para-la-igualdad-entre-mujeres-y-hombres ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,7,main
+2018-06-03,law,decreto-2018-06-02-40,codigo-civil codigo-de-procedimientos-civiles ley-de-las-personas-ilustres ley-de-residuos-solidos ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,20,main
+2018-06-05,law,decreto-2018-06-02-40,ley-de-la-juventud,6,main
+2018-06-17,start,ley-2018-06-16-43-suplemento-no-2,ley-de-justicia-administrativa,142,main
+2018-07-08,law,decreto-2018-07-07-47,ley-de-proteccion-civil ley-para-el-desarrollo-forestal-sustentable ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-est,24,main
+2018-07-08,law,decreto-2018-07-07-47-suplemento-no-1,constitucion-politica,7,main
+2018-07-08,law,decreto-2018-07-07-47-suplemento-no-1-2,constitucion-politica,3,main
+2018-07-08,law,decreto-2018-07-07-47-suplemento-no-1-3,constitucion-politica,3,main
+2018-07-29,law,decreto-2018-07-28-51-suplemento-no-2,codigo-penal ley-del-municipio-libre,4,main
+2018-08-02,start,ley-2018-08-01-52-edicion-especial-extraordinaria,ley-de-juicio-politico,39,main
+2018-08-30,start,ley-2018-08-29-59-edicion-especial-extraordinaria,ley-de-mejora-regulatoria,99,main
+2018-09-27,law,decreto-2018-09-26-69-edicion-especial-extraordinaria,constitucion-politica,4,main
+2018-09-30,start,ley-2018-09-29-71-suplemento-no-2,ley-de-salud,217,main
+2018-09-30,start,ley-2018-09-29-71-suplemento-no-3,ley-del-patrimonio,100,main
+2018-09-30,law,decreto-2018-09-29-71,codigo-civil codigo-penal ley-de-movilidad-sustentable ley-del-instituto-colimense-de-las-mujeres ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-cam ley-para-la-proteccion-de-los-adultos-mayores,18,main
+2018-09-30,law,decreto-2018-09-29-71-2,ley-para-la-proteccion-de-los-adultos-mayores,3,main
+2018-10-03,law,decreto-2018-10-02-73-edicion-especial-extraordinaria,codigo-penal,2,main
+2018-10-20,law,decreto-2018-10-20-76-suplemento-no-1,ley-de-turismo,3,main
+2018-10-21,law,decreto-2018-10-20-76-suplemento-no-1,codigo-de-procedimientos-civiles codigo-penal ley-de-la-juventud ley-de-residuos-solidos ley-de-vivienda ley-para-fomentar-la-donacion-altruista-en-materia-alimentar,43,main
+2018-10-21,law,decreto-2018-10-20-76-suplemento-1,constitucion-politica,4,main
+2018-10-21,law,decreto-2018-10-20-76-suplemento-no-3,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,88,main
+2018-10-23,law,decreto-2018-10-20-76-suplemento-no-1,codigo-civil,4,main
+2018-11-20,law,decreto-2018-11-17-82,constitucion-politica,4,main
+2018-12-30,law,decreto-2018-12-29-94,ley-estatal-de-obras-publicas,11,main
+2019-01-01,start,ley-2018-09-28-70-edicion-especial-extraordinaria,ley-de-pensiones-de-los-servidores-publicos,178,main
+2019-01-01,start,ley-2018-03-24-23-suplemento-no-1,ley-para-regular-la-convivencia-civil-en-el-estado-de-colima,86,main
+2019-01-01,law,decreto-2018-09-28-70-edicion-especial-extraordinaria,codigo-fiscal ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,9,main
+2019-01-01,law,decreto-2018-12-29-94,ley-de-salud,7,main
+2019-01-01,law,decreto-2018-10-20-76-suplemento-no-1,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2019-02-03,law,decreto-2019-02-02-8,ley-para-la-proteccion-de-los-adultos-mayores,2,main
+2019-02-03,law,decreto-2019-02-02-98,codigo-penal,2,main
+2019-02-28,law,decreto-2019-02-27-14-edicion-especial-extraordinaria,codigo-civil,6,main
+2019-03-16,law,fe-de-erratas-2019-03-16-19,ley-de-pensiones-de-los-servidores-publicos,3,main
+2019-03-21,law,decreto-2019-03-20-20-edicion-especial-extraordinaria,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2019-03-28,start,ley-2018-09-29-71-suplemento-no-1,ley-de-participacion-ciudadana,108,main
+2019-04-07,law,decreto-2019-04-06-26,codigo-civil ley-del-municipio-libre,20,main
+2019-04-21,law,decreto-2019-04-20-31,ley-del-municipio-libre,2,main
+2019-05-19,law,decreto-2019-05-18-37,constitucion-politica ley-del-sistema-anticorrupcion,15,main
+2019-06-02,law,decreto-2019-06-01-41,ley-del-municipio-libre,2,main
+2019-06-30,law,decreto-2019-06-29-50,codigo-penal,6,main
+2019-07-04,law,decreto-2019-07-03-51-edicion-especial-extraordinaria,ley-para-la-proteccion-de-los-adultos-mayores,59,main
+2019-07-21,law,decreto-2019-07-20-54-suplemento-no-1,codigo-civil ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,17,main
+2019-08-04,law,decreto-2019-08-03-57,constitucion-politica ley-para-la-proteccion-de-los-adultos-mayores ley-para-regular-la-convivencia-civil-en-el-estado-de-colima,49,main
+2019-08-04,law,decreto-2019-08-03-57-2,ley-para-la-proteccion-de-los-adultos-mayores,5,main
+2019-08-15,law,decreto-2019-08-14-59-edicion-especial-extraordinaria,codigo-penal,4,main
+2019-08-25,law,decreto-2019-08-24-62,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2019-08-25,law,decreto-2019-08-24-62-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2019-08-31,law,decreto-2019-08-31-64,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,5,main
+2019-09-01,law,decreto-2019-06-19-46,ley-de-movilidad-sustentable,13,main
+2019-09-01,law,decreto-2019-08-31-64,codigo-penal ley-del-sistema-de-asistencia-social ley-para-la-proteccion-de-los-adultos-mayores,18,main
+2019-09-01,law,decreto-2019-06-29-50,ley-de-movilidad-sustentable,5,main
+2019-09-01,law,decreto-2019-07-20-54-suplemento-no-1,ley-de-movilidad-sustentable,4,main
+2019-09-15,law,decreto-2019-09-14-67-suplemento-no-4,ley-de-residuos-solidos,4,main
+2019-09-19,law,decreto-2019-09-18-68-edicion-especial-extraordinaria,ley-de-movilidad-sustentable,3,main
+2019-09-29,law,decreto-2019-09-28-71-suplemento-no-1,ley-de-salud ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-cam,19,main
+2019-09-29,law,decreto-2019-09-28-71-suplemento-no-1-2,ley-de-salud,3,main
+2019-11-03,law,decreto-2019-11-02-79,codigo-civil ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor ley-de-movilidad-sustentable ley-de-participacion-ciudadana ley-estatal-de-obras-publicas,30,main
+2019-12-01,law,decreto-2019-11-30-83,codigo-civil codigo-de-procedimientos-civiles,4,main
+2019-12-08,law,decreto-2019-12-07-86,ley-de-profesiones ley-para-la-igualdad-entre-mujeres-y-hombres,6,main
+2020-01-01,law,decreto-2019-08-24-62,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2020-01-01,law,decreto-2019-12-07-86,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2020-01-12,law,decreto-2020-01-11-2,ley-de-seguridad-integral-escolar ley-para-la-atencion-de-personas-con-trastornos-del-espectro,6,main
+2020-02-02,law,decreto-2020-02-01-7,ley-del-municipio-libre,49,main
+2020-03-08,law,decreto-2020-03-07-14-suplemento-no-10,codigo-penal ley-para-la-proteccion-de-victimas-en-el-estado-de-colima,15,main
+2020-05-03,law,decreto-2020-05-02-32,codigo-penal ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient ley-de-salud,15,main
+2020-05-03,law,decreto-2020-05-02-32-2,codigo-penal,2,main
+2020-05-11,law,decreto-2020-04-11-29,codigo-civil ley-del-instituto-para-el-registro-del-territorio,13,main
+2020-05-31,law,decreto-2020-05-30-37-suplemento-no-2,ley-de-turismo ley-del-municipio-libre,22,main
+2020-06-21,law,decreto-2020-06-20-42,codigo-penal,2,main
+2020-07-14,law,decreto-2020-07-13-48-edicion-especial-extraordinaria,ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,2,main
+2020-07-14,law,decreto-2020-07-13-48-edicion-especial-extraordinario,codigo-electoral,36,main
+2020-08-30,law,decreto-2020-08-29-59,constitucion-politica ley-de-movilidad-sustentable,5,main
+2020-08-30,law,decreto-2020-08-29-59-2,constitucion-politica,2,main
+2020-08-30,law,decreto-2020-08-29-59-3,constitucion-politica,3,main
+2020-10-04,start,ley-2020-10-03-67-suplemento-no-1,ley-de-presupuesto-y-responsabilidad-hacendaria-para-los-mun,95,main
+2020-11-08,law,decreto-2020-11-07-75,ley-de-presupuesto-de-responsabilidad-hacendaria,8,main
+2020-11-15,start,ley-2020-11-14-76-suplemento-no-1,ley-del-sistema-de-seguridad-publica,170,main
+2020-12-20,law,decreto-2020-12-19-83,codigo-penal ley-del-municipio-libre,4,main
+2020-12-27,law,decreto-2020-12-26-85,codigo-penal,2,main
+2020-12-31,law,decreto-2020-12-30-86,ley-de-proteccion-civil ley-del-municipio-libre,4,main
+2021-01-01,start,ley-2020-12-26-85-suplemento-no-6,ley-de-proteccion-y-conservacion-del-patrimonio-cultural,91,main
+2021-01-01,law,decreto-2020-05-30-37-suplemento-no-2,ley-de-salud ley-para-el-fomento-de-una-cultura-de-donacion-procuracion-y,35,main
+2021-02-07,law,decreto-2021-02-06-11-edicion-ordinaria,codigo-civil ley-de-los-derechos-de-ninas-ninos-y-adolescentes,7,main
+2021-02-14,start,ley-2021-02-13-14-suplemento-no-3,ley-del-centro-de-conciliacion-laboral,34,main
+2021-02-28,law,decreto-2021-02-27-20-edicion-ordinaria,ley-de-pensiones-de-los-servidores-publicos,4,main
+2021-03-21,law,decreto-2021-03-20-27-edicion-ordinaria,constitucion-politica,2,main
+2021-05-16,law,decreto-2021-05-15-40-edicion-ordinaria,ley-del-municipio-libre,2,main
+2021-05-30,law,decreto-2021-05-29-43-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,5,main
+2021-06-06,start,ley-2021-06-05-46-suplemento-no-3,ley-del-instituto-de-defensoria-publica,70,main
+2021-07-15,law,decreto-2021-07-14-55-edicion-extraordinaria,ley-del-municipio-libre,2,main
+2021-07-18,law,decreto-2021-07-17-56-edicion-ordinaria,codigo-civil codigo-de-procedimientos-civiles ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor,27,main
+2021-07-18,law,decreto-2021-07-17-56-edicion-ordinaria-2,codigo-civil,3,main
+2021-07-18,law,decreto-2021-07-17-56-edicion-ordinaria-3,codigo-civil,4,main
+2021-08-15,law,decreto-2021-08-14-64-edicion-ordinaria,constitucion-politica,3,main
+2021-08-29,law,decreto-2021-08-28-66-edicion-ordinaria,codigo-civil,8,main
+2021-09-05,start,ley-2021-09-04-69-suplemento-no-5,ley-organica-de-la-comision-de-derechos-humanos,130,main
+2021-09-05,law,decreto-2021-09-04-69-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-pensiones-de-los-servidores-publicos,10,main
+2021-09-12,start,ley-2021-09-11-71-suplemento-no-1,ley-del-procedimiento-administrativo,172,main
+2021-10-10,law,decreto-2021-10-09-77-edicion-ordinaria,constitucion-politica codigo-penal ley-de-salud,8,main
+2021-10-12,start,ley-2021-10-09-77-suplemento-no-4,ley-organica-del-poder-legislativo,137,main
+2021-10-31,law,decreto-2021-10-30-82-edicion-ordinaria,constitucion-politica ley-del-centro-de-conciliacion-laboral,6,main
+2021-11-01,start,ley-2021-10-09-77-suplemento-no-3,ley-de-las-entidades-paraestatales,70,main
+2021-11-01,start,ley-2021-10-09-77-suplemento-no-2,ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ,58,main
+2021-11-02,law,decreto-2021-10-30-82-edicion-ordinaria,ley-organica-del-poder-legislativo,6,main
+2021-11-25,law,decreto-2021-11-24-90-edicion-extraordinaria,constitucion-politica,12,main
+2021-12-09,law,decreto-2021-12-08-94-edicion-extraordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2021-12-12,law,decreto-2021-12-11-96-suplemento-no-3,codigo-penal ley-de-salud,24,main
+2021-12-31,law,decreto-2021-12-18-98-edicion-ordinaria,ley-de-pensiones-de-los-servidores-publicos,2,main
+2022-03-06,law,decreto-2022-03-05-22-edicion-ordinaria,ley-de-las-entidades-paraestatales ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ,4,main
+2022-03-20,law,decreto-2022-03-19-25-edicion-ordinaria,ley-de-las-personas-ilustres ley-de-seguridad-integral-escolar ley-de-turismo ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,28,main
+2022-03-27,law,decreto-2022-03-26-26-suplemento-no-2,codigo-penal ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,31,main
+2022-04-17,law,decreto-2022-04-16-31-edicion-ordinaria,ley-de-profesiones ley-del-municipio-libre,8,main
+2022-05-08,law,decreto-2022-05-07-36-edicion-ordinaria,constitucion-politica ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-e,156,main
+2022-05-10,law,decreto-2022-05-07-36-edicion-ordinaria,ley-organica-del-poder-legislativo,3,main
+2022-05-10,law,fe-de-erratas-2022-05-07-36-edicion-ordinaria,ley-organica-del-poder-legislativo,4,main
+2022-05-29,law,decreto-2022-05-28-41-edicion-ordinaria,ley-de-pensiones-de-los-servidores-publicos,5,main
+2022-06-05,law,decreto-2022-06-04-44-edicion-ordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient ley-organica-del-poder-legislativo,5,main
+2022-06-26,start,ley-2022-06-25-48-suplemento-no-4,ley-para-la-deteccion-y-tratamiento-oportuno-e-integral-del,42,main
+2022-06-26,law,decreto-2022-06-25-48-edicion-ordinaria,ley-de-la-juventud ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient ley-de-turismo,15,main
+2022-07-10,law,decreto-2022-07-09-50-edicion-ordinaria,codigo-penal ley-de-movilidad-sustentable ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ ley-para-regular-la-convivencia-civil-en-el-estado-de-colima,20,main
+2022-07-10,law,decreto-2022-07-09-50-edicion-ordinaria-2,ley-para-regular-la-convivencia-civil-en-el-estado-de-colima,123,main
+2022-07-31,law,decreto-2022-07-30-54-edicion-ordinaria,constitucion-politica ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion ley-para-la-proteccion-de-los-adultos-mayores,22,main
+2022-08-13,start,ley-2022-08-12-58-edicion-extraordinaria,ley-de-revocacion-de-mandato,64,main
+2022-08-21,start,ley-2022-08-20-60-suplemento-no-3,ley-de-responsabilidad-patrimonial,49,main
+2022-08-21,law,decreto-2022-08-20-60-edicion-ordinaria,constitucion-politica ley-de-movilidad-sustentable,8,main
+2022-08-21,law,decreto-2022-08-20-60-suplemento-no-2,codigo-civil,14,main
+2022-08-21,law,decreto-2022-08-20-60-suplemento-no-2-2,codigo-civil,5,main
+2022-08-21,law,decreto-2022-08-20-60-suplemento-no-3,codigo-civil,2,main
+2022-09-11,start,ley-2022-09-10-64-suplemento-no-7,ley-para-la-proteccion-apoyo-y-promocion-de-la-lactancia-mat,28,main
+2022-09-11,law,decreto-2022-09-10-64-suplemento-no-8,ley-para-la-proteccion-de-los-adultos-mayores,7,main
+2022-09-11,law,decreto-2022-09-10-64-suplemento-no-9,ley-para-la-proteccion-a-los-animales,25,main
+2022-09-11,law,decreto-2022-09-10-64-suplemento-no-10,ley-de-justicia-administrativa,54,main
+2022-09-18,law,decreto-2022-09-17-66-edicion-ordinaria,constitucion-politica,3,main
+2022-10-01,law,fe-de-erratas-2022-10-01-68-edicion-ordinaria,constitucion-politica,2,main
+2022-10-09,start,ley-2022-10-08-69-suplemento-no-3,ley-para-la-proteccion-y-bienestar-de-los-animales-de-compan,71,main
+2022-10-09,law,decreto-2022-10-08-69-edicion-ordinaria,codigo-penal ley-de-la-juventud ley-de-movilidad-sustentable,21,main
+2022-10-09,law,decreto-2022-10-08-69-suplemento-no-3,ley-para-la-proteccion-a-los-animales,18,main
+2022-10-16,law,decreto-2022-10-15-70-edicion-ordinaria,ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ,3,main
+2022-10-23,law,decreto-2022-10-22-72-edicion-ordinaria,codigo-electoral,3,main
+2022-11-20,law,decreto-2022-11-19-77-edicion-ordinaria,ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,3,main
+2022-11-20,law,decreto-2022-11-19-77-suplemento-no-1,ley-de-salud,3,main
+2022-11-20,law,decreto-2022-11-19-77-suplemento-no-1,ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,4,main
+2022-11-26,law,fe-de-erratas-2022-11-26-78-edicion-ordinaria,ley-de-la-juventud,7,main
+2022-11-27,law,decreto-2022-11-26-78-edicion-ordinaria,codigo-civil ley-para-la-igualdad-entre-mujeres-y-hombres,6,main
+2022-12-04,law,decreto-2022-12-03-80-edicion-ordinaria,codigo-civil,2,main
+2022-12-04,law,decreto-2022-12-03-80-suplemento-no-1,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2022-12-04,law,decreto-2022-12-03-80-suplemento-no-1,codigo-civil,2,main
+2022-12-04,law,decreto-2022-12-03-80-suplemento-no-1-2,codigo-civil,2,main
+2022-12-18,law,decreto-2022-12-17-84-edicion-ordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2022-12-31,law,decreto-2022-09-10-64-suplemento-no-8,ley-organica-del-poder-legislativo,2,main
+2022-12-31,law,decreto-2022-10-08-69-edicion-ordinaria,ley-organica-del-poder-legislativo,3,main
+2022-12-31,law,decreto-2022-10-15-70-edicion-ordinaria,ley-organica-del-poder-legislativo,4,main
+2023-01-01,law,decreto-2022-11-19-77-suplemento-no-1-2,ley-de-salud,13,main
+2023-01-01,law,decreto-2022-12-31-86-suplemento-no-7,codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes,4,main
+2023-01-01,law,decreto-2022-12-31-86-suplemento-no-7,ley-de-salud,6,main
+2023-01-03,law,decreto-2022-12-31-86-suplemento-no-7,ley-organica-del-poder-legislativo,5,main
+2023-01-15,law,decreto-2023-01-14-2-edicion-ordinaria,ley-de-movilidad-sustentable,19,main
+2023-01-29,law,decreto-2023-01-28-4-edicion-ordinaria,ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-de,5,main
+2023-02-19,law,decreto-2023-02-18-8-edicion-ordinaria,codigo-penal ley-del-municipio-libre,7,main
+2023-03-05,law,decreto-2023-03-04-10-edicion-ordinaria,codigo-penal ley-del-municipio-libre,7,main
+2023-03-12,law,decreto-2023-03-11-11-edicion-ordinaria,codigo-civil codigo-penal ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-de-movilidad-sustentable,8,main
+2023-03-12,law,decreto-2023-03-11-11-suplemento-no-2,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an,5,main
+2023-03-12,law,decreto-2023-03-11-11-suplemento-no-2,codigo-civil,8,main
+2023-03-17,law,decreto-2023-03-16-12-edicion-extraordinaria,codigo-electoral,6,main
+2023-03-26,law,decreto-2023-03-25-14-edicion-ordinaria,ley-de-proteccion-y-conservacion-del-patrimonio-cultural,15,main
+2023-04-30,law,decreto-2023-04-29-22-edicion-ordinaria,constitucion-politica,4,main
+2023-05-21,law,decreto-2023-05-20-29-edicion-ordinaria,codigo-civil codigo-penal,8,main
+2023-06-10,law,decreto-2023-06-10-35-edicion-ordinaria,ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-cam,3,main
+2023-06-11,law,decreto-2023-06-10-35-edicion-ordinaria,codigo-civil codigo-penal,4,main
+2023-06-13,law,decreto-2023-06-10-35-edicion-ordinaria,ley-organica-del-poder-legislativo,3,main
+2023-06-25,start,ley-2023-06-24-39-suplemento-no-4,ley-para-la-promocion-y-desarrollo-agroecologico-en-el-estad,37,main
+2023-06-30,law,decreto-2023-06-30-40-edicion-extraordinaria-suplemento-no-1,codigo-electoral,22,main
+2023-07-08,law,fe-de-erratas-2023-07-08-43-edicion-ordinaria,codigo-electoral,3,main
+2023-07-23,law,decreto-2023-07-22-45-edicion-ordinaria,codigo-civil,2,main
+2023-08-13,start,ley-2023-08-12-48-suplemento-no-1,ley-organica-de-la-fiscalia-general,139,main
+2023-08-13,law,decreto-2023-08-12-48-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,4,main
+2023-09-17,law,decreto-2023-09-16-57-edicion-ordinaria,ley-para-la-prevencion-y-atencion-a-la-violencia-familiar-an ley-para-la-proteccion-de-los-adultos-mayores,5,main
+2023-09-30,law,fe-de-erratas-2023-09-30-60-edicion-ordinaria,ley-para-la-proteccion-de-los-adultos-mayores,2,main
+2023-10-05,law,decreto-2023-10-04-62-edicion-extraordinaria,ley-estatal-de-obras-publicas,5,main
+2023-11-05,law,decreto-2023-11-04-71-suplemento-no-3,constitucion-politica ley-de-los-derechos-de-ninas-ninos-y-adolescentes,86,main
+2023-11-05,law,decreto-2023-11-04-71-suplemento-no-3-2,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2023-12-10,law,decreto-2023-12-09-81-edicion-ordinaria,codigo-civil codigo-electoral,5,main
+2024-02-18,law,decreto-2024-02-17-15-suplemento-no-2,ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas,2,main
+2024-03-03,law,decreto-2024-03-02-19-edicion-ordinaria,ley-de-la-juventud,6,main
+2024-03-17,law,decreto-2024-03-16-21-edicion-ordinaria,codigo-penal,4,main
+2024-05-12,law,decreto-2024-05-11-41-edicion-ordinaria,constitucion-politica,2,main
+2024-05-12,law,decreto-2024-05-11-41-suplemento-num-5,ley-del-notariado,13,main
+2024-06-23,law,decreto-2024-06-22-53-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2024-08-09,law,decreto-2024-08-08-69-edicion-extraordinaria,ley-de-pensiones-de-los-servidores-publicos,2,main
+2024-08-25,law,decreto-2024-08-24-74-edicion-ordinaria,ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor ley-del-municipio-libre ley-para-la-proteccion-a-los-animales,51,main
+2024-09-01,law,decreto-2024-08-31-77-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes ley-para-la-proteccion-de-los-adultos-mayores,7,main
+2024-09-10,law,decreto-2024-09-09-80-edicion-extraordinaria,codigo-penal,7,main
+2024-09-22,law,decreto-2024-09-21-85-edicion-ordinaria,codigo-civil,3,main
+2024-09-29,law,decreto-2024-09-28-88-edicion-ordinaria,ley-de-pensiones-de-los-servidores-publicos,2,main
+2024-10-20,law,decreto-2024-10-19-94-edicion-ordinaria,ley-de-salud,4,main
+2024-12-18,law,decreto-2024-12-17-114-edicion-extraordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2024-12-31,law,decreto-2024-12-28-117-suplemento-no-2,ley-organica-del-poder-legislativo,3,main
+2024-12-31,law,decreto-2024-12-28-117-suplemento-no-26,ley-organica-del-poder-legislativo,3,main
+2025-01-15,law,decreto-2025-01-14-5-edicion-extraordinaria,constitucion-politica,22,main
+2025-01-16,law,fe-de-erratas-2025-01-16-7-edicion-extraordinaria,constitucion-politica,2,main
+2025-02-16,law,decreto-2025-02-15-22-edicion-ordinaria,constitucion-politica,4,main
+2025-03-02,law,decreto-2025-03-01-27-edicion-ordinaria,ley-de-proteccion-civil,3,main
+2025-04-01,law,decreto-2025-03-29-35-edicion-ordinaria,ley-organica-del-poder-legislativo,3,main
+2025-05-18,law,decreto-2025-05-17-48-suplemento-numero-5,codigo-civil,2,main
+2025-07-06,law,decreto-2025-07-05-67-edicion-ordinaria,codigo-penal,4,main
+2025-07-13,law,decreto-2025-07-12-70-suplemento-no-4,constitucion-politica,3,main
+2025-07-13,law,decreto-2025-07-12-70-suplemento-numero-4,codigo-fiscal,13,main
+2025-08-17,law,decreto-2025-08-16-80-edicion-ordinaria,constitucion-politica,7,main
+2025-08-31,law,decreto-2025-08-30-82-edicion-ordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2025-09-14,law,decreto-2025-09-13-87-edicion-ordinaria,codigo-penal,4,main
+2025-09-28,law,decreto-2025-09-27-94-suplemento-numero-uno,ley-de-justicia-administrativa ley-del-procedimiento-administrativo,63,main
+2025-09-30,start,ley-2025-09-29-95-edicion-extraordinaria,ley-organica-del-poder-judicial,241,main
+2025-09-30,law,decreto-2025-09-27-94-suplemento-numero-2,ley-organica-del-poder-legislativo,2,main
+2025-09-30,law,decreto-2025-09-29-95-edicion-extraordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2025-10-12,law,decreto-2025-10-11-100-suplemento-numero-4,ley-de-salud,2,main
+2025-10-14,law,decreto-2025-10-11-100-suplemento-numero-4,ley-organica-del-poder-legislativo,2,main
+2025-11-02,law,decreto-2025-11-01-108-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,2,main
+2025-11-10,start,ley-2025-11-10-111-suplemento-numero-1,ley-de-transparencia-y-acceso-a-la-informacion-publica,178,main
+2025-11-11,start,ley-2025-11-10-111-suplemento-numero-2,ley-de-proteccion-de-datos-personales-en-posesion-de-sujetos,149,main
+2025-11-11,law,decreto-2025-11-10-111-suplemento-numero-3,ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ,4,main
+2025-11-15,law,fe-de-erratas-2025-11-15-112-edicion-ordinaria,ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ,2,main
+2025-11-16,law,decreto-2025-11-15-112-suplemento-numero-1,ley-de-proteccion-civil ley-para-la-proteccion-de-los-adultos-mayores,4,main
+2025-12-07,law,decreto-2025-12-06-119-edicion-ordinaria,ley-de-pensiones-de-los-servidores-publicos,2,main
+2025-12-14,law,decreto-2025-12-13-121-suplemento-numero-4,ley-de-turismo,16,main
+2025-12-19,law,decreto-2025-12-18-123-edicion-extraordinaria,codigo-penal,4,main
+2025-12-19,law,decreto-2025-12-18-123-edicion-extraordinaria-2,codigo-penal,5,main
+2025-12-28,law,decreto-2025-12-27-127-suplemento-numero-2,ley-del-instituto-para-el-registro-del-territorio,121,main
+2025-12-30,law,decreto-2025-12-29-128-edicion-extraordinaria,ley-del-instituto-para-el-registro-del-territorio,2,main
+2026-01-01,law,decreto-2025-12-31-129-edicion-extraordinaria-suplemento-numero-1,ley-del-sistema-de-seguridad-publica,55,main
+2026-01-17,law,fe-de-erratas-2026-01-17-4-edicion-ordinaria,ley-del-sistema-de-seguridad-publica,6,main
+2026-01-25,law,decreto-2026-01-24-6-edicion-ordinaria,codigo-penal,2,main
+2026-02-10,law,decreto-2026-02-07-11-edicion-ordinaria,ley-de-los-derechos-de-ninas-ninos-y-adolescentes,3,main
+2026-02-15,law,decreto-2026-02-14-13-edicion-ordinaria,ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,2,main
+2026-03-01,law,decreto-2026-02-28-17-suplemento-numero-2,codigo-penal ley-de-los-trabajadores-al-servicio-del-gobierno-ayuntamient,7,main
+2026-03-01,law,decreto-2026-02-28-17-suplemento-numero-2-2,codigo-penal,5,main
+2026-03-15,law,decreto-2026-03-14-21-suplemento-numero-1,codigo-penal,2,main
+2026-03-15,law,decreto-2026-03-14-21-suplemento-numero-2,ley-organica-de-la-fiscalia-general,16,main
+2026-04-17,law,decreto-2026-04-16-32-edicion-extraordinaria,ley-del-sistema-de-seguridad-publica ley-organica-del-poder-ejecutivo-y-de-la-administracion-publ,13,main
+2026-04-19,law,decreto-2026-04-18-33-edicion-ordinaria,constitucion-politica,12,main
+2026-04-19,law,decreto-2026-04-18-33-suplemento-numero-3,ley-que-crea-el-organismo-publico-descentralizado-denominado,16,main
+2026-04-19,law,decreto-2026-04-18-33-suplemento-numero-4,ley-organica-del-poder-judicial,32,main
+2026-05-03,law,decreto-2026-05-02-37-suplemento-numero-5,ley-organica-de-la-universidad-tecnologica-de-manzanillo-col,34,main
+2026-05-24,law,ley-2026-05-23-48-suplemento-numero-4,ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-cam,549,main
+2026-05-24,law,decreto-2026-05-23-48-edicion-ordinaria,codigo-penal,2,main
+2026-05-31,law,decreto-2026-05-30-51-suplemento-numero-11,constitucion-politica,3,main
+2026-05-31,law,decreto-2026-05-30-51-suplemento-numero-11-2,constitucion-politica,12,main
+2026-06-07,law,decreto-2026-06-06-55-edicion-ordinaria,ley-organica-de-la-comision-de-derechos-humanos,5,main
+2026-06-21,law,decreto-2026-06-20-59-suplemento-numero-4,ley-para-la-proteccion-de-los-adultos-mayores,56,main
+2026-06-28,law,decreto-2026-06-27-61-suplemento-numero-6,codigo-electoral,34,main
+2026-06-28,law,decreto-2026-06-27-61-suplemento-numero-6-2,codigo-electoral,2,main
+2026-07-05,law,decreto-2026-07-04-63-suplemento-numero-7,constitucion-politica codigo-penal,4,main
+2026-07-07,law,decreto-2026-07-06-64-edicion-extraordinaria,ley-estatal-del-sistema-de-medios-de-impugnacion-en-materia,11,main
+2026-08-02,law,decreto-2026-08-01-76-suplemento-numero-3,ley-de-movilidad-sustentable,3,main
+2026-08-23,law,decreto-2026-08-22-84-suplemento-numero-2,ley-de-profesiones,2,main
+2026-08-30,law,decreto-2026-08-29-86-suplemento-numero-3,codigo-penal,2,main
+2026-09-01,law,decreto-2026-08-31-87-edicion-extraordinaria,constitucion-politica,4,main
+2026-10-04,law,decreto-2026-10-03-101-edicion-ordinaria,ley-de-pensiones-de-los-servidores-publicos,2,main
+2026-10-11,law,decreto-2026-10-10-103-suplemento-numero-2,ley-para-la-prevencion-tratamiento-y-control-de-las-adiccion,106,main
+2026-10-11,law,decreto-2026-10-10-103-suplemento-numero-3,codigo-penal,2,main
+2026-10-11,law,decreto-2026-10-10-103-suplemento-numero-4,ley-de-seguridad-integral-escolar,61,main
+2026-10-11,law,decreto-2026-10-10-103-suplemento-numero-3-2,codigo-penal,3,main
